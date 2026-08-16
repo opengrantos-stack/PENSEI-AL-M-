@@ -18,17 +18,17 @@ Se cometer um erro, pode perguntar exatamente onde errou.
 
 Essa é uma das possibilidades mais interessantes da inteligência artificial:
 
-**transformá-la em um tutor pessoal.**
+**transformá-la em uma espécie de tutor pessoal.**
 
 Mas existe uma diferença importante.
 
 Não estamos falando de substituir professores.
 
-Estamos falando de criar uma ferramenta que pode acompanhar o processo de aprendizagem individual.
+Estamos falando de utilizar uma ferramenta que pode adaptar a interação ao estudante e acompanhar parte do seu processo de aprendizagem.
 
 ---
 
-# Um professor para cada necessidade
+# Um tutor para diferentes necessidades
 
 Em uma sala de aula, um professor precisa dividir sua atenção entre muitas pessoas.
 
@@ -38,7 +38,7 @@ Cada estudante possui:
 - dificuldades diferentes;
 - interesses diferentes;
 - velocidades diferentes;
-- formas diferentes de aprender.
+- conhecimentos prévios diferentes.
 
 Uma IA pode adaptar uma conversa ao estudante que está diante dela.
 
@@ -55,6 +55,12 @@ Ou:
 > “Entendi a teoria, mas tenho dificuldade em aplicar.”
 
 Cada situação pede uma abordagem diferente.
+
+A IA pode ajudar a adaptar explicações, exemplos, perguntas e exercícios ao contexto apresentado.
+
+Mas isso não significa que ela compreenderá perfeitamente todas as necessidades do estudante.
+
+Por isso, o acompanhamento humano continua sendo importante, especialmente em assuntos complexos ou importantes.
 
 ---
 
@@ -122,16 +128,18 @@ Não pedimos apenas uma explicação.
 
 Criamos um processo.
 
-A IA precisa:
+A IA pode:
 
 1. descobrir o nível;
-2. definir o percurso;
+2. ajudar a definir o percurso;
 3. ensinar;
 4. fazer perguntas;
-5. verificar compreensão;
+5. verificar a compreensão;
 6. propor exercícios;
 7. corrigir;
-8. avançar.
+8. avançar gradualmente.
+
+A qualidade desse processo dependerá das informações fornecidas, das perguntas feitas e da capacidade de verificar as respostas.
 
 ---
 
@@ -159,17 +167,17 @@ Uma abordagem melhor:
 
 Agora você participa do raciocínio.
 
-Isso é muito mais próximo de aprendizagem.
+Isso pode tornar o aprendizado muito mais ativo.
 
 ---
 
-# Use perguntas socráticas
+# Use perguntas baseadas em investigação
 
 Existe uma antiga forma de ensinar baseada em perguntas.
 
-Em vez de entregar imediatamente a resposta, o professor conduz o estudante através de perguntas.
+Em vez de entregar imediatamente a resposta, o professor conduz o estudante através de questões que estimulam o raciocínio.
 
-A IA pode fazer algo parecido.
+A IA pode simular uma abordagem desse tipo.
 
 Por exemplo:
 
@@ -191,13 +199,13 @@ Cada pergunta obriga o estudante a pensar.
 
 O objetivo não é tornar o aprendizado mais difícil.
 
-É tornar o estudante mais ativo.
+É tornar o estudante mais ativo no processo.
 
 ---
 
 # Peça explicações diferentes
 
-Às vezes uma explicação simplesmente não funciona.
+Às vezes, uma explicação simplesmente não funciona.
 
 Isso não significa que você não consegue aprender.
 
@@ -221,15 +229,21 @@ Depois:
 
 Você pode continuar mudando a abordagem até encontrar uma forma que faça sentido.
 
+Mas lembre-se:
+
+**uma explicação clara não é necessariamente uma explicação correta.**
+
+Quando o assunto for importante, procure confirmar o conhecimento através de fontes confiáveis, materiais de estudo ou orientação de alguém qualificado.
+
 ---
 
 # A dificuldade deve aumentar
 
 Um bom processo de aprendizagem não deve permanecer sempre no mesmo nível.
 
-Se os exercícios forem muito fáceis, você não cresce.
+Se os exercícios forem muito fáceis, você pode não avançar.
 
-Se forem muito difíceis, pode ficar frustrante.
+Se forem muito difíceis, pode ficar difícil identificar o que realmente precisa ser aprendido.
 
 Por isso, podemos pedir:
 
@@ -243,7 +257,7 @@ Agora a aprendizagem começa a adaptar-se ao desempenho.
 
 ---
 
-# O professor também pode fazer provas
+# O tutor também pode fazer avaliações
 
 Depois de estudar alguns conceitos, peça um teste.
 
@@ -259,11 +273,11 @@ Depois da avaliação:
 
 > “Quais erros aparecem com mais frequência?”
 
-Agora temos diagnóstico.
+Agora temos um diagnóstico.
 
 Não estamos apenas acumulando conteúdo.
 
-Estamos identificando o que realmente foi aprendido.
+Estamos identificando aquilo que realmente conseguimos compreender e aplicar.
 
 ---
 
@@ -283,3 +297,7 @@ Receber feedback
 Corrigir
    ↓
 Praticar novamente
+   ↓
+Avaliar
+   ↓
+Avançar
