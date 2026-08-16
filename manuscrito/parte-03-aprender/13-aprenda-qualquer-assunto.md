@@ -327,3 +327,9 @@ Receber feedback
 Corrigir
    ↓
 Praticar novamente
+   ↓
+Aumentar a dificuldade
+   ↓
+Ensinar ou explicar
+   ↓
+Repetir
