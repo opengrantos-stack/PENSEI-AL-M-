@@ -1,6 +1,6 @@
-CAPÍTULO 42 — NÃO ACREDITE EM TUDO QUE A IA DIZ
+# CAPÍTULO 42 — NÃO ACREDITE EM TUDO QUE A IA DIZ
 
-A ferramenta pode ajudar você a pensar, mas não deve pensar no seu lugar
+## A ferramenta pode ajudar você a pensar, mas não deve pensar no seu lugar
 
 Existe uma diferença entre utilizar uma ferramenta e entregar a ela o controle.
 
@@ -20,15 +20,15 @@ Tudo isso pode aumentar sua capacidade.
 
 O perigo começa quando deixamos de perguntar:
 
-«“O que eu penso sobre isso?”»
+> **“O que eu penso sobre isso?”**
 
 e passamos a perguntar apenas:
 
-«“O que a IA pensa?”»
+> “O que a IA pensa?”
 
 ---
 
-A IA não possui a sua vida
+## A IA não possui a sua vida
 
 Uma ferramenta pode conhecer milhares de informações.
 
@@ -51,7 +51,7 @@ Por isso, uma resposta pode ser útil sem ser a decisão certa para você.
 
 ---
 
-Conselho não é ordem
+## Conselho não é ordem
 
 Quando uma IA sugere alguma coisa, interprete como uma possibilidade.
 
@@ -59,17 +59,17 @@ Não como uma ordem.
 
 Você pode perguntar:
 
-«“Por que esta opção?”»
+> “Por que esta opção?”
 
-«“Que alternativas existem?”»
+> “Que alternativas existem?”
 
-«“O que estou deixando de considerar?”»
+> “O que estou deixando de considerar?”
 
 Isso mantém você no controle.
 
 ---
 
-Uma resposta pode parecer personalizada e ainda assim estar incompleta
+## Uma resposta pode parecer personalizada e ainda assim estar incompleta
 
 A IA pode adaptar uma resposta ao que você escreveu.
 
@@ -85,17 +85,17 @@ Pode haver uma consequência que ninguém considerou.
 
 Por isso, antes de seguir uma recomendação importante, pergunte:
 
-«“O que você ainda não sabe sobre esta situação?”»
+> **“O que você ainda não sabe sobre esta situação?”**
 
 ---
 
-Pergunte o que está faltando
+## Pergunte o que está faltando
 
 Essa é uma das melhores formas de melhorar uma conversa com IA.
 
 Depois de receber uma resposta, pergunte:
 
-«“Que informações adicionais seriam necessárias para tornar essa análise mais confiável?”»
+> “Que informações adicionais seriam necessárias para tornar essa análise mais confiável?”
 
 A resposta pode revelar lacunas.
 
@@ -107,27 +107,27 @@ Está na pergunta incompleta.
 
 ---
 
-Uma pergunta mal formulada pode produzir uma resposta excelente para o problema errado
+## Uma pergunta mal formulada pode produzir uma resposta excelente para o problema errado
 
 Imagine que você pergunte:
 
-«“Qual é a maneira mais rápida de fazer isso?”»
+> “Qual é a maneira mais rápida de fazer isso?”
 
 A IA pode responder muito bem.
 
 Mas talvez a pergunta correta fosse:
 
-«“Devo fazer isso?”»
+> “Devo fazer isso?”
 
 Você resolveu a velocidade antes de confirmar se o caminho fazia sentido.
 
 Por isso:
 
-«perguntas melhores vêm antes de respostas melhores.»
+> **perguntas melhores vêm antes de respostas melhores.**
 
 ---
 
-Não use IA apenas para confirmar o que você já acredita
+## Não use IA apenas para confirmar o que você já acredita
 
 Existe uma tentação:
 
@@ -145,13 +145,13 @@ Experimente fazer o contrário.
 
 Pergunte:
 
-«“Qual é o melhor argumento contra minha posição?”»
+> “Qual é o melhor argumento contra minha posição?”
 
 Agora você está procurando informação que pode desafiar seu pensamento.
 
 ---
 
-Procure o desacordo útil
+## Procure o desacordo útil
 
 Nem toda crítica é boa.
 
@@ -169,19 +169,19 @@ Procure também resistência.
 
 ---
 
-Faça a IA assumir perspectivas diferentes
+## Faça a IA assumir perspectivas diferentes
 
 Você pode pedir:
 
-«“Analise esta ideia como um cliente.”»
+> “Analise esta ideia como um cliente.”
 
 Depois:
 
-«“Agora como alguém que precisa implementar.”»
+> “Agora como alguém que precisa implementar.”
 
 Depois:
 
-«“Agora como alguém que discorda completamente.”»
+> “Agora como alguém que discorda completamente.”
 
 Cada perspectiva pode revelar algo diferente.
 
@@ -191,17 +191,17 @@ Mas amplia o campo de visão.
 
 ---
 
-A resposta mais confortável nem sempre é a mais útil
+## A resposta mais confortável nem sempre é a mais útil
 
 Imagine duas respostas.
 
 Uma diz:
 
-«“Sua ideia é excelente. Continue.”»
+> “Sua ideia é excelente. Continue.”
 
 Outra diz:
 
-«“A ideia possui potencial, mas existem três problemas importantes.”»
+> “A ideia possui potencial, mas existem três problemas importantes.”
 
 A segunda pode ser menos agradável.
 
@@ -213,7 +213,7 @@ Use-a também para descobrir problemas.
 
 ---
 
-Não terceirize decisões pessoais
+## Não terceirize decisões pessoais
 
 Existem decisões que exigem contexto humano.
 
@@ -227,13 +227,13 @@ Mas decisões que envolvem valores pessoais precisam continuar sendo suas.
 
 Pergunte:
 
-«“O que realmente importa para mim nesta situação?”»
+> “O que realmente importa para mim nesta situação?”
 
 Essa resposta não precisa vir da tecnologia.
 
 ---
 
-A IA pode conhecer padrões, mas você conhece sua realidade
+## A IA pode conhecer padrões, mas você conhece sua realidade
 
 Imagine que uma solução funciona muito bem em centenas de situações.
 
@@ -249,13 +249,13 @@ Uma boa decisão considera o padrão e o contexto.
 
 ---
 
-Cuidado com respostas absolutas
+## Cuidado com respostas absolutas
 
 Frases como:
 
-«“Sempre faça isto.”»
+> “Sempre faça isto.”
 
-«“Nunca faça aquilo.”»
+> “Nunca faça aquilo.”
 
 devem despertar atenção.
 
@@ -265,29 +265,29 @@ Uma estratégia pode ser excelente em uma situação e inadequada em outra.
 
 Pergunte:
 
-«“Em que condições isso deixa de funcionar?”»
+> “Em que condições isso deixa de funcionar?”
 
 ---
 
-Procure limites
+## Procure limites
 
 Toda ferramenta possui limites.
 
 Pergunte:
 
-«“Onde esta recomendação pode falhar?”»
+> “Onde esta recomendação pode falhar?”
 
 Essa pergunta é especialmente útil quando a resposta parece boa demais.
 
 ---
 
-A IA pode ser excelente para gerar opções
+## A IA pode ser excelente para gerar opções
 
 Uma das utilizações mais fortes da IA é ampliar o número de possibilidades.
 
 Você pode pedir:
 
-«“Dá-me dez abordagens diferentes.”»
+> “Dá-me dez abordagens diferentes.”
 
 Depois avaliar.
 
@@ -297,13 +297,15 @@ Você escolhe.
 
 Esse é um equilíbrio saudável:
 
-IA → amplia opções
-Você → avalia opções
-Realidade → testa a escolha
+**IA → amplia opções**
+
+**Você → avalia opções**
+
+**Realidade → testa a escolha**
 
 ---
 
-Não confunda quantidade com qualidade
+## Não confunda quantidade com qualidade
 
 Uma IA pode produzir cinquenta ideias rapidamente.
 
@@ -313,15 +315,15 @@ Seu trabalho passa a ser selecionar.
 
 Pergunte:
 
-«“Quais três realmente resolvem o problema?”»
+> “Quais três realmente resolvem o problema?”
 
 Depois:
 
-«“Qual delas merece ser testada primeiro?”»
+> “Qual delas merece ser testada primeiro?”
 
 ---
 
-A habilidade de selecionar se torna mais importante
+## A habilidade de selecionar se torna mais importante
 
 Quando criar fica barato, selecionar fica valioso.
 
@@ -340,37 +342,37 @@ O julgamento seleciona.
 
 ---
 
-Não deixe a fluidez esconder a falta de profundidade
+## Não deixe a fluidez esconder a falta de profundidade
 
 Uma resposta pode parecer profunda porque utiliza palavras sofisticadas.
 
 Mas pergunte:
 
-«“Existe realmente uma ideia nova aqui?”»
+> “Existe realmente uma ideia nova aqui?”
 
-«“Existe evidência?”»
+> “Existe evidência?”
 
-«“Existe lógica?”»
+> “Existe lógica?”
 
-«“Existe aplicação?”»
+> “Existe aplicação?”
 
 Linguagem bonita não substitui pensamento.
 
 ---
 
-Aprenda a detectar afirmações vagas
+## Aprenda a detectar afirmações vagas
 
 Observe frases como:
 
-«“Estudos mostram…”»
+> “Estudos mostram…”
 
 Qual estudo?
 
-«“Especialistas concordam…”»
+> “Especialistas concordam…”
 
 Quais especialistas?
 
-«“É comprovado que…”»
+> “É comprovado que…”
 
 Comprovado onde?
 
@@ -378,11 +380,11 @@ Quando uma afirmação importante aparece sem sustentação, investigue.
 
 ---
 
-A confiança deve acompanhar a evidência
+## A confiança deve acompanhar a evidência
 
 Uma regra simples:
 
-«quanto maior a afirmação, maior deve ser a qualidade da evidência.»
+> **quanto maior a afirmação, maior deve ser a qualidade da evidência.**
 
 Uma sugestão criativa pode existir sem evidência.
 
@@ -392,7 +394,7 @@ Uma decisão de alto impacto precisa de ainda mais cuidado.
 
 ---
 
-Não tenha vergonha de verificar
+## Não tenha vergonha de verificar
 
 Verificar não significa desconfiar da tecnologia.
 
@@ -404,65 +406,65 @@ Com IA não deveria ser diferente.
 
 ---
 
-Transforme a IA em parceira de investigação
+## Transforme a IA em parceira de investigação
 
 Em vez de perguntar apenas:
 
-«“Qual é a resposta?”»
+> “Qual é a resposta?”
 
 Experimente:
 
-«“Ajuda-me a investigar esta questão.”»
+> “Ajuda-me a investigar esta questão.”
 
 Depois:
 
-«“Quais são as principais hipóteses?”»
+> “Quais são as principais hipóteses?”
 
-«“Que evidências seriam necessárias?”»
+> “Que evidências seriam necessárias?”
 
-«“Quais fontes devo procurar?”»
+> “Quais fontes devo procurar?”
 
-«“Que argumentos contradizem cada hipótese?”»
+> “Que argumentos contradizem cada hipótese?”
 
 Agora a IA está ajudando você a estruturar uma investigação.
 
 ---
 
-Use perguntas em sequência
+## Use perguntas em sequência
 
 Uma boa conversa pode evoluir.
 
 Primeiro:
 
-«“Explique o problema.”»
+> “Explique o problema.”
 
 Depois:
 
-«“Quais são as causas?”»
+> “Quais são as causas?”
 
 Depois:
 
-«“Quais são as alternativas?”»
+> “Quais são as alternativas?”
 
 Depois:
 
-«“Quais são os riscos?”»
+> “Quais são os riscos?”
 
 Depois:
 
-«“Que informações ainda faltam?”»
+> “Que informações ainda faltam?”
 
 Finalmente:
 
-«“Qual seria o menor teste possível?”»
+> “Qual seria o menor teste possível?”
 
 Isso é muito diferente de perguntar simplesmente:
 
-«“O que devo fazer?”»
+> “O que devo fazer?”
 
 ---
 
-Não aceite uma conclusão antes de entender o caminho
+## Não aceite uma conclusão antes de entender o caminho
 
 Quando uma resposta chega rapidamente, pode ser tentador saltar para a conclusão.
 
@@ -470,7 +472,7 @@ Mas, em assuntos importantes, entenda o raciocínio.
 
 Pergunte:
 
-«“Mostre os principais fatores que levaram a essa conclusão.”»
+> “Mostre os principais fatores que levaram a essa conclusão.”
 
 Você não precisa conhecer cada detalhe técnico.
 
@@ -478,23 +480,23 @@ Precisa compreender o suficiente para avaliar.
 
 ---
 
-O objetivo não é desconfiar de tudo
+## O objetivo não é desconfiar de tudo
 
 Existe um extremo oposto.
 
 Depois de descobrir que a IA pode errar, alguém pode pensar:
 
-«“Então não posso confiar em nada.”»
+> “Então não posso confiar em nada.”
 
 Também não.
 
 A questão não é confiança absoluta nem desconfiança absoluta.
 
-É confiança proporcional à evidência e ao risco.
+É **confiança proporcional à evidência e ao risco**.
 
 ---
 
-Confie mais quando houver boas razões
+## Confie mais quando houver boas razões
 
 Se uma informação:
 
@@ -512,7 +514,7 @@ Não é necessário questionar eternamente.
 
 ---
 
-Aprenda a parar de perguntar
+## Aprenda a parar de perguntar
 
 Existe também um excesso de análise.
 
@@ -530,13 +532,13 @@ Em algum momento, é preciso agir.
 
 Depois de reunir informação suficiente:
 
-«teste.»
+> **teste.**
 
 A realidade pode responder melhor do que mais uma hora de conversa.
 
 ---
 
-A realidade é o teste final
+## A realidade é o teste final
 
 Uma ideia pode parecer perfeita.
 
@@ -548,7 +550,7 @@ Mas quando aplicada, pode produzir outro resultado.
 
 Por isso:
 
-«sempre que for seguro e apropriado, teste no mundo real.»
+> **sempre que for seguro e apropriado, teste no mundo real.**
 
 A realidade possui uma capacidade especial:
 
@@ -556,7 +558,7 @@ ela mostra o que acontece.
 
 ---
 
-Use pequenos testes para reduzir riscos
+## Use pequenos testes para reduzir riscos
 
 Se você não tem certeza, não precisa apostar tudo.
 
@@ -576,15 +578,15 @@ Isso combina inteligência artificial com pensamento experimental.
 
 ---
 
-Não transforme uma ferramenta em identidade
+## Não transforme uma ferramenta em identidade
 
 Existe uma diferença entre:
 
-«“Uso IA para aumentar minha capacidade.”»
+> “Uso IA para aumentar minha capacidade.”
 
 e:
 
-«“Sem IA não consigo fazer nada.”»
+> “Sem IA não consigo fazer nada.”
 
 A primeira é utilização.
 
@@ -594,7 +596,7 @@ A ferramenta deve aumentar sua capacidade, não apagar a sua.
 
 ---
 
-Continue desenvolvendo suas próprias habilidades
+## Continue desenvolvendo suas próprias habilidades
 
 Mesmo usando IA, continue aprendendo:
 
@@ -610,15 +612,15 @@ Quanto mais você entende, melhor consegue utilizar a ferramenta.
 
 ---
 
-Quanto mais você sabe, melhor pergunta
+## Quanto mais você sabe, melhor pergunta
 
 Uma pessoa que entende pouco pode perguntar:
 
-«“Faça tudo.”»
+> “Faça tudo.”
 
 Uma pessoa que entende mais pode perguntar:
 
-«“Compare estas duas abordagens considerando custo, manutenção e escalabilidade.”»
+> “Compare estas duas abordagens considerando custo, manutenção e escalabilidade.”
 
 A segunda pergunta produz mais valor porque existe mais contexto e intenção.
 
@@ -626,43 +628,43 @@ Por isso, aprender continua sendo essencial.
 
 ---
 
-EXPERIMENTE
+# EXPERIMENTE
 
 Na próxima conversa importante com uma IA, faça este processo:
 
-Passo 1
+### Passo 1
 
 Peça uma primeira análise.
 
-Passo 2
+### Passo 2
 
 Pergunte:
 
-«“O que pode estar errado nesta análise?”»
+> “O que pode estar errado nesta análise?”
 
-Passo 3
+### Passo 3
 
 Pergunte:
 
-«“Que informação está faltando?”»
+> “Que informação está faltando?”
 
-Passo 4
+### Passo 4
 
 Peça alternativas.
 
-Passo 5
+### Passo 5
 
 Peça os principais argumentos contra a opção que parece melhor.
 
-Passo 6
+### Passo 6
 
 Verifique os fatos importantes.
 
-Passo 7
+### Passo 7
 
 Escolha um pequeno teste.
 
-Passo 8
+### Passo 8
 
 Observe o resultado real.
 
@@ -670,7 +672,7 @@ Esse processo transforma a IA de uma máquina de respostas em uma ferramenta de 
 
 ---
 
-ERRO COMUM
+# ERRO COMUM
 
 O primeiro erro é tratar a IA como autoridade.
 
@@ -684,11 +686,11 @@ Outro é continuar perguntando quando já existe informação suficiente para te
 
 E existe outro erro:
 
-deixar a ferramenta substituir o julgamento que deveria continuar sendo seu.
+**deixar a ferramenta substituir o julgamento que deveria continuar sendo seu.**
 
 ---
 
-PENSE ALÉM
+# PENSE ALÉM
 
 A inteligência artificial pode saber mais coisas do que uma pessoa consegue memorizar.
 
@@ -712,7 +714,7 @@ A ferramenta pode acelerar.
 
 Você precisa escolher a direção.
 
-«Não use inteligência artificial para deixar de pensar. Use-a para ter mais coisas sobre as quais pensar.»
+> **Não use inteligência artificial para deixar de pensar. Use-a para ter mais coisas sobre as quais pensar.**
 
 Essa talvez seja uma das melhores maneiras de utilizar uma tecnologia poderosa.
 
@@ -730,4 +732,4 @@ Com responsabilidade.
 
 E com a consciência de que uma resposta nunca deve ser mais importante do que a realidade que ela pretende explicar.
 
-Pense além.
+**Pense além.**
