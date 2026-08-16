@@ -44,13 +44,11 @@ Confundimos.
 
 Perdemos.
 
-E às vezes gastamos energia tentando lembrar aquilo que já deveríamos ter registrado.
+E, às vezes, gastamos energia tentando lembrar aquilo que já deveríamos ter registrado.
 
 E se parte desse trabalho pudesse sair da nossa cabeça?
 
 É aqui que nasce o conceito de **Cérebro Digital**.
-
----
 
 ## O que é um Cérebro Digital?
 
@@ -92,9 +90,7 @@ O importante não é a ferramenta.
 
 É o sistema.
 
----
-
-# O Cérebro Digital não pensa no seu lugar
+## O Cérebro Digital não pensa no seu lugar
 
 Existe uma diferença fundamental que precisamos estabelecer desde o início.
 
@@ -118,9 +114,7 @@ O objetivo não é pensar menos.
 
 É **liberar espaço para pensar melhor**.
 
----
-
-# A primeira camada: capturar
+## A primeira camada: capturar
 
 Tudo começa com a captura.
 
@@ -154,9 +148,7 @@ Depois você poderá desenvolver a ideia.
 
 O importante naquele momento é não perdê-la.
 
----
-
-# A segunda camada: organizar
+## A segunda camada: organizar
 
 Capturar tudo não é suficiente.
 
