@@ -10,11 +10,11 @@ Depois descobre outra:
 
 Nem sempre responde da maneira que esperávamos.
 
-Às vezes a resposta é genérica.
+Às vezes, a resposta é genérica.
 
-Às vezes parece inteligente, mas não resolve o problema.
+Às vezes, parece inteligente, mas não resolve o problema.
 
-Às vezes apresenta uma solução completamente diferente daquilo que tínhamos imaginado.
+Às vezes, apresenta uma solução completamente diferente daquilo que tínhamos imaginado.
 
 Então surge uma pergunta:
 
@@ -23,8 +23,6 @@ Então surge uma pergunta:
 A resposta não está necessariamente em encontrar uma fórmula secreta.
 
 Está em aprender a **comunicar melhor o pensamento**.
-
----
 
 ## Perguntar sempre foi uma habilidade
 
@@ -50,9 +48,7 @@ Agora temos uma ferramenta que pode responder a uma enorme variedade de pergunta
 
 Isso significa que precisamos aprender não apenas **o que perguntar**, mas também **como pensar sobre aquilo que queremos perguntar**.
 
----
-
-# Uma pergunta pequena pode esconder um problema grande
+## Uma pergunta pequena pode esconder um problema grande
 
 Imagine que alguém diga:
 
@@ -78,15 +74,13 @@ Sem contexto, existem milhares de possibilidades.
 
 A IA precisa preencher as lacunas.
 
-E quando ela preenche as lacunas, pode escolher exatamente aquilo que você não queria.
+E, quando ela preenche as lacunas, pode escolher exatamente aquilo que você não queria.
 
 O problema não está necessariamente na inteligência da ferramenta.
 
 Está na falta de informação sobre **a intenção de quem pergunta**.
 
----
-
-# Contexto transforma a conversa
+## Contexto transforma a conversa
 
 Compare duas perguntas.
 
@@ -115,43 +109,41 @@ Não é uma questão de escrever uma pergunta enorme.
 
 É uma questão de fornecer **o contexto necessário**.
 
----
-
-# A anatomia de uma boa pergunta
+## A anatomia de uma boa pergunta
 
 Uma boa solicitação pode ser construída a partir de alguns elementos simples.
 
-## 1. Contexto
+### 1. Contexto
 
 Explique a situação.
 
 > “Estou criando uma pequena aplicação para agricultores.”
 
-## 2. Objetivo
+### 2. Objetivo
 
 Diga o que deseja alcançar.
 
 > “Quero facilitar a publicação e descoberta de produtos agrícolas.”
 
-## 3. Informação disponível
+### 3. Informação disponível
 
 Mostre o que você já sabe.
 
 > “Já tenho uma página web e uma lista de produtos.”
 
-## 4. Limitações
+### 4. Limitações
 
 Explique o que não pode ou não quer fazer.
 
 > “Tenho poucos recursos e quero começar com uma versão simples.”
 
-## 5. Resultado desejado
+### 5. Resultado desejado
 
 Explique o que espera receber.
 
 > “Quero três possíveis formas de estruturar a aplicação.”
 
-## 6. Critério de avaliação
+### 6. Critério de avaliação
 
 Diga como as opções devem ser comparadas.
 
@@ -159,9 +151,7 @@ Diga como as opções devem ser comparadas.
 
 Agora a conversa tem direção.
 
----
-
-# Perguntar não significa mandar
+## Perguntar não significa mandar
 
 Existe outra mudança de mentalidade importante.
 
@@ -203,9 +193,7 @@ A primeira pergunta abre a porta.
 
 As seguintes ajudam a explorar o espaço.
 
----
-
-# A primeira resposta não precisa ser a última
+## A primeira resposta não precisa ser a última
 
 Uma das maiores mudanças de mentalidade é entender que conversar com IA é um processo.
 
@@ -251,9 +239,7 @@ Você não encontrou uma pergunta perfeita.
 
 **Você construiu a resposta através da conversa.**
 
----
-
-# O poder da segunda pergunta
+## O poder da segunda pergunta
 
 Muitas vezes, a segunda pergunta é mais importante que a primeira.
 
@@ -287,15 +273,13 @@ Essas perguntas fazem algo importante:
 
 Elas obrigam você a continuar pensando.
 
----
-
-# Pergunte também a si mesmo
+## Pergunte também a si mesmo
 
 Existe uma pergunta que deve vir antes de todas as outras:
 
 > **“O que realmente quero descobrir?”**
 
-Às vezes fazemos uma pergunta porque ainda não entendemos o próprio problema.
+Às vezes, fazemos uma pergunta porque ainda não entendemos o próprio problema.
 
 Imagine alguém perguntando:
 
@@ -313,9 +297,7 @@ A segunda procura o problema real.
 
 Quanto melhor você compreender a pergunta que está por trás da pergunta, melhor poderá utilizar a IA.
 
----
-
-# EXPERIMENTE
+## EXPERIMENTE
 
 Escolha uma pergunta que você faria normalmente a uma IA.
 
@@ -350,9 +332,7 @@ Agora compare as duas respostas.
 
 Observe a diferença.
 
----
-
-# EXEMPLO
+## EXEMPLO
 
 Imagine que você tenha uma ideia para uma aplicação.
 
@@ -372,9 +352,7 @@ Ela pede **perguntas que ajudam a construir o problema**.
 
 Essa pode ser uma das formas mais poderosas de trabalhar com IA.
 
----
-
-# ERRO COMUM
+## ERRO COMUM
 
 Um erro comum é acreditar que uma pergunta precisa ser complicada para ser boa.
 
@@ -390,7 +368,7 @@ O objetivo é fornecer **a informação certa**.
 
 Outro erro é tentar controlar cada palavra da resposta.
 
-Às vezes é melhor deixar espaço para a IA apresentar alternativas que você ainda não imaginou.
+Às vezes, é melhor deixar espaço para a IA apresentar alternativas que você ainda não imaginou.
 
 E existe um terceiro erro:
 
@@ -398,9 +376,7 @@ E existe um terceiro erro:
 
 A primeira resposta pode ser apenas o início.
 
----
-
-# PENSE ALÉM
+## PENSE ALÉM
 
 Talvez uma das habilidades mais importantes da era da inteligência artificial não seja saber responder.
 
