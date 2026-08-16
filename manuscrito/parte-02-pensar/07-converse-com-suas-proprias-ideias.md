@@ -34,9 +34,7 @@ Uma ideia não precisa nascer completa.
 
 Ela precisa de espaço para crescer.
 
----
-
-# O problema das ideias que ficam apenas na cabeça
+## O problema das ideias que ficam apenas na cabeça
 
 Quando uma ideia permanece somente na nossa mente, ela pode parecer perfeita.
 
@@ -48,7 +46,7 @@ As contradições podem não aparecer.
 
 As partes que não fazem sentido podem parecer óbvias para nós.
 
-Mas quando tentamos explicar a ideia para outra pessoa, algo interessante acontece.
+Mas, quando tentamos explicar a ideia para outra pessoa, algo interessante acontece.
 
 Somos obrigados a organizar o pensamento.
 
@@ -62,9 +60,7 @@ E, muitas vezes, descobrimos que ainda não entendíamos completamente a própri
 
 É por isso que conversar pode ser uma ferramenta de pensamento.
 
----
-
-# Escrever também é pensar
+## Escrever também é pensar
 
 Quando colocamos uma ideia no papel, algo muda.
 
@@ -94,9 +90,7 @@ Pode começar assim:
 
 Isso já é suficiente para começar.
 
----
-
-# A IA pode ser um interlocutor
+## A IA pode ser um interlocutor
 
 Aqui surge uma possibilidade poderosa.
 
@@ -122,9 +116,7 @@ Pode perguntar:
 
 Cada resposta torna a ideia mais clara.
 
----
-
-# Não peça uma solução cedo demais
+## Não peça uma solução cedo demais
 
 Existe uma tentação quando utilizamos IA:
 
@@ -162,9 +154,7 @@ Depois explorar.
 
 Depois construir.
 
----
-
-# A IA como espelho intelectual
+## A IA como espelho intelectual
 
 Um espelho não cria aquilo que está diante dele.
 
@@ -190,9 +180,7 @@ Não porque a IA conhece necessariamente a resposta.
 
 Mas porque o diálogo cria uma oportunidade para **examinar o que estava dentro da sua cabeça**.
 
----
-
-# Descobrindo contradições
+## Descobrindo contradições
 
 Uma ideia pode conter duas coisas que não combinam.
 
@@ -222,9 +210,7 @@ Agora não estamos apenas criando.
 
 Estamos **pensando criticamente sobre aquilo que criamos**.
 
----
-
-# Descobrindo perguntas escondidas
+## Descobrindo perguntas escondidas
 
 Às vezes, uma ideia parece uma resposta.
 
@@ -260,9 +246,7 @@ Podemos pedir à IA:
 
 Isso pode revelar um caminho completamente diferente.
 
----
-
-# Uma ideia pode mudar sem desaparecer
+## Uma ideia pode mudar sem desaparecer
 
 Questionar uma ideia não significa destruí-la.
 
@@ -298,9 +282,7 @@ E isso não significa fracasso.
 
 Significa aprendizagem.
 
----
-
-# O diálogo pode produzir novas ideias
+## O diálogo pode produzir novas ideias
 
 Existe outro efeito interessante.
 
@@ -334,9 +316,7 @@ Ela surgiu da interação entre:
 
 Essa diferença é importante.
 
----
-
-# EXPERIMENTE
+## EXPERIMENTE
 
 Escolha uma ideia que você tenha atualmente.
 
@@ -374,9 +354,7 @@ Talvez perceba que não vale a pena continuar.
 
 Todas essas respostas são úteis.
 
----
-
-# EXEMPLO
+## EXEMPLO
 
 Imagine que alguém tenha a ideia:
 
@@ -406,9 +384,7 @@ Agora a ideia deixou de ser apenas uma frase.
 
 Começou a transformar-se em um problema definido, uma hipótese e, talvez, um projeto.
 
----
-
-# ERRO COMUM
+## ERRO COMUM
 
 O maior erro é pedir à IA para terminar a ideia antes de você entendê-la.
 
@@ -428,9 +404,7 @@ Mudar uma ideia depois de descobrir algo novo não significa que você falhou.
 
 Significa que você aprendeu.
 
----
-
-# PENSE ALÉM
+## PENSE ALÉM
 
 Talvez uma das ferramentas mais poderosas que podemos construir não seja uma máquina que nos dê respostas.
 
