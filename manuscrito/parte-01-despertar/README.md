@@ -2,7 +2,9 @@
 
 ## A inteligência que chegou
 
-Esta parte apresenta ao leitor a transformação provocada pela inteligência artificial e prepara a mudança de perspectiva necessária para começar a utilizá-la de forma consciente.
+Esta parte apresenta ao leitor a transformação provocada pela inteligência artificial e prepara uma mudança de perspectiva: aprender a utilizar essa nova tecnologia de forma consciente, crítica e criativa.
+
+Antes de aprender o que a IA pode fazer, precisamos compreender **como nossa relação com ela pode mudar a maneira como pensamos, aprendemos e criamos**.
 
 ## Capítulos
 
