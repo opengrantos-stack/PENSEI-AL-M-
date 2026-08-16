@@ -212,7 +212,7 @@ Cada pergunta abre uma nova camada.
 
 # Pergunte “como sabemos?”
 
-Esta pode ser uma das perguntas mais importantes de todo o livro.
+Esta pode ser uma das perguntas mais importantes de todo o livro:
 
 > **“Como sabemos que isso é verdade?”**
 
@@ -434,5 +434,7 @@ Explicação mais profunda
 Exemplo
       ↓
 Teste
+      ↓
+Feedback
       ↓
 Compreensão
