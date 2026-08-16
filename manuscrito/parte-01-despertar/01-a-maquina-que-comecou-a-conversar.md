@@ -28,8 +28,6 @@ Então algo mudou.
 
 Começamos a conversar com máquinas.
 
----
-
 ## A máquina deixou de apenas receber comandos
 
 As tecnologias anteriores normalmente exigiam que aprendêssemos a linguagem da máquina.
@@ -66,8 +64,6 @@ Passa a parecer uma **conversa**.
 
 E essa mudança é enorme.
 
----
-
 ## A ponte entre imaginar e fazer
 
 É aqui que começa a nossa história.
@@ -98,8 +94,6 @@ Em cada situação, a pessoa continua sendo a origem da intenção.
 
 A IA torna-se uma ferramenta para **explorar o espaço entre a intenção e a execução**.
 
----
-
 ## Mas existe uma diferença fundamental
 
 Isso não significa que a IA transforma qualquer pensamento em realidade.
@@ -116,15 +110,13 @@ E uma resposta convincente pode estar errada.
 
 Por isso, existe uma regra que acompanhará todo este livro:
 
-> **A IA pode ajudar você a pensar e construir. A responsabilidade pelo que você pensa, escolhe e faz continua sendo sua.**
+**A IA pode ajudar você a pensar e construir. A responsabilidade pelo que você pensa, escolhe e faz continua sendo sua.**
 
 Essa distinção é fundamental.
 
 Não queremos criar pessoas que simplesmente aceitam respostas produzidas por máquinas.
 
 Queremos criar pessoas capazes de **trabalhar com máquinas sem deixar de pensar**.
-
----
 
 ## O verdadeiro poder está na combinação
 
@@ -136,7 +128,7 @@ Essa pergunta transforma uma relação de colaboração numa competição.
 
 Uma pergunta mais interessante seria:
 
-> **“O que podemos fazer quando combinamos capacidades humanas com capacidades artificiais?”**
+**“O que podemos fazer quando combinamos capacidades humanas com capacidades artificiais?”**
 
 O ser humano possui objetivos, experiências, valores, contexto, intuição e responsabilidade.
 
@@ -151,8 +143,6 @@ A combinação pode ser mais poderosa.
 Não uma nova mente que substitui a sua.
 
 Uma ferramenta que pode **ampliar o alcance da sua mente**.
-
----
 
 ## EXPERIMENTE
 
@@ -177,7 +167,7 @@ Não tente explicar perfeitamente.
 
 Escreva para uma IA:
 
-> **“Tenho esta ideia: [explique a ideia]. Ajude-me a transformá-la em um projeto. Primeiro, faça perguntas para entender melhor o que quero construir. Depois, apresente possíveis caminhos para desenvolver a ideia.”**
+**“Tenho esta ideia: [explique a ideia]. Ajude-me a transformá-la em um projeto. Primeiro, faça perguntas para entender melhor o que quero construir. Depois, apresente possíveis caminhos para desenvolver a ideia.”**
 
 Observe o que acontece.
 
@@ -195,15 +185,13 @@ Peça alternativas.
 
 Depois pergunte:
 
-> **“O que estou deixando de considerar?”**
+**“O que estou deixando de considerar?”**
 
 Esse último pedido é importante.
 
 Porque o objetivo não é fazer a IA pensar por você.
 
 É fazer a conversa **ampliar o seu próprio pensamento**.
-
----
 
 ## ERRO COMUM
 
@@ -215,29 +203,27 @@ Uma conversa pode começar mal.
 
 Você pode dizer:
 
-> “Não gostei dessa resposta.”
+**“Não gostei dessa resposta.”**
 
 E explicar por quê.
 
 Pode acrescentar:
 
-> “Quero algo mais simples.”
+**“Quero algo mais simples.”**
 
 Ou:
 
-> “Isso não resolve meu problema.”
+**“Isso não resolve meu problema.”**
 
 Ou:
 
-> “Considere este novo detalhe.”
+**“Considere este novo detalhe.”**
 
 A interação pode evoluir.
 
 A primeira resposta não precisa ser o resultado final.
 
 **Ela pode ser apenas o começo do pensamento.**
-
----
 
 ## PENSE ALÉM
 
@@ -263,7 +249,7 @@ E quando uma barreira diminui, algo interessante acontece:
 
 Essa é a primeira ideia que quero que você leve consigo:
 
-> **A IA não precisa substituir aquilo que você pensa. Ela pode ampliar aquilo que você consegue fazer com o que pensa.**
+**A IA não precisa substituir aquilo que você pensa. Ela pode ampliar aquilo que você consegue fazer com o que pensa.**
 
 E essa é apenas a primeira porta.
 
