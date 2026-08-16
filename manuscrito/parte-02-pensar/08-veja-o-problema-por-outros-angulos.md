@@ -471,4 +471,4 @@ Significa conseguir perceber quando podemos estar errados.
 
 E às vezes, antes de mudar a resposta, precisamos simplesmente mudar de ângulo.
 
-**Pense além.**
+**Pense além.** 
