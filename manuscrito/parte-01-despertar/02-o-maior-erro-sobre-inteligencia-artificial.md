@@ -22,11 +22,9 @@ Porque, pela primeira vez, estamos diante de ferramentas capazes de participar d
 
 E isso pode criar uma tentação:
 
-> **“Se a IA pode pensar por mim, por que eu deveria pensar?”**
+**“Se a IA pode pensar por mim, por que eu deveria pensar?”**
 
 Essa pode ser uma das perguntas mais perigosas da era da inteligência artificial.
-
----
 
 ## O problema não é usar IA
 
@@ -64,8 +62,6 @@ A primeira amplia o pensamento.
 
 A segunda pode substituí-lo.
 
----
-
 ## Resposta não é conhecimento
 
 Existe outro problema.
@@ -78,7 +74,7 @@ Uma IA pode interpretar uma informação de maneira incorreta, utilizar dados in
 
 Por isso, precisamos abandonar uma ideia perigosa:
 
-> **“Se a IA respondeu com confiança, deve estar certa.”**
+**“Se a IA respondeu com confiança, deve estar certa.”**
 
 Não.
 
@@ -89,8 +85,6 @@ O leitor deste livro precisa desenvolver um novo hábito:
 **receber → questionar → verificar → compreender → decidir.**
 
 Esse processo é mais importante do que encontrar o prompt perfeito.
-
----
 
 ## A nova alfabetização
 
@@ -121,8 +115,6 @@ E, principalmente:
 A verdadeira habilidade não será simplesmente conseguir uma resposta da IA.
 
 Será conseguir **fazer alguma coisa inteligente com a resposta**.
-
----
 
 ## O ser humano continua sendo o responsável
 
@@ -158,8 +150,6 @@ Existem valores, objetivos, experiências e consequências.
 
 É por isso que a IA pode ajudar na análise, mas a decisão precisa continuar ligada à pessoa que será responsável por ela.
 
----
-
 ## A calculadora não matou a matemática
 
 Pense na calculadora.
@@ -185,8 +175,6 @@ Se consegue criar um protótipo, podemos testar uma ideia mais rapidamente.
 A ferramenta não precisa diminuir o pensamento.
 
 **Pode liberar espaço para pensamentos melhores.**
-
----
 
 ## O verdadeiro ganho
 
@@ -217,8 +205,6 @@ Recomeçar.
 A distância entre pensamento e experimentação diminui.
 
 E isso pode transformar a maneira como aprendemos e criamos.
-
----
 
 ## Mas existe uma armadilha
 
@@ -260,8 +246,6 @@ Mas apenas uma delas realmente **trabalhou com a ferramenta**.
 
 Essa diferença será fundamental para tudo o que veremos neste livro.
 
----
-
 ## EXPERIMENTE
 
 Escolha uma decisão simples que você precise tomar.
@@ -270,15 +254,15 @@ Pode ser relacionada a um projeto, estudo ou atividade pessoal.
 
 Em vez de perguntar:
 
-> **“O que devo fazer?”**
+**“O que devo fazer?”**
 
 experimente perguntar:
 
-> **“Estou considerando estas opções: [A], [B] e [C]. Analise cada uma. Mostre vantagens, desvantagens, riscos, oportunidades e quais informações ainda preciso descobrir antes de decidir.”**
+**“Estou considerando estas opções: [A], [B] e [C]. Analise cada uma. Mostre vantagens, desvantagens, riscos, oportunidades e quais informações ainda preciso descobrir antes de decidir.”**
 
 Depois faça algo ainda mais importante:
 
-> **“Agora questione sua própria análise. Que argumentos poderiam tornar sua recomendação menos adequada?”**
+**“Agora questione sua própria análise. Que argumentos poderiam tornar sua recomendação menos adequada?”**
 
 Leia a resposta.
 
@@ -296,8 +280,6 @@ O objetivo deste exercício não é descobrir o que a IA escolheria.
 
 É descobrir **o que você consegue enxergar depois de conversar com ela**.
 
----
-
 ## ERRO COMUM
 
 O erro mais comum é transformar a IA em uma autoridade.
@@ -314,15 +296,13 @@ Mas uma ferramenta não deve ser utilizada como desculpa para abandonar a respon
 
 A pergunta correta não é:
 
-> **“A IA disse isso?”**
+**“A IA disse isso?”**
 
 É:
 
-> **“Isso faz sentido? Como posso verificar? Quais são as evidências? O que estou deixando de considerar?”**
+**“Isso faz sentido? Como posso verificar? Quais são as evidências? O que estou deixando de considerar?”**
 
 Quanto mais importante for a decisão, maior deve ser o cuidado.
-
----
 
 ## PENSE ALÉM
 
@@ -336,11 +316,11 @@ Talvez o verdadeiro desafio da nova era seja justamente esse:
 
 Se uma máquina pode fazer parte do trabalho por você, talvez a pergunta não seja:
 
-> **“O que vou deixar de fazer?”**
+**“O que vou deixar de fazer?”**
 
 Mas:
 
-> **“O que farei com a capacidade que acabei de ganhar?”**
+**“O que farei com a capacidade que acabei de ganhar?”**
 
 Você pode aprender mais.
 
@@ -360,7 +340,7 @@ Mas existe algo que continua sendo seu:
 
 **a escolha de onde ir.**
 
-> **Use a inteligência artificial para ampliar o seu pensamento. Não para terceirizá-lo.**
+**Use a inteligência artificial para ampliar o seu pensamento. Não para terceirizá-lo.**
 
 Porque pensar além não significa pensar menos.
 
