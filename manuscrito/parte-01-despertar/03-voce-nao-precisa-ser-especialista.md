@@ -4,7 +4,7 @@
 
 Existe uma frase que impede muitas ideias de nascerem:
 
-> “Eu não sei fazer isso.”
+**“Eu não sei fazer isso.”**
 
 Uma pessoa tem uma ideia para uma aplicação, mas não sabe programar.
 
@@ -25,8 +25,6 @@ A inteligência artificial está mudando parte dessa realidade.
 Não porque tornou todo mundo especialista.
 
 Mas porque pode funcionar como uma ponte.
-
----
 
 ## Você não precisa saber tudo para começar
 
@@ -54,9 +52,7 @@ Você não precisa esperar saber tudo para dar o primeiro passo.
 
 Pode dar o primeiro passo e aprender aquilo que falta ao longo do caminho.
 
----
-
-# A IA como ponte, não como muleta
+## A IA como ponte, não como muleta
 
 Existe uma diferença importante entre utilizar IA como ponte e utilizá-la como muleta.
 
@@ -92,9 +88,7 @@ O primeiro utilizou a IA para **aumentar a própria capacidade**.
 
 O segundo utilizou a IA para **evitar desenvolver a capacidade**.
 
----
-
-# A nova relação com o conhecimento
+## A nova relação com o conhecimento
 
 Durante muito tempo, aprender significava acumular uma grande quantidade de informação antes de tentar fazer alguma coisa.
 
@@ -114,13 +108,11 @@ Você não precisa saber exatamente como resolver um problema antes de começar 
 
 Pode começar sabendo apenas:
 
-> “Quero chegar aqui.”
+**“Quero chegar aqui.”**
 
 A partir daí, pode descobrir o caminho.
 
----
-
-# O especialista continua sendo importante
+## O especialista continua sendo importante
 
 Mas precisamos tomar cuidado com uma interpretação errada.
 
@@ -146,9 +138,7 @@ Pode ajudar a preparar perguntas melhores.
 
 Mas não transforma automaticamente conhecimento superficial em especialização.
 
----
-
-# A vantagem do iniciante
+## A vantagem do iniciante
 
 Existe, porém, algo interessante.
 
@@ -172,9 +162,7 @@ E começar é importante.
 
 Porque quase toda habilidade que hoje parece natural para alguém começou com uma pessoa que ainda não sabia fazer.
 
----
-
-# O ciclo do iniciante
+## O ciclo do iniciante
 
 Podemos transformar isso em um ciclo simples:
 
@@ -212,27 +200,25 @@ Cada ciclo aumenta sua capacidade.
 
 Esse processo pode transformar uma pessoa que dizia:
 
-> “Eu não sei fazer isso.”
+**“Eu não sei fazer isso.”**
 
 em alguém que começa a dizer:
 
-> “Eu ainda não sei fazer isso. Mas consigo aprender.”
+**“Eu ainda não sei fazer isso. Mas consigo aprender.”**
 
 Essa pequena mudança de pensamento pode ser poderosa.
 
----
-
-# EXPERIMENTE
+## EXPERIMENTE
 
 Escolha algo que você gostaria de aprender, mas sempre pensou:
 
-> “Isso é muito difícil para mim.”
+**“Isso é muito difícil para mim.”**
 
 Agora converse com uma IA.
 
 Em vez de pedir:
 
-> “Ensine-me tudo sobre este assunto.”
+**“Ensine-me tudo sobre este assunto.”**
 
 experimente:
 
@@ -256,9 +242,7 @@ Faça perguntas.
 
 Observe sua evolução.
 
----
-
-# EXEMPLO
+## EXEMPLO
 
 Imagine uma pessoa que nunca programou.
 
@@ -266,7 +250,7 @@ Ela tem uma ideia para uma pequena aplicação.
 
 Em vez de dizer:
 
-> “Não posso criar isso porque não sei programar.”
+**“Não posso criar isso porque não sei programar.”**
 
 ela pode começar perguntando:
 
@@ -294,9 +278,7 @@ Mas deixou de estar parada.
 
 Começou a construir uma ponte entre **não saber** e **aprender**.
 
----
-
-# ERRO COMUM
+## ERRO COMUM
 
 O erro é acreditar que, porque a IA consegue produzir algo, você precisa entender cada detalhe antes de começar.
 
@@ -320,9 +302,7 @@ O objetivo não é permanecer dependente da ferramenta.
 
 O objetivo é tornar-se **mais capaz por causa dela**.
 
----
-
-# PENSE ALÉM
+## PENSE ALÉM
 
 Talvez uma das maiores barreiras humanas não seja a falta de inteligência.
 
@@ -358,7 +338,7 @@ Mas o caminho ainda precisa ser percorrido por você.
 
 Por isso, guarde esta ideia:
 
-> **Você não precisa saber tudo para começar. Precisa estar disposto a aprender enquanto começa.**
+**Você não precisa saber tudo para começar. Precisa estar disposto a aprender enquanto começa.**
 
 A IA pode ser a ponte.
 
