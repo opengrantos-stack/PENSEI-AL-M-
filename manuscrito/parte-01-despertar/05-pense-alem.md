@@ -38,8 +38,6 @@ Testar.
 
 E então decidir.
 
----
-
 ## A primeira resposta não é necessariamente a melhor resposta
 
 Imagine que você tenha um problema.
@@ -80,9 +78,7 @@ A ideia não é complicar tudo.
 
 É evitar que a primeira resposta se transforme automaticamente na resposta final.
 
----
-
-# Pensar além da primeira ideia
+## Pensar além da primeira ideia
 
 Uma ideia pode começar pequena.
 
@@ -120,9 +116,7 @@ Mas agora ela foi explorada por diferentes ângulos.
 
 É assim que uma ideia pode crescer.
 
----
-
-# Pensar além também significa discordar
+## Pensar além também significa discordar
 
 Uma boa relação com a inteligência artificial não precisa ser baseada em concordância.
 
@@ -148,9 +142,7 @@ Isso é importante porque uma ferramenta que apenas confirma aquilo que queremos
 
 Às vezes, precisamos de uma ferramenta que nos ajude a perceber aquilo que não queremos perceber.
 
----
-
-# A IA pode ampliar o espaço de possibilidades
+## A IA pode ampliar o espaço de possibilidades
 
 Imagine que uma pessoa tenha uma única ideia.
 
@@ -172,9 +164,7 @@ Está em **aumentar o espaço que podemos explorar antes de escolher**.
 
 Essa é uma das formas pelas quais a IA pode ampliar o pensamento humano.
 
----
-
-# Pensar além não significa acreditar em tudo
+## Pensar além não significa acreditar em tudo
 
 Existe uma contradição importante.
 
@@ -198,9 +188,7 @@ A IA pode ajudar na investigação.
 
 Mas não deve ser confundida com a própria realidade.
 
----
-
-# Do pensamento para a ação
+## Do pensamento para a ação
 
 Existe ainda outro perigo.
 
@@ -208,7 +196,7 @@ Podemos passar tanto tempo pensando que nunca fazemos nada.
 
 Pensar além não significa permanecer eternamente analisando possibilidades.
 
-Em algum momento precisamos escolher.
+Em algum momento, precisamos escolher.
 
 Testar.
 
@@ -228,9 +216,7 @@ A inteligência artificial pode participar de várias etapas.
 
 Mas a passagem do pensamento para a ação continua dependendo de nós.
 
----
-
-# A nova relação com a inteligência artificial
+## A nova relação com a inteligência artificial
 
 Talvez a melhor maneira de pensar sobre IA não seja como uma máquina que sabe tudo.
 
@@ -262,9 +248,7 @@ Precisamos verificar.
 
 Precisamos decidir.
 
----
-
-# O princípio do PENSEI ALÉM
+## O princípio do PENSEI ALÉM
 
 A partir daqui, quero propor um princípio simples:
 
@@ -282,9 +266,7 @@ A IA torna-se um meio.
 
 Não o destino.
 
----
-
-# EXPERIMENTE
+## EXPERIMENTE
 
 Escolha uma ideia que você tenha atualmente.
 
@@ -318,9 +300,7 @@ Procure informação que possa melhorar o seu pensamento.
 
 Depois escolha aquilo que realmente faz sentido para você.
 
----
-
-# ERRO COMUM
+## ERRO COMUM
 
 Um erro comum é confundir **pensar além** com simplesmente fazer tudo de maneira mais complexa.
 
@@ -328,19 +308,17 @@ Nem sempre precisamos de mais.
 
 Às vezes, pensar além significa simplificar.
 
-Às vezes significa eliminar uma parte desnecessária.
+Às vezes, significa eliminar uma parte desnecessária.
 
-Às vezes significa abandonar uma ideia.
+Às vezes, significa abandonar uma ideia.
 
-Às vezes significa perceber que o problema era diferente daquele que imaginávamos.
+Às vezes, significa perceber que o problema era diferente daquele que imaginávamos.
 
 Pensar além não é adicionar coisas infinitamente.
 
 É enxergar melhor.
 
----
-
-# PENSE ALÉM
+## PENSE ALÉM
 
 Você chegou ao final da primeira parte.
 
