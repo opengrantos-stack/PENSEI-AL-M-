@@ -1,12 +1,10 @@
-# PARTE V — IMPACTAR
-
 # CAPÍTULO 30 — O QUE VOCÊ FAZ COM AQUILO QUE CRIOU
 
 ## Criar é apenas o começo
 
 Depois de aprender a pensar, construir, testar e melhorar, surge uma pergunta diferente:
 
-> **“E agora?”**
+> “E agora?”
 
 Você criou alguma coisa.
 
@@ -80,7 +78,7 @@ Mas produz mais impacto.
 
 Isso nos ensina uma coisa:
 
-> **A importância de uma criação não depende apenas da sua complexidade.**
+> “A importância de uma criação não depende apenas da sua complexidade.”
 
 Depende também do que ela consegue mudar.
 
@@ -154,7 +152,7 @@ Talvez o segundo número represente um impacto maior.
 
 Pergunte sempre:
 
-> **“O que este número significa?”**
+> “O que este número significa?”
 
 ---
 
@@ -181,7 +179,7 @@ Primeiro precisamos saber qual mudança queremos produzir.
 
 Complete:
 
-> **“Depois de utilizar minha criação, espero que a pessoa consiga ______.”**
+> “Depois de utilizar minha criação, espero que a pessoa consiga ______.”
 
 Essa frase é poderosa.
 
@@ -292,7 +290,7 @@ Uma das formas mais poderosas de impacto é criar sistemas que não dependam com
 
 Imagine:
 
-> “Se eu desaparecer amanhã, isso continua funcionando?”
+> “Se eu não estiver disponível amanhã, isso continua funcionando?”
 
 Se a resposta for sim, existe uma estrutura.
 
@@ -415,7 +413,7 @@ Valor econômico também é uma forma de impacto.
 
 O importante é compreender:
 
-> **“Que mudança estamos produzindo?”**
+> “Que mudança estamos produzindo?”
 
 ---
 
@@ -469,7 +467,7 @@ A pergunta não é:
 
 É:
 
-> **“Quanto tempo esta criação precisa continuar útil?”**
+> “Quanto tempo esta criação precisa continuar útil?”
 
 Depois podemos construir de acordo com essa necessidade.
 
@@ -499,7 +497,7 @@ Uma pessoa utilizando inteligência artificial pode produzir mais conteúdo, tes
 
 Isso cria uma possibilidade interessante:
 
-> **uma pessoa pode ter um alcance que antes exigia uma equipa maior.**
+> “Uma pessoa pode ter um alcance que antes exigia uma equipa maior.”
 
 Mas isso também aumenta a responsabilidade.
 
@@ -531,7 +529,7 @@ Mas não são a mesma coisa.
 
 Depois de lançar alguma coisa, faça uma pergunta simples:
 
-> **“O que está diferente por causa disso?”**
+> “O que está diferente por causa disso?”
 
 Se a resposta for:
 
@@ -563,11 +561,11 @@ Escolha uma criação sua.
 
 Complete:
 
-> **“Esta criação existe para ajudar ______.”**
+> “Esta criação existe para ajudar ______.”
 
 Depois:
 
-> **“Queremos que essas pessoas consigam ______.”**
+> “Queremos que essas pessoas consigam ______.”
 
 Agora defina três sinais que mostrariam que isso está acontecendo.
 
@@ -578,7 +576,106 @@ Sinal 1
 As pessoas conseguem completar a tarefa.
 
 Sinal 2
-Voltam a utilizar a solução.
+As pessoas voltam a utilizar a solução.
 
 Sinal 3
-Relatam uma melhoria concreta.
+As pessoas relatam uma melhoria concreta.
+```
+
+Depois pergunte:
+
+> “Como posso verificar cada um desses sinais?”
+
+Não procure apenas números.
+
+Procure evidências reais de mudança.
+
+Observe o que acontece.
+
+Converse com as pessoas.
+
+Compare resultados.
+
+Registre o que aprender.
+
+O objetivo não é provar que sua criação é perfeita.
+
+É descobrir se ela realmente está produzindo a mudança que você pretendia.
+
+---
+
+# ERRO COMUM
+
+Um erro comum é confundir crescimento com impacto.
+
+Mais usuários não significam automaticamente mais valor.
+
+Mais visualizações não significam necessariamente mais transformação.
+
+Mais funcionalidades não significam necessariamente uma solução melhor.
+
+Outro erro é tentar medir tudo.
+
+Nem toda consequência pode ser transformada imediatamente em um número.
+
+Escolha algumas medidas importantes e combine-as com relatos, observações e evidências qualitativas.
+
+Outro erro é esquecer que impacto pode trazer responsabilidades.
+
+Quanto maior o alcance, maior a necessidade de pensar nas consequências.
+
+---
+
+# PENSE ALÉM
+
+Criar alguma coisa coloca uma possibilidade no mundo.
+
+Mas o verdadeiro significado da criação aparece quando ela encontra outras pessoas.
+
+Uma ideia pode tornar-se uma ferramenta.
+
+Uma ferramenta pode tornar-se uma solução.
+
+Uma solução pode mudar um comportamento.
+
+Uma mudança pode inspirar outra.
+
+E uma pequena criação pode participar de uma cadeia de acontecimentos muito maior do que aquilo que o criador imaginou.
+
+Por isso, depois de criar, não pergunte apenas:
+
+> “O que construí?”
+
+Pergunte:
+
+> “O que mudou porque construí?”
+
+Essa pergunta muda a forma como enxergamos o trabalho.
+
+O objetivo deixa de ser apenas produzir.
+
+Passa a ser produzir algo que tenha significado.
+
+Algo que ajude.
+
+Algo que ensine.
+
+Algo que resolva.
+
+Algo que abra possibilidades.
+
+Algo que possa continuar gerando valor mesmo depois de ter saído das nossas mãos.
+
+> “Criar coloca algo no mundo. Impactar muda alguma coisa no mundo.”
+
+E talvez essa seja uma das maiores responsabilidades de quem aprende a criar com inteligência artificial:
+
+não usar uma ferramenta poderosa apenas para produzir mais,
+
+mas aprender a produzir melhor, com propósito, evidência e responsabilidade.
+
+Porque no fim, a pergunta mais importante não é quanto conseguimos criar.
+
+É:
+
+> “O que estamos fazendo com aquilo que criamos?”
