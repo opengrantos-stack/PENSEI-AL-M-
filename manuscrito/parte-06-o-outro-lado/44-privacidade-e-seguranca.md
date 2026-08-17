@@ -65,7 +65,7 @@ E nem toda tarefa exige que você a compartilhe.
 
 Uma senha é uma chave.
 
-Quem possui a chave pode tentar acessar aquilo que ela protege.
+Quem possui essa chave pode tentar acessar aquilo que ela protege.
 
 Por isso, não coloque senhas em conversas com IA.
 
@@ -78,7 +78,7 @@ O mesmo vale para:
 - credenciais de sistemas;
 - informações que permitam acesso a contas.
 
-A curiosidade ou conveniência de alguns segundos não vale o risco de perder o controle sobre uma conta.
+A conveniência de alguns segundos não vale o risco de perder o controle sobre uma conta.
 
 ---
 
@@ -86,7 +86,7 @@ A curiosidade ou conveniência de alguns segundos não vale o risco de perder o 
 
 Carteiras digitais podem conter informações extremamente importantes.
 
-Uma frase de recuperação, por exemplo, não deve ser compartilhada.
+Uma frase de recuperação, por exemplo, nunca deve ser compartilhada.
 
 Não importa se alguém diz:
 
@@ -487,4 +487,4 @@ E lembre-se:
 
 Por isso, pense antes de enviar.
 
-**Pense além.** 
+**Pense além.**
