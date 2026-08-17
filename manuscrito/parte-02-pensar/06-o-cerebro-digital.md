@@ -50,6 +50,8 @@ E se parte desse trabalho pudesse sair da nossa cabeça?
 
 É aqui que nasce o conceito de **Cérebro Digital**.
 
+---
+
 ## O que é um Cérebro Digital?
 
 Um Cérebro Digital é um sistema externo criado para ajudar você a **capturar, organizar, recuperar e explorar informações, ideias e conhecimentos**.
@@ -90,6 +92,8 @@ O importante não é a ferramenta.
 
 É o sistema.
 
+---
+
 ## O Cérebro Digital não pensa no seu lugar
 
 Existe uma diferença fundamental que precisamos estabelecer desde o início.
@@ -113,6 +117,8 @@ Quando você registra e organiza aquilo que sabe, pode gastar menos energia tent
 O objetivo não é pensar menos.
 
 É **liberar espaço para pensar melhor**.
+
+---
 
 ## A primeira camada: capturar
 
@@ -148,6 +154,8 @@ Depois você poderá desenvolver a ideia.
 
 O importante naquele momento é não perdê-la.
 
+---
+
 ## A segunda camada: organizar
 
 Capturar tudo não é suficiente.
@@ -160,9 +168,7 @@ Por isso, precisamos de alguma estrutura.
 
 Uma estrutura simples poderia ser:
 
-```text
 Cérebro Digital/
-│
 ├── Ideias/
 ├── Aprendizagem/
 ├── Projetos/
@@ -170,7 +176,6 @@ Cérebro Digital/
 ├── Referências/
 ├── Decisões/
 └── Objetivos/
-```
 
 Não existe uma estrutura perfeita.
 
@@ -181,6 +186,8 @@ Se a organização for complicada demais, provavelmente você deixará de utiliz
 Comece simples.
 
 Depois ajuste conforme suas necessidades.
+
+---
 
 ## A terceira camada: recuperar
 
@@ -214,6 +221,8 @@ Uma nota como:
 
 é muito mais fácil de recuperar e compreender depois.
 
+---
+
 ## A quarta camada: conectar
 
 O verdadeiro poder de um Cérebro Digital aparece quando as informações começam a se conectar.
@@ -228,19 +237,17 @@ A decisão pode gerar uma nova pergunta.
 
 Podemos imaginar:
 
-```text
 Ideia
-   ↓
+↓
 Pesquisa
-   ↓
+↓
 Projeto
-   ↓
+↓
 Teste
-   ↓
+↓
 Resultado
-   ↓
+↓
 Nova ideia
-```
 
 Agora o sistema deixa de ser apenas um depósito de informações.
 
@@ -253,6 +260,8 @@ Uma pesquisa pode despertar uma ideia para outro projeto.
 Uma experiência pode mudar uma decisão futura.
 
 É assim que o conhecimento acumulado começa a ganhar valor.
+
+---
 
 ## A quinta camada: conversar com o conhecimento
 
@@ -292,6 +301,8 @@ Pode criar conexões que não existem.
 
 Por isso, você continua sendo responsável por verificar e decidir.
 
+---
+
 ## Um Cérebro Digital pode acompanhar projetos
 
 Imagine que você esteja construindo uma aplicação.
@@ -318,6 +329,8 @@ Imagine descobrir que você já testou uma determinada solução e ela não func
 Essa informação tem valor.
 
 Ela evita que você volte ao mesmo caminho sem perceber.
+
+---
 
 ## Registre também as decisões
 
@@ -349,6 +362,8 @@ Agora a decisão não é apenas uma escolha.
 
 Existe um contexto.
 
+---
+
 ## Registre perguntas, não apenas respostas
 
 Uma boa base de conhecimento não precisa conter somente aquilo que você já sabe.
@@ -368,6 +383,8 @@ Essas perguntas podem permanecer no sistema até encontrarmos respostas.
 Isso cria uma espécie de mapa das coisas que ainda precisamos descobrir.
 
 E algumas das melhores ideias podem surgir dessas perguntas.
+
+---
 
 ## O Cérebro Digital também pode guardar experiências
 
@@ -397,6 +414,8 @@ O sistema começa a registrar não apenas informação externa.
 
 Começa a registrar parte da sua experiência.
 
+---
+
 ## Não transforme o sistema em uma obrigação
 
 Existe uma armadilha.
@@ -414,6 +433,8 @@ Não criar mais trabalho.
 Uma boa regra é:
 
 **registre primeiro, organize o necessário e volte ao que realmente importa.**
+
+---
 
 ## Privacidade também importa
 
@@ -433,15 +454,15 @@ Um Cérebro Digital deve ajudar você.
 
 Não deve criar novos riscos desnecessários.
 
+---
+
 ## Um exemplo simples
 
 Imagine que você queira aprender programação.
 
 Seu Cérebro Digital poderia conter:
 
-```text
 Aprendizagem/
-│
 ├── Conceitos/
 │   ├── Variáveis
 │   ├── Funções
@@ -459,7 +480,6 @@ Aprendizagem/
     ├── Como guardar dados?
     ├── Como autenticar usuários?
     └── Como publicar a aplicação?
-```
 
 Depois de algum tempo, essas partes começam a se conectar.
 
@@ -477,7 +497,9 @@ A aprendizagem volta para o sistema.
 
 Esse ciclo pode continuar durante meses ou anos.
 
-## EXPLORE
+---
+
+# EXPLORE
 
 Você não precisa construir um sistema complexo.
 
@@ -515,6 +537,8 @@ A ideia não é construir o sistema perfeito.
 
 É construir um sistema que realmente seja usado.
 
+---
+
 ## Experimente conversar com suas próprias notas
 
 Depois de acumular algum material, experimente utilizar uma IA para analisar suas próprias anotações.
@@ -540,6 +564,8 @@ Observe como a conversa muda.
 Você não está apenas perguntando à IA sobre o mundo.
 
 Está usando a IA para explorar o conhecimento que você próprio acumulou.
+
+---
 
 ## ERRO COMUM
 
@@ -578,6 +604,8 @@ Construir.
 Decidir.
 
 O Cérebro Digital deve apoiar essas atividades, não substituí-las.
+
+---
 
 ## PENSE ALÉM
 
