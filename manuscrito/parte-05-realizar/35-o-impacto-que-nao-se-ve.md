@@ -322,3 +322,270 @@ Melhor experiência
 Estudante
 ↓
 Aprendizagem
+```
+
+O impacto não termina no usuário direto.
+
+Ele pode continuar através de outras pessoas.
+
+---
+
+# O efeito pode se multiplicar
+
+Uma pessoa aprende algo com sua criação.
+
+Depois ensina outra.
+
+Essa segunda pessoa aplica o conhecimento.
+
+Depois ajuda uma terceira.
+
+O impacto começa a formar uma cadeia:
+
+```text
+Uma criação
+↓
+Uma pessoa
+↓
+Uma nova habilidade
+↓
+Outra pessoa
+↓
+Novo resultado
+↓
+Mais possibilidades
+```
+
+Nem sempre conseguimos medir toda essa cadeia.
+
+Mas podemos reconhecer que ela existe.
+
+---
+
+# Algumas mudanças precisam de tempo
+
+Nem toda criação produz resultados imediatamente.
+
+Uma ferramenta educacional pode levar meses para demonstrar resultados.
+
+Uma comunidade pode precisar de tempo para criar confiança.
+
+Uma habilidade pode só revelar seu valor quando surge uma oportunidade.
+
+Por isso, não abandone necessariamente uma criação apenas porque o impacto ainda não apareceu.
+
+Pergunte:
+
+> **“Estou diante de uma falta de impacto ou apenas diante de um impacto que precisa de mais tempo?”**
+
+Essa distinção é importante.
+
+---
+
+# Mas não use o tempo como desculpa
+
+Esperar não significa ignorar evidências.
+
+Se durante muito tempo não aparecem sinais de valor, precisamos reconsiderar.
+
+Talvez o problema não seja importante.
+
+Talvez a solução esteja errada.
+
+Talvez o público esteja incorreto.
+
+Talvez a proposta precise mudar.
+
+Persistência não significa repetir exatamente a mesma coisa.
+
+Persistir também significa aprender e adaptar.
+
+---
+
+# O impacto pode mudar de forma
+
+Uma criação pode começar resolvendo um problema.
+
+Depois descobrir outro uso.
+
+Uma ferramenta criada para estudantes pode ser utilizada por professores.
+
+Uma plataforma criada para pequenos negócios pode ser útil para organizações.
+
+Uma tecnologia criada para uma tarefa pode encontrar outra aplicação.
+
+Isso não significa necessariamente perder o foco.
+
+Pode significar descobrir novas possibilidades.
+
+---
+
+# Aprenda a contar a história do impacto
+
+Se sua criação realmente produz resultados, você precisa conseguir explicá-los.
+
+Não apenas:
+
+> “Temos muitos usuários.”
+
+Mas:
+
+> “Estas pessoas tinham este problema. Criaram este processo para lidar com ele. Depois de utilizar nossa solução, conseguiram alcançar este resultado.”
+
+Uma boa história de impacto conecta:
+
+```text
+Problema
+↓
+Solução
+↓
+Uso
+↓
+Mudança
+↓
+Resultado
+```
+
+Essa estrutura ajuda outras pessoas a compreender o valor da criação.
+
+---
+
+# Impacto não é apenas o que você consegue reivindicar
+
+Se uma pessoa diz:
+
+> “Sua ferramenta mudou minha forma de trabalhar.”
+
+Isso é significativo.
+
+Mas devemos ter cuidado para não transformar um relato individual em uma afirmação universal.
+
+Uma história mostra uma experiência.
+
+Várias histórias podem mostrar um padrão.
+
+Dados podem ajudar a fortalecer a conclusão.
+
+Quanto mais ampla a afirmação, maior deve ser a evidência.
+
+---
+
+# O impacto também pode estar em quem você inspirou
+
+Talvez alguém utilize sua criação e depois crie outra coisa.
+
+Talvez outra pessoa veja seu projeto e perceba:
+
+> “Eu também consigo construir.”
+
+Talvez alguém comece a estudar.
+
+Talvez alguém finalmente tente uma ideia antiga.
+
+Nesse caso, sua criação produziu algo além da função original.
+
+Produziu possibilidade.
+
+---
+
+# Uma criação pode deixar conhecimento para trás
+
+Mesmo quando um projeto termina, seus aprendizados podem continuar.
+
+Você pode deixar:
+
+- documentação;
+- código;
+- métodos;
+- exemplos;
+- pesquisas;
+- erros registrados;
+- decisões explicadas.
+
+Outra pessoa pode utilizar esse conhecimento para começar mais longe do que você começou.
+
+Isso também é impacto.
+
+---
+
+# O verdadeiro impacto pode aparecer anos depois
+
+Nem sempre saberemos imediatamente o que uma criação iniciou.
+
+Uma ideia pode atravessar pessoas, projetos e anos.
+
+Por isso, existe uma humildade necessária:
+
+> **“Talvez eu nunca veja todo o efeito daquilo que criei.”**
+
+Isso não diminui a importância de medir.
+
+Apenas nos lembra de que algumas consequências são maiores do que nossa capacidade de observar.
+
+---
+
+# EXPERIMENTE
+
+Escolha uma criação sua e responda:
+
+> **“Quem é afetado diretamente por ela?”**
+
+Depois:
+
+> **“Quem pode ser afetado indiretamente?”**
+
+Agora complete:
+
+```text
+Impacto direto
+↓
+Quem utiliza?
+↓
+O que muda?
+
+Impacto indireto
+↓
+Quem se beneficia depois?
+↓
+O que pode mudar?
+
+Impacto futuro
+↓
+O que pode acontecer se essa ideia continuar?
+↓
+Que novas possibilidades pode criar?
+```
+
+Por fim, pergunte:
+
+> **“O que eu consigo medir hoje e o que preciso observar durante mais tempo?”**
+
+Essa pergunta ajuda a separar aquilo que já sabemos daquilo que ainda precisamos descobrir.
+
+---
+
+# A ideia principal
+
+Nem tudo o que importa pode ser contado imediatamente.
+
+Mas isso não significa que devemos parar de medir.
+
+Significa que precisamos aprender a olhar para o impacto de diferentes maneiras.
+
+Medimos resultados.
+
+Escutamos histórias.
+
+Observamos comportamentos.
+
+Comparamos mudanças.
+
+Procuramos padrões.
+
+E aceitamos que algumas consequências só aparecerão com o tempo.
+
+Porque criar algo importante não significa apenas produzir uma coisa.
+
+Significa iniciar uma mudança.
+
+E algumas mudanças continuam acontecendo muito depois de o criador dar o primeiro passo.
