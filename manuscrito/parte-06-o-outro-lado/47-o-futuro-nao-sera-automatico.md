@@ -557,4 +557,4 @@ E, acima de tudo:
 
 **escolha conscientemente o que vale a pena construir.**
 
-**Pense além.** 
+**Pense além.**
