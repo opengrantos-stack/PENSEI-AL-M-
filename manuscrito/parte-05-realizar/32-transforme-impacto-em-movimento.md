@@ -34,7 +34,7 @@ Uma experiência.
 
 Uma pessoa percebe alguma coisa e decide agir.
 
-No início, tudo depende dela.
+No início, tudo pode depender dela.
 
 Mas, se a ideia realmente tiver valor, outras pessoas podem reconhecer esse valor.
 
@@ -73,7 +73,7 @@ Uma comunidade pode:
 
 Nem todo projeto precisa de uma comunidade.
 
-Mas quando o objetivo é ampliar uma ideia, uma comunidade pode se tornar uma força poderosa.
+Mas, quando o objetivo é ampliar uma ideia, uma comunidade pode se tornar uma força poderosa.
 
 ---
 
@@ -104,7 +104,8 @@ Talvez possam:
 - criar conteúdo;
 - desenvolver ferramentas;
 - testar versões;
-- ajudar outras pessoas.
+- ajudar outras pessoas;
+- ensinar aquilo que aprenderam.
 
 Participação transforma espectadores em colaboradores.
 
@@ -114,7 +115,7 @@ Participação transforma espectadores em colaboradores.
 
 Uma comunidade não cresce apenas porque alguém pediu.
 
-As pessoas participam quando encontram valor.
+As pessoas participam quando encontram algum tipo de valor.
 
 Talvez encontrem:
 
@@ -194,7 +195,8 @@ Compartilhe:
 - o que ainda falta;
 - o que não funcionou;
 - o que mudou;
-- o que estamos tentando descobrir.
+- o que estamos tentando descobrir;
+- o que aprendemos.
 
 Isso permite que outras pessoas acompanhem a jornada.
 
@@ -202,11 +204,11 @@ Isso permite que outras pessoas acompanhem a jornada.
 
 # Transparência gera participação
 
-Quando alguém percebe que sua opinião pode realmente influenciar o projeto, a participação aumenta.
+Quando alguém percebe que sua opinião pode realmente influenciar o projeto, a participação pode aumentar.
 
 Imagine:
 
-> “Recebemos esta sugestão e decidimos implementar.”
+> “Recebemos esta sugestão e decidimos implementá-la.”
 
 A pessoa percebe:
 
@@ -216,7 +218,7 @@ Isso é poderoso.
 
 Não significa implementar todas as sugestões.
 
-Significa explicar decisões.
+Significa ouvir, avaliar e explicar decisões.
 
 ---
 
@@ -230,7 +232,9 @@ Outras não serão adequadas.
 
 Se você tentar implementar tudo, o projeto pode perder direção.
 
-Por isso, diga:
+Por isso, é importante explicar as decisões.
+
+Podemos dizer:
 
 > “Esta sugestão faz sentido porque…”
 
@@ -268,9 +272,9 @@ Também ajudam a proteger aquilo que a comunidade quer preservar.
 
 # Distribua responsabilidade
 
-No começo, talvez você faça tudo.
+No começo, talvez você faça quase tudo.
 
-Depois isso se torna impossível.
+Depois isso pode se tornar impossível.
 
 Se a comunidade crescer, outras pessoas precisarão assumir responsabilidades.
 
@@ -302,7 +306,7 @@ Ela não sabe:
 - quem pode ajudar;
 - quais são as regras.
 
-Se não houver orientação, provavelmente desistirá.
+Se não houver orientação, provavelmente terá dificuldade para começar.
 
 Por isso, crie uma entrada simples.
 
@@ -320,7 +324,7 @@ Um novo participante deve conseguir responder rapidamente:
 
 # Documentação é infraestrutura
 
-Quando uma comunidade depende apenas de conversas antigas, conhecimento se perde.
+Quando uma comunidade depende apenas de conversas antigas, conhecimento pode se perder.
 
 Documentação ajuda a preservar:
 
@@ -328,11 +332,12 @@ Documentação ajuda a preservar:
 - processos;
 - explicações;
 - instruções;
-- aprendizados.
+- aprendizados;
+- exemplos.
 
 Isso permite que novos participantes avancem mais rapidamente.
 
-Uma boa documentação reduz dependência de pessoas específicas.
+Uma boa documentação reduz a dependência de pessoas específicas.
 
 ---
 
@@ -366,9 +371,9 @@ Colaboradores ajudam a construir.
 
 Existe uma diferença.
 
-Se todas as decisões precisam passar por uma única pessoa, o movimento continua sendo centralizado.
+Se todas as decisões precisam passar por uma única pessoa, o movimento continua centralizado.
 
-Se outras pessoas conseguem contribuir, ensinar e tomar decisões dentro de determinados limites, o projeto começa a ganhar autonomia.
+Se outras pessoas conseguem contribuir, ensinar e assumir responsabilidades dentro de determinados limites, o projeto começa a ganhar autonomia.
 
 ---
 
@@ -419,7 +424,8 @@ Podem:
 - registrar tarefas;
 - desenvolver software;
 - documentar decisões;
-- testar versões.
+- testar versões;
+- compartilhar conhecimento.
 
 A tecnologia reduz algumas barreiras de colaboração.
 
@@ -483,7 +489,7 @@ Processos.
 
 Resultados.
 
-Sem isso, o movimento pode desaparecer quando o entusiasmo diminuir.
+Sem esses elementos, o movimento pode desaparecer quando o entusiasmo diminuir.
 
 ---
 
@@ -526,6 +532,10 @@ Outros fazem
 Outros ensinam
 ↓
 A capacidade se espalha
+
+O conhecimento deixa de estar concentrado em uma pessoa.
+
+Começa a circular.
 
 ---
 
@@ -574,7 +584,7 @@ Ela também é definida pela maneira como as pessoas trabalham juntas.
 
 Pergunte:
 
-> “Como queremos que as pessoas se comportem aqui?”
+> **“Como queremos que as pessoas se comportem aqui?”**
 
 Talvez a resposta envolva:
 
@@ -728,3 +738,5 @@ Essa é a verdadeira multiplicação.
 Não apenas mais pessoas usando uma criação.
 
 Mas mais pessoas capazes de criar novas soluções.
+
+> **O maior impacto talvez não seja aquilo que você constrói, mas aquilo que ensina outras pessoas a construir depois de você.**
