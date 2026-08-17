@@ -567,4 +567,4 @@ Mas continue desenvolvendo as pernas que permitem caminhar quando ela não estiv
 
 > **Ferramentas podem ampliar suas capacidades. Só você pode decidir quais capacidades não quer perder.**
 
-**Pense além.**
+**Pense além.** 
