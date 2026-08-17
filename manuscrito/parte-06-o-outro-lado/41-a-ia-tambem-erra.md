@@ -482,7 +482,6 @@ Mas também significa que precisamos aprender a avaliar antes de escalar.
 
 Uma boa sequência pode ser:
 
-```text
 Problema
 ↓
 Hipótese
@@ -496,7 +495,6 @@ Resultado
 Aprendizado
 ↓
 Escala
-```
 
 O objetivo não é eliminar todos os erros.
 
@@ -654,23 +652,14 @@ Essa abordagem transforma a IA em uma ferramenta de investigação, não apenas 
 
 Quando uma informação for importante, utilize este processo:
 
-```text
-1. Identifique a afirmação
-↓
-2. Pergunte de onde veio
-↓
-3. Procure a fonte original
-↓
-4. Verifique a data
-↓
-5. Compare com fontes independentes
-↓
-6. Analise o contexto
-↓
-7. Procure possíveis contradições
-↓
-8. Só então decida
-```
+1. Identifique a afirmação.
+2. Pergunte de onde veio.
+3. Procure a fonte original.
+4. Verifique a data.
+5. Compare com fontes independentes.
+6. Analise o contexto.
+7. Procure possíveis contradições.
+8. Só então decida.
 
 Não é necessário fazer isso para cada pequeno detalhe.
 
