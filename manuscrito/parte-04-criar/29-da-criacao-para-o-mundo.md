@@ -38,7 +38,7 @@ Pode ter uma ferramenta excelente e ninguém utilizá-la.
 
 A criação precisa atravessar uma fronteira:
 
-> **do criador para o usuário.**
+> do criador para o usuário.
 
 Essa passagem pode parecer assustadora.
 
@@ -84,7 +84,7 @@ Lançar não significa dizer:
 
 Significa:
 
-> **“Está pronto para aprendermos com o mundo real.”**
+> “Está pronto para aprendermos com o mundo real.”
 
 Essa mudança de mentalidade é importante.
 
@@ -152,7 +152,7 @@ Não diga somente:
 
 Explique:
 
-> **“Isso ajuda você a resolver este problema.”**
+> “Isso ajuda você a resolver este problema.”
 
 As pessoas não precisam necessariamente conhecer a tecnologia.
 
@@ -232,7 +232,7 @@ Por isso, não olhe apenas para números grandes.
 
 Pergunte:
 
-> **“O que esses números representam?”**
+> “O que esses números representam?”
 
 ---
 
@@ -288,7 +288,6 @@ Não precisa esperar uma grande atualização.
 
 O ciclo continua:
 
-```text id="9wq7sl"
 Lançar
 ↓
 Observar
@@ -298,3 +297,350 @@ Aprender
 Corrigir
 ↓
 Lançar novamente
+
+---
+
+# Não confunda lançamento com chegada
+
+Lançar pode parecer o fim da construção.
+
+Na realidade, muitas vezes é o começo de uma etapa ainda mais importante.
+
+Antes do lançamento, você trabalha principalmente com hipóteses.
+
+Depois do lançamento, começa a receber evidências do mundo real.
+
+Agora pode descobrir:
+
+- o que realmente importa;
+- quem realmente precisa;
+- onde estão os maiores problemas;
+- quais funcionalidades devem crescer;
+- quais podem desaparecer;
+- que novas necessidades surgiram.
+
+O produto começa a ensinar você.
+
+---
+
+# O mundo pode mudar sua ideia
+
+Talvez a solução que você imaginou inicialmente não seja exatamente aquela de que as pessoas precisam.
+
+Isso pode ser uma boa notícia.
+
+Imagine que você criou uma ferramenta para ajudar pessoas a organizar tarefas.
+
+Depois percebe que o maior problema não é organizar.
+
+É lembrar o que precisa ser feito.
+
+A solução pode mudar.
+
+Talvez uma nova função seja mais importante.
+
+Talvez o público inicial esteja errado.
+
+Talvez você descubra uma oportunidade completamente diferente.
+
+Não proteja a ideia original apenas porque foi você quem a criou.
+
+Proteja o objetivo de resolver um problema real.
+
+---
+
+# O lançamento exige coragem
+
+Existe uma razão pela qual muitas pessoas continuam aperfeiçoando algo indefinidamente.
+
+Enquanto a criação permanece privada, ninguém pode criticá-la.
+
+Não existem usuários para apontar problemas.
+
+Não existem números decepcionantes.
+
+Não existem perguntas difíceis.
+
+Mas também não existe aprendizagem real suficiente.
+
+Lançar significa aceitar que a realidade poderá contradizer aquilo que imaginamos.
+
+Isso pode ser desconfortável.
+
+Mas também pode ser libertador.
+
+Porque, finalmente, deixamos de adivinhar.
+
+Começamos a descobrir.
+
+---
+
+# Comece com um lançamento controlado
+
+Lançar para o mundo não significa necessariamente colocar tudo diante de milhares de pessoas imediatamente.
+
+Você pode começar com um grupo pequeno.
+
+Por exemplo:
+
+Protótipo
+↓
+Primeiros testes
+↓
+Pequeno grupo de usuários
+↓
+Correções
+↓
+Novo teste
+↓
+Lançamento mais amplo
+
+Isso reduz riscos e permite aprender antes de aumentar a escala.
+
+---
+
+# Prepare uma forma de receber feedback
+
+Se ninguém consegue dizer o que está errado, você perde uma fonte importante de aprendizagem.
+
+Pode utilizar:
+
+- formulário;
+- e-mail;
+- sistema de comentários;
+- entrevistas;
+- mensagens;
+- questionários;
+- análise de uso.
+
+O método não precisa ser sofisticado.
+
+Precisa permitir que você descubra o que está acontecendo.
+
+---
+
+# Escolha métricas que realmente importam
+
+Não acompanhe tudo apenas porque é possível.
+
+Escolha algumas medidas relacionadas ao objetivo.
+
+Se o objetivo é ajudar alguém a completar uma tarefa, talvez seja importante saber:
+
+> Quantas pessoas começaram?
+
+> Quantas terminaram?
+
+> Quanto tempo levaram?
+
+> Onde desistiram?
+
+> Voltaram depois?
+
+Essas perguntas são mais úteis do que simplesmente observar quantas pessoas abriram a página.
+
+---
+
+# O primeiro lançamento não define o futuro
+
+Uma primeira versão pode ter poucos usuários.
+
+Pode ter problemas.
+
+Pode receber críticas.
+
+Pode não alcançar o resultado esperado.
+
+Isso não significa automaticamente que a ideia deve morrer.
+
+Significa que precisamos investigar.
+
+Pergunte:
+
+> “O problema não é importante?”
+
+Ou:
+
+> “As pessoas certas ainda não encontraram a solução?”
+
+Ou:
+
+> “A solução não está boa o suficiente?”
+
+Ou:
+
+> “Estamos explicando mal o valor?”
+
+Ou:
+
+> “Estamos tentando resolver o problema errado?”
+
+Cada resposta leva a uma decisão diferente.
+
+---
+
+# Quando continuar, mudar ou parar
+
+Depois de testar, você pode chegar a três caminhos.
+
+### Continuar
+
+Existe valor e os problemas podem ser corrigidos.
+
+### Mudar
+
+Existe uma necessidade, mas a solução atual não é a melhor.
+
+### Parar
+
+As evidências indicam que não vale a pena continuar daquela maneira.
+
+Parar uma abordagem não significa que todo o trabalho foi perdido.
+
+Você aprendeu.
+
+Essa aprendizagem pode ser utilizada em outra criação.
+
+---
+
+# EXPERIMENTE
+
+Escolha uma criação sua que já possa ser apresentada a alguém.
+
+Não precisa estar perfeita.
+
+Prepare uma versão simples.
+
+Depois escolha algumas pessoas que realmente poderiam precisar dela.
+
+Mostre.
+
+Observe.
+
+Não explique tudo imediatamente.
+
+Veja se conseguem compreender o que fazer.
+
+Depois pergunte:
+
+> “O que você esperava que acontecesse?”
+
+> “O que foi mais fácil?”
+
+> “O que foi mais difícil?”
+
+> “Em que momento ficou confuso?”
+
+> “O que faria você utilizar isto novamente?”
+
+Registre as respostas.
+
+Depois organize:
+
+O que funcionou
+↓
+O que confundiu
+↓
+O que faltou
+↓
+O que não foi necessário
+↓
+O que deve ser corrigido primeiro
+
+Faça as correções mais importantes.
+
+Depois teste novamente.
+
+---
+
+# ERRO COMUM
+
+Um dos maiores erros é acreditar que lançar significa terminar.
+
+Outro é esperar perfeição.
+
+Outro é tentar alcançar todo mundo imediatamente.
+
+Outro é interpretar críticas como ataques pessoais.
+
+E outro é ignorar aquilo que os usuários fazem porque não corresponde ao que imaginávamos.
+
+A realidade não precisa confirmar a nossa ideia.
+
+Ela precisa nos ensinar alguma coisa.
+
+---
+
+# PENSE ALÉM
+
+Existe uma diferença entre criar alguma coisa e colocá-la no mundo.
+
+Enquanto está apenas na nossa cabeça, a ideia pertence completamente à nossa imaginação.
+
+Quando construímos, ela começa a ganhar forma.
+
+Quando testamos, começa a encontrar evidências.
+
+Quando lançamos, começa a encontrar pessoas.
+
+E quando pessoas reais utilizam aquilo, a criação começa a viver fora de nós.
+
+Nesse momento, já não podemos controlar tudo.
+
+E isso é precisamente o que torna o processo interessante.
+
+O mundo pode responder:
+
+> “Sim, precisamos disso.”
+
+Pode responder:
+
+> “Não desta maneira.”
+
+Pode responder:
+
+> “Existe um problema diferente.”
+
+Ou pode simplesmente não responder.
+
+Cada reação contém informação.
+
+A criação continua através do ciclo:
+
+Imaginar
+↓
+Construir
+↓
+Testar
+↓
+Lançar
+↓
+Observar
+↓
+Aprender
+↓
+Melhorar
+↓
+Recomeçar
+
+Não existe uma versão final perfeita esperando no fim do caminho.
+
+Existe uma sequência de versões cada vez mais informadas.
+
+> “Criar para o mundo significa aceitar que o mundo também participa da criação.”
+
+Você começa com uma ideia.
+
+Mas aquilo que ela se torna depende do que você aprende depois de colocá-la em contacto com a realidade.
+
+E talvez essa seja uma das maiores mudanças na forma de criar:
+
+**não precisamos esperar saber tudo antes de começar.**
+
+Podemos começar.
+
+Podemos observar.
+
+Podemos aprender.
+
+E podemos deixar que o mundo nos mostre o que fazer a seguir.
