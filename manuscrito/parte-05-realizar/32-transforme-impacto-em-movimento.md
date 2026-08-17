@@ -517,7 +517,6 @@ Se conseguem ensinar outras pessoas, existe multiplicação.
 
 Essa progressão é poderosa:
 
-```text
 Eu faço
 ↓
 Eu ensino
@@ -527,3 +526,205 @@ Outros fazem
 Outros ensinam
 ↓
 A capacidade se espalha
+
+---
+
+# Crie ferramentas para a autonomia
+
+Se você quer que outras pessoas participem, facilite a participação.
+
+Forneça:
+
+- instruções claras;
+- exemplos;
+- documentação;
+- modelos;
+- ferramentas;
+- canais de comunicação;
+- formas simples de contribuir.
+
+Quanto menor a dificuldade para começar, maior a possibilidade de participação.
+
+---
+
+# Transforme conhecimento em algo compartilhável
+
+Se uma descoberta pode ser útil para outras pessoas, registre-a.
+
+Pode ser:
+
+- um tutorial;
+- uma documentação;
+- uma aula;
+- um vídeo;
+- um guia;
+- um exemplo;
+- uma biblioteca;
+- um conjunto de boas práticas.
+
+O conhecimento compartilhado pode continuar produzindo valor muito depois da experiência original.
+
+---
+
+# Construa uma cultura
+
+Uma comunidade não é definida apenas por ferramentas.
+
+Ela também é definida pela maneira como as pessoas trabalham juntas.
+
+Pergunte:
+
+> “Como queremos que as pessoas se comportem aqui?”
+
+Talvez a resposta envolva:
+
+- curiosidade;
+- respeito;
+- colaboração;
+- responsabilidade;
+- abertura;
+- honestidade intelectual.
+
+A cultura aparece nas pequenas decisões repetidas.
+
+---
+
+# Proteja a missão sem impedir a evolução
+
+Uma comunidade precisa de identidade.
+
+Mas também precisa aprender.
+
+Se tudo estiver congelado, o projeto pode ficar ultrapassado.
+
+Se tudo mudar constantemente, ninguém saberá qual é a direção.
+
+O equilíbrio está em preservar os princípios fundamentais enquanto permitimos que métodos e soluções evoluam.
+
+---
+
+# O movimento pode continuar mesmo quando você muda de direção
+
+Talvez você um dia deixe de liderar o projeto.
+
+Talvez surja outro projeto.
+
+Talvez outra pessoa assuma.
+
+Isso não significa que tudo precisa terminar.
+
+Se você criou conhecimento, processos e uma comunidade capazes de continuar, parte do trabalho pode sobreviver à sua participação direta.
+
+Essa é uma forma profunda de impacto.
+
+---
+
+# EXPERIMENTE
+
+Escolha uma criação ou projeto que você gostaria de ampliar.
+
+Complete:
+
+> **“Quero que este projeto exista para ______.”**
+
+Depois:
+
+> **“Uma pessoa pode participar ajudando a ______.”**
+
+Agora pense em três maneiras simples de permitir participação.
+
+Por exemplo:
+
+1. testar;
+2. sugerir;
+3. ensinar.
+
+Depois pergunte:
+
+> **“O que alguém precisaria saber para participar sem depender de mim?”**
+
+Crie uma pequena documentação com essas informações.
+
+Depois convide uma pessoa para experimentar.
+
+Observe onde ela encontra dificuldades.
+
+Melhore as instruções.
+
+Repita.
+
+O objetivo não é criar uma comunidade enorme imediatamente.
+
+É provar que outra pessoa consegue participar.
+
+---
+
+# ERRO COMUM
+
+Um dos maiores erros é confundir comunidade com audiência.
+
+Outro é centralizar todas as decisões.
+
+Outro é aceitar todas as sugestões sem critério.
+
+Outro é criar regras excessivas antes de existir uma necessidade.
+
+E outro é esperar que as pessoas participem sem explicar por que a participação importa.
+
+Uma comunidade saudável precisa de direção, espaço e confiança.
+
+---
+
+# PENSE ALÉM
+
+Talvez a maior conquista de um criador não seja construir algo que dependa dele para sempre.
+
+Talvez seja construir algo que outras pessoas consigam continuar.
+
+Uma ideia pode começar com uma pessoa.
+
+Depois pode passar para cinco.
+
+Depois para cinquenta.
+
+Depois para centenas.
+
+Não porque o criador fez tudo.
+
+Mas porque ensinou outras pessoas a participar.
+
+Essa é a diferença entre uma criação e um movimento.
+
+Uma criação pode dizer:
+
+> “Eu construí isto.”
+
+Um movimento pode dizer:
+
+> **“Nós estamos construindo isto.”**
+
+E talvez esse seja um dos maiores sinais de impacto:
+
+quando a pergunta deixa de ser:
+
+> “O que posso fazer sozinho?”
+
+e passa a ser:
+
+> **“O que podemos construir juntos?”**
+
+Porque uma ideia pode nascer na mente de uma pessoa.
+
+Mas, quando encontra outras pessoas dispostas a aprender, contribuir e continuar, ela pode tornar-se maior do que o seu criador.
+
+**O impacto alcança pessoas.**
+
+**O movimento permite que essas pessoas também criem.**
+
+E quando mais pessoas conseguem criar, ensinar e transformar, a capacidade de produzir impacto começa a se espalhar.
+
+Essa é a verdadeira multiplicação.
+
+Não apenas mais pessoas usando uma criação.
+
+Mas mais pessoas capazes de criar novas soluções.
