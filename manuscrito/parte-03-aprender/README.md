@@ -1,6 +1,6 @@
 # PARTE III — APRENDER
 
-## Transformando IA em um professor particular
+## TRANSFORMANDO A IA EM UMA PARCEIRA DE APRENDIZAGEM
 
 Esta parte mostra como utilizar a inteligência artificial para aprender, estudar, praticar e desenvolver novas habilidades de forma personalizada.
 
@@ -15,7 +15,7 @@ O objetivo não é substituir professores, livros ou outras fontes de conhecimen
 13. Aprenda qualquer assunto
 14. Crie seu próprio professor
 15. Aprenda fazendo perguntas
-16. Aprende com seus erros
+16. Aprenda com seus erros
 17. Construa projetos para aprender
 18. Ensine para aprender melhor
 19. Aprenda mais rápido, não apenas mais
