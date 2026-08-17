@@ -168,7 +168,7 @@ Precisa saber quais merecem existir.
 
 Essa é uma das grandes mudanças de um mundo com ferramentas cada vez mais poderosas:
 
-> **a capacidade de produzir cresce mais rapidamente do que a necessidade de produzir.**
+> **A capacidade de produzir pode crescer mais rapidamente do que a nossa capacidade de decidir o que realmente vale a pena produzir.**
 
 Por isso, discernimento se torna valioso.
 
@@ -212,7 +212,7 @@ Também precisamos de:
 - suporte;
 - oportunidade de experimentar.
 
-Uma ferramenta poderosa nas mãos de alguém que não sabe como utilizá-la pode ter pouco efeito.
+Uma ferramenta poderosa, sem conhecimento e contexto para utilizá-la, pode produzir pouco valor.
 
 Capacidade real surge quando acesso encontra aprendizagem.
 
@@ -514,9 +514,9 @@ Aprenda.
 
 Depois expanda.
 
-Clareza primeiro.
+**Clareza primeiro.**
 
-Escala depois.
+**Escala depois.**
 
 ---
 
@@ -703,8 +703,12 @@ Mas:
 
 > **“O que posso começar a construir hoje para tornar o futuro um pouco melhor?”**
 
-Essa pergunta transforma espectador em participante.
+Essa pergunta transforma o espectador em participante.
 
-E participante em criador.
+E o participante em criador.
+
+**O futuro não precisa ser previsto para ser construído.**
+
+Ele começa nas escolhas, experiências e criações que fazemos hoje.
 
 **Pense além.**
