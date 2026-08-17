@@ -122,7 +122,7 @@ Se erros são tratados como oportunidades de aprendizagem, as pessoas podem expe
 
 Por isso:
 
-> **aquilo que não corrigimos também ajuda a definir o sistema.**
+> **Aquilo que não corrigimos também ajuda a definir o sistema.**
 
 ---
 
@@ -159,7 +159,7 @@ Mesmo sem obrigar ninguém, o design influencia qual opção será escolhida com
 
 Isso significa que designers e criadores possuem uma responsabilidade:
 
-> **facilitar aquilo que merece ser facilitado.**
+> **Facilitar aquilo que merece ser facilitado.**
 
 Não usar a interface apenas para manipular.
 
@@ -210,7 +210,7 @@ Mas juntas, elas o constroem.
 
 Uma ideia pode produzir resultados que você nunca imaginou.
 
-Isso não significa abandonar planejamento.
+Isso não significa abandonar o planejamento.
 
 Significa aceitar que existe incerteza.
 
@@ -484,7 +484,7 @@ A segunda pode permitir que muitos problemas sejam resolvidos no futuro.
 
 Por isso:
 
-> **ensinar uma capacidade pode ser mais poderoso do que entregar uma resposta.**
+> **Ensinar uma capacidade pode ser mais poderoso do que entregar uma resposta.**
 
 ---
 
@@ -605,7 +605,7 @@ Outro é preservar coisas que já não servem apenas por apego.
 
 E existe outro erro:
 
-**acreditar que o legado precisa carregar o seu nome.**
+**Acreditar que o legado precisa carregar o seu nome.**
 
 Talvez não.
 
@@ -631,7 +631,7 @@ A impactar.
 
 Agora podemos perceber algo ainda maior:
 
-> **o que fazemos hoje participa da construção do amanhã.**
+> **O que fazemos hoje participa da construção do amanhã.**
 
 Cada ferramenta.
 
