@@ -12,7 +12,9 @@ Uma ideia pode começar como uma pergunta, uma necessidade ou uma possibilidade.
 
 Com as ferramentas certas, ela pode transformar-se em uma primeira versão, ser testada, melhorada e finalmente apresentada ao mundo.
 
-## Capítulos
+---
+
+## CAPÍTULOS
 
 21. A ideia não precisa esperar
 22. Comece com um protótipo
@@ -24,7 +26,9 @@ Com as ferramentas certas, ela pode transformar-se em uma primeira versão, ser 
 28. Comece pequeno, pense grande
 29. Da criação para o mundo
 
-## Objetivo desta parte
+---
+
+## OBJETIVO DESTA PARTE
 
 A Parte IV mostra como passar do pensamento para a criação.
 
@@ -48,7 +52,9 @@ Mas a ferramenta é apenas parte do processo.
 
 É necessário observar, testar, corrigir e melhorar.
 
-## Da imaginação para a realidade
+---
+
+## DA IMAGINAÇÃO PARA A REALIDADE
 
 Uma ideia existe primeiro na nossa mente.
 
@@ -57,22 +63,24 @@ Para descobrir se ela realmente tem valor, precisamos colocá-la em alguma forma
 O processo pode ser:
 
     Ideia
-    ↓
+      ↓
     Primeira versão
-    ↓
+      ↓
     Protótipo
-    ↓
+      ↓
     Teste
-    ↓
+      ↓
     Feedback
-    ↓
+      ↓
     Melhoria
-    ↓
+      ↓
     Nova versão
 
 Criar é transformar possibilidades em experiências reais.
 
-## Começar antes de estar pronto
+---
+
+## COMEÇAR ANTES DE ESTAR PRONTO
 
 Muitas ideias nunca saem do papel porque esperamos o momento perfeito.
 
@@ -91,7 +99,9 @@ Uma primeira versão não precisa representar o resultado final.
 
 Ela precisa permitir que aprendamos.
 
-## O protótipo como ferramenta de aprendizagem
+---
+
+## O PROTÓTIPO COMO FERRAMENTA DE APRENDIZAGEM
 
 Um protótipo não precisa ser perfeito.
 
@@ -111,7 +121,9 @@ Por exemplo:
 
 Quanto mais cedo conseguimos testar uma hipótese, mais cedo podemos aprender.
 
-## Testar antes de construir demais
+---
+
+## TESTAR ANTES DE CONSTRUIR DEMAIS
 
 Existe um risco em passar muito tempo construindo algo sem verificar se estamos seguindo na direção certa.
 
@@ -119,11 +131,13 @@ Podemos investir tempo em uma solução que ninguém precisa.
 
 Por isso:
 
-> **teste aquilo que é mais importante aprender antes de investir demais.**
+> **Teste aquilo que é mais importante aprender antes de investir demais.**
 
 Um pequeno experimento pode economizar muito trabalho.
 
-## Melhorar com o que aprendemos
+---
+
+## MELHORAR COM O QUE APRENDEMOS
 
 A primeira versão não precisa ser definitiva.
 
@@ -138,22 +152,24 @@ Ambas são úteis.
 O processo continua:
 
     Criar
-    ↓
+      ↓
     Testar
-    ↓
+      ↓
     Observar
-    ↓
+      ↓
     Aprender
-    ↓
+      ↓
     Melhorar
-    ↓
+      ↓
     Testar novamente
 
 Melhorar não significa apenas adicionar funcionalidades.
 
 Às vezes significa remover.
 
-## Não criar sozinho
+---
+
+## NÃO CRIAR SOZINHO
 
 Criar não precisa significar fazer tudo sozinho.
 
@@ -170,7 +186,9 @@ Cada pessoa pode trazer uma perspectiva diferente.
 
 A colaboração pode revelar problemas que o criador não percebeu.
 
-## Transformar conhecimento em habilidades
+---
+
+## TRANSFORMAR CONHECIMENTO EM HABILIDADES
 
 Saber algo não significa necessariamente conseguir fazer algo.
 
@@ -184,7 +202,9 @@ Essa passagem é fundamental:
 
 > **Conhecimento → prática → experiência → habilidade.**
 
-## Criar para resolver problemas
+---
+
+## CRIAR PARA RESOLVER PROBLEMAS
 
 Uma criação pode ser interessante.
 
@@ -204,7 +224,9 @@ E:
 
 Essas perguntas mantêm a criação ligada à realidade.
 
-## Começar pequeno, pensar grande
+---
+
+## COMEÇAR PEQUENO, PENSAR GRANDE
 
 Começar pequeno não significa pensar pequeno.
 
@@ -223,27 +245,28 @@ A visão pode ser grande.
 
 O primeiro passo pode ser pequeno.
 
-## Da criação para o mundo
+---
+
+## DA CRIAÇÃO PARA O MUNDO
 
 Uma criação só começa a produzir impacto quando encontra pessoas.
 
-Isso significa apresentar.
+Isso significa:
 
+Apresentar.
 Testar.
-
 Escutar.
-
 Distribuir.
-
 Observar.
-
 Melhorar.
 
 Uma ideia guardada continua sendo apenas uma possibilidade.
 
 Quando colocada no mundo, começa a gerar informação.
 
-## O princípio desta parte
+---
+
+## O PRINCÍPIO DESTA PARTE
 
 Não espere que uma ideia esteja perfeita para começar a testá-la.
 
@@ -251,7 +274,9 @@ Não espere que uma ideia esteja perfeita para começar a testá-la.
 
 Depois use aquilo que aprendeu para criar uma versão melhor.
 
-## O que o leitor deve levar desta parte
+---
+
+## O QUE O LEITOR DEVE LEVAR DESTA PARTE
 
 Ao terminar a Parte IV, o leitor deverá compreender como:
 
@@ -267,7 +292,9 @@ Ao terminar a Parte IV, o leitor deverá compreender como:
 - começar pequeno e pensar em possibilidades maiores;
 - levar uma criação do conceito para o mundo.
 
-## Conclusão
+---
+
+## CONCLUSÃO
 
 Criar não significa apenas produzir alguma coisa.
 
@@ -293,4 +320,4 @@ E continue.
 
 > **Uma ideia ganha força quando deixa de existir apenas na sua cabeça e começa a existir no mundo.**
 
-**Pense além.**
+**Pense Além.**
