@@ -843,7 +843,7 @@ Talvez seu próximo projeto esteja escondido nessa pergunta.
 
 ---
 
-# COMEÇE
+# COMECE
 
 Não amanhã.
 
