@@ -386,6 +386,386 @@ Por exemplo:
 
 ```text
 Problemas críticos
+       ↓
 Problemas importantes
+       ↓
 Melhorias
+       ↓
 Detalhes
+```
+
+Comece pelos problemas que impedem a solução de cumprir seu objetivo principal.
+
+Uma pequena dificuldade visual pode esperar.
+
+Um problema que impede o usuário de completar a tarefa principal provavelmente não pode.
+
+---
+
+# Transforme feedback em decisões
+
+Receber feedback não significa obedecer a todas as opiniões.
+
+Imagine que cinco pessoas testem seu protótipo.
+
+Uma diz:
+
+> “Eu mudaria a cor.”
+
+Outra:
+
+> “Eu colocaria mais funções.”
+
+Outra:
+
+> “Eu não entendi a proposta.”
+
+Outra:
+
+> “Eu queria utilizar imediatamente.”
+
+Essas informações têm pesos diferentes.
+
+Talvez a cor não seja importante.
+
+Talvez adicionar funções complique o produto.
+
+Mas se várias pessoas não entendem a proposta, existe um problema mais fundamental.
+
+Por isso, pergunte:
+
+> **“O que este feedback revela sobre o problema ou sobre a solução?”**
+
+---
+
+# Procure padrões
+
+Um comentário isolado pode ser apenas uma preferência individual.
+
+Mas quando o mesmo problema aparece repetidamente, devemos prestar atenção.
+
+Imagine:
+
+```text
+Pessoa 1 → não encontrou o botão
+Pessoa 2 → não encontrou o botão
+Pessoa 3 → não encontrou o botão
+Pessoa 4 → encontrou depois de procurar
+```
+
+Agora existe um padrão.
+
+O problema provavelmente não está apenas em uma pessoa.
+
+Pode estar no design.
+
+Da mesma forma, se várias pessoas não entendem a proposta, talvez seja necessário mudar a explicação.
+
+O objetivo dos testes não é colecionar opiniões.
+
+É identificar **padrões que ajudem a tomar decisões melhores**.
+
+---
+
+# Não tenha medo de descobrir que estava errado
+
+Essa pode ser uma das partes mais difíceis de criar.
+
+Você investiu tempo.
+
+Pensou na ideia.
+
+Construiu o protótipo.
+
+Talvez tenha começado a imaginar o futuro do projeto.
+
+Então alguém testa e diz:
+
+> “Eu não usaria isso.”
+
+Pode ser frustrante.
+
+Mas existe uma diferença entre:
+
+**“Minha ideia foi rejeitada.”**
+
+e:
+
+**“Descobri cedo que uma hipótese estava errada.”**
+
+A segunda interpretação pode economizar muito tempo.
+
+Descobrir um problema antes de investir muito é uma vantagem.
+
+---
+
+# Teste antes de escalar
+
+Imagine que você queira criar uma plataforma para milhares de usuários.
+
+Pode ser tentador construir tudo imediatamente.
+
+Mas talvez seja melhor começar com:
+
+```text
+1 problema
+   ↓
+1 público
+   ↓
+1 solução simples
+   ↓
+Poucos usuários
+   ↓
+Feedback
+   ↓
+Correção
+   ↓
+Novo teste
+```
+
+Quando o processo começa a funcionar, podemos aumentar gradualmente.
+
+Isso reduz o risco de construir algo grande baseado em suposições pequenas.
+
+---
+
+# O ciclo construir–medir–aprender
+
+Podemos transformar o processo em um ciclo:
+
+```text
+IDEIA
+  ↓
+HIPÓTESE
+  ↓
+PROTÓTIPO
+  ↓
+TESTE
+  ↓
+OBSERVAÇÃO
+  ↓
+FEEDBACK
+  ↓
+APRENDIZAGEM
+  ↓
+MUDANÇA
+  ↓
+NOVO TESTE
+```
+
+Observe que o ciclo não termina quando construímos.
+
+Ele continua.
+
+Construímos para testar.
+
+Testamos para aprender.
+
+Aprendemos para melhorar.
+
+Melhoramos para testar novamente.
+
+---
+
+# A IA pode ajudar nos testes
+
+A inteligência artificial também pode participar desta etapa.
+
+Você pode apresentar o feedback recebido e perguntar:
+
+> **“Organize estas respostas por temas. Identifique padrões, problemas recorrentes e possíveis contradições.”**
+
+Depois:
+
+> **“Quais problemas parecem mais importantes para investigar primeiro?”**
+
+Depois:
+
+> **“Separe preferências pessoais de problemas que podem afetar muitos usuários.”**
+
+Isso pode ajudar a organizar uma grande quantidade de informação.
+
+Mas existe uma regra importante:
+
+**não deixe a IA decidir sozinha o que os usuários realmente querem.**
+
+Ela pode ajudar a analisar os dados.
+
+A realidade continua sendo observada através das pessoas, dos testes e dos resultados.
+
+---
+
+# Um teste não precisa ser perfeito
+
+Às vezes esperamos ter:
+
+- uma grande pesquisa;
+- centenas de usuários;
+- estatísticas completas;
+- um produto pronto;
+- uma análise profissional.
+
+Tudo isso pode ser útil em determinadas situações.
+
+Mas no início, muitas vezes precisamos apenas de uma pergunta simples:
+
+> **“Existe alguma evidência de que estou no caminho certo?”**
+
+Um pequeno teste pode produzir essa evidência inicial.
+
+Depois podemos melhorar a qualidade da investigação.
+
+---
+
+# EXPLORE
+
+Escolha uma ideia que você esteja considerando desenvolver.
+
+Não comece construindo tudo.
+
+Primeiro escreva:
+
+> “Minha hipótese é que ______.”
+
+Depois responda:
+
+> “Quem tem este problema?”
+
+> “Como resolve atualmente?”
+
+> “Com que frequência o problema acontece?”
+
+> “Quanto ele incomoda?”
+
+> “O que faria uma pessoa mudar de solução?”
+
+Agora crie o menor teste possível.
+
+Pode ser:
+
+- uma página;
+- um formulário;
+- uma demonstração;
+- um protótipo;
+- uma conversa;
+- uma pequena versão funcional.
+
+Depois apresente para algumas pessoas que realmente poderiam utilizar a solução.
+
+Não pergunte apenas:
+
+> “Gostou?”
+
+Pergunte:
+
+> “Como você resolveria isso hoje?”
+
+> “O que você esperava que acontecesse?”
+
+> “Em que momento ficou confuso?”
+
+> “O que seria mais importante para você?”
+
+> “Você utilizaria isso em uma situação real? Por quê?”
+
+Registre as respostas.
+
+Depois procure padrões.
+
+Por fim, pergunte:
+
+> **“O que aprendi que não sabia antes de testar?”**
+
+Essa é talvez a pergunta mais importante.
+
+Porque o objetivo de um teste não é provar que você estava certo.
+
+É descobrir a verdade o mais cedo possível.
+
+---
+
+# ERRO COMUM
+
+Um erro comum é construir demais antes de testar.
+
+Outro é testar apenas com amigos que já conhecem a ideia e querem apoiar você.
+
+Outro é fazer perguntas que conduzem as pessoas para respostas positivas.
+
+Também é comum confundir elogios com interesse real.
+
+E existe um erro ainda mais perigoso:
+
+**ignorar um feedback porque ele contradiz aquilo que queremos ouvir.**
+
+Se você está procurando apenas confirmação, não está realmente testando.
+
+Está procurando aprovação.
+
+Um teste verdadeiro precisa permitir que a hipótese esteja errada.
+
+---
+
+# PENSE ALÉM
+
+Criar não é apenas construir.
+
+É descobrir.
+
+Cada protótipo é uma pergunta.
+
+Cada teste é uma investigação.
+
+Cada erro é uma informação.
+
+Cada usuário pode revelar algo que você não percebeu.
+
+Essa forma de pensar muda completamente a relação com a criação.
+
+Você deixa de perguntar:
+
+> “Como faço para provar que minha ideia é boa?”
+
+E começa a perguntar:
+
+> **“O que preciso descobrir para saber se esta ideia merece continuar?”**
+
+Essa pergunta é muito mais poderosa.
+
+Porque uma boa criação não nasce apenas de uma grande ideia.
+
+Nasce de uma sequência de hipóteses, testes, descobertas e decisões.
+
+Você não precisa ter certeza antes de começar.
+
+Precisa criar uma forma segura e simples de aprender.
+
+A tecnologia pode ajudar a construir.
+
+A inteligência artificial pode acelerar.
+
+As ferramentas podem reduzir o esforço.
+
+Mas é o contacto com a realidade que mostra se aquilo que imaginamos realmente funciona.
+
+Por isso:
+
+**não construa apenas para provar que consegue construir.**
+
+Construa para aprender.
+
+Teste para descobrir.
+
+Escute para compreender.
+
+Melhore com base nas evidências.
+
+E, quando os resultados mostrarem que está no caminho errado, tenha coragem de mudar.
+
+Porque uma das maiores vantagens de testar cedo não é evitar todos os erros.
+
+É descobrir os erros **antes que eles se tornem caros demais para corrigir**.
+
+> **Uma ideia não precisa estar certa para começar. Ela precisa estar disposta a ser testada.**
+
+E quanto mais cedo você coloca uma ideia diante da realidade, mais cedo pode descobrir no que ela realmente pode se transformar.
