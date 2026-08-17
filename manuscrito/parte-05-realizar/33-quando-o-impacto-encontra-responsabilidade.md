@@ -26,13 +26,13 @@ A responsabilidade também.
 
 ---
 
-# Poder não é apenas uma palavra para grandes organizações
+# PODER NÃO É APENAS UMA PALAVRA PARA GRANDES ORGANIZAÇÕES
 
 Quando ouvimos “poder”, podemos imaginar governos, grandes empresas ou instituições.
 
 Mas a tecnologia mudou parte dessa realidade.
 
-Hoje, uma pessoa com um computador e acesso a ferramentas digitais pode criar algo que alcance muitas outras pessoas.
+Hoje, uma pessoa com um computador e acesso a ferramentas digitais pode criar algo capaz de alcançar muitas outras pessoas.
 
 Pode publicar informação.
 
@@ -50,7 +50,7 @@ E capacidade exige responsabilidade.
 
 ---
 
-# Toda ferramenta tem consequências
+# TODA FERRAMENTA TEM CONSEQUÊNCIAS
 
 Imagine uma ferramenta criada para economizar tempo.
 
@@ -66,7 +66,7 @@ Talvez crie novos problemas.
 
 Talvez seja utilizada de maneira diferente da planejada.
 
-Não significa que devemos evitar criar.
+Isso não significa que devemos evitar criar.
 
 Significa que devemos pensar além da intenção original.
 
@@ -74,7 +74,7 @@ Uma boa intenção não garante um bom resultado.
 
 ---
 
-# Intenção e consequência são coisas diferentes
+# INTENÇÃO E CONSEQUÊNCIA SÃO COISAS DIFERENTES
 
 Você pode querer ajudar.
 
@@ -94,7 +94,7 @@ Porque pode revelar algo diferente da nossa expectativa.
 
 ---
 
-# Teste antes de ampliar
+# TESTE ANTES DE AMPLIAR
 
 Quanto maior o impacto potencial, mais importante é testar.
 
@@ -110,11 +110,11 @@ Depois amplie.
 
 Isso não elimina todos os riscos.
 
-Mas aumenta a chance de encontrar problemas enquanto ainda são administráveis.
+Mas aumenta a possibilidade de encontrar problemas enquanto ainda são administráveis.
 
 ---
 
-# Não esconda limitações
+# NÃO ESCONDA LIMITAÇÕES
 
 Toda criação possui limites.
 
@@ -134,7 +134,7 @@ Quando as pessoas conhecem as limitações, conseguem tomar decisões melhores.
 
 ---
 
-# Transparência não significa revelar tudo
+# TRANSPARÊNCIA NÃO SIGNIFICA REVELAR TUDO
 
 Ser transparente não significa expor informações que deveriam permanecer privadas.
 
@@ -150,7 +150,7 @@ Transparência deve servir à compreensão e à responsabilidade.
 
 ---
 
-# Proteja as pessoas
+# PROTEJA AS PESSOAS
 
 Quando uma criação envolve informações pessoais, decisões importantes ou serviços essenciais, a responsabilidade aumenta.
 
@@ -172,7 +172,7 @@ Pensar assim desde o início pode evitar problemas depois.
 
 ---
 
-# Não use tecnologia apenas porque pode
+# NÃO USE TECNOLOGIA APENAS PORQUE PODE
 
 Existe uma frase importante:
 
@@ -194,11 +194,11 @@ Se o benefício for pequeno e o risco alto, talvez não valha a pena.
 
 ---
 
-# Mais automação exige mais atenção
+# MAIS AUTOMAÇÃO EXIGE MAIS ATENÇÃO
 
 Automação pode economizar tempo.
 
-Mas quando automatizamos uma decisão, também podemos automatizar um erro.
+Mas, quando automatizamos uma decisão, também podemos automatizar um erro.
 
 Por isso, pergunte:
 
@@ -214,7 +214,7 @@ Nem tudo precisa ser totalmente automático.
 
 ---
 
-# A inteligência artificial torna essa questão ainda mais importante
+# A INTELIGÊNCIA ARTIFICIAL TORNA ESSA QUESTÃO AINDA MAIS IMPORTANTE
 
 A IA permite gerar respostas, analisar informações, criar conteúdo e automatizar processos em grande escala.
 
@@ -224,15 +224,15 @@ Mas a velocidade pode aumentar tanto os acertos quanto os erros.
 
 Por isso:
 
-> **quanto mais rápida é a ferramenta, mais importante é saber quando confiar nela e quando verificar.**
+> **Quanto mais rápida é a ferramenta, mais importante é saber quando confiar nela e quando verificar.**
 
 A IA pode ajudar a pensar.
 
-Mas não deve substituir o julgamento quando as consequências são importantes.
+Mas não deve substituir o julgamento humano quando as consequências são importantes.
 
 ---
 
-# Não confunda confiança com infalibilidade
+# NÃO CONFUNDA CONFIANÇA COM INFALIBILIDADE
 
 Uma ferramenta pode funcionar muito bem e ainda falhar.
 
@@ -244,11 +244,11 @@ Confiança saudável não significa acreditar que nada dará errado.
 
 Significa saber:
 
-> “O que fazemos quando algo dá errado?”
+> **“O que fazemos quando algo dá errado?”**
 
 ---
 
-# Crie mecanismos de correção
+# CRIE MECANISMOS DE CORREÇÃO
 
 Um sistema responsável precisa permitir correção.
 
@@ -267,7 +267,7 @@ O objetivo não é criar sistemas perfeitos.
 
 ---
 
-# Escutar críticas faz parte da responsabilidade
+# ESCUTAR CRÍTICAS FAZ PARTE DA RESPONSABILIDADE
 
 Quando alguém aponta um problema, a reação mais fácil é defender a criação.
 
@@ -283,7 +283,7 @@ Mas pode aprender com algumas críticas.
 
 ---
 
-# Nem todo feedback deve determinar a direção
+# NEM TODO FEEDBACK DEVE DETERMINAR A DIREÇÃO
 
 Escutar não significa obedecer.
 
@@ -303,11 +303,11 @@ Depois:
 
 Feedback é informação.
 
-Decisão continua sendo responsabilidade.
+A decisão continua sendo responsabilidade do criador.
 
 ---
 
-# Crescer também significa dizer não
+# CRESCER TAMBÉM SIGNIFICA DIZER NÃO
 
 Quando um projeto cresce, surgem oportunidades.
 
@@ -325,13 +325,13 @@ Uma expansão.
 
 Antes de aceitar, pergunte:
 
-> “Isso está alinhado com o que queremos construir?”
+> **“Isso está alinhado com o que queremos construir?”**
 
 Se não estiver, dizer não pode proteger o projeto.
 
 ---
 
-# Dinheiro também pode mudar decisões
+# DINHEIRO TAMBÉM PODE MUDAR DECISÕES
 
 Quando uma criação começa a gerar receita, surgem novas pressões.
 
@@ -347,7 +347,7 @@ Mas não deve ser a única medida de valor.
 
 ---
 
-# Impacto e sustentabilidade precisam andar juntos
+# IMPACTO E SUSTENTABILIDADE PRECISAM ANDAR JUNTOS
 
 Um projeto pode ajudar muitas pessoas e ainda assim não conseguir continuar.
 
@@ -367,11 +367,11 @@ Se queremos impacto duradouro, precisamos pensar:
 
 Sustentabilidade não é inimiga do impacto.
 
-Pode ser o que permite que ele continue.
+Pode ser justamente o que permite que ele continue.
 
 ---
 
-# Um projeto pode gerar receita sem abandonar sua missão
+# UM PROJETO PODE GERAR RECEITA SEM ABANDONAR SUA MISSÃO
 
 Gerar receita não significa automaticamente perder propósito.
 
@@ -385,17 +385,17 @@ Um projeto pode cobrar por:
 
 A questão é:
 
-> “Como o modelo econômico se relaciona com o valor que estamos tentando criar?”
+> **“Como o modelo econômico se relaciona com o valor que estamos tentando criar?”**
 
-Quando existe alinhamento, receita pode ajudar a sustentar o impacto.
+Quando existe alinhamento, a receita pode ajudar a sustentar o impacto.
 
 ---
 
-# Não sacrifique confiança por crescimento rápido
+# NÃO SACRIFIQUE CONFIANÇA POR CRESCIMENTO RÁPIDO
 
-Uma decisão pode aumentar usuários rapidamente.
+Uma decisão pode aumentar o número de usuários rapidamente.
 
-Mas se destruir confiança, o resultado pode ser temporário.
+Mas, se destruir confiança, o resultado pode ser temporário.
 
 Construir confiança leva tempo.
 
@@ -405,7 +405,7 @@ Por isso, crescimento saudável precisa considerar mais do que velocidade.
 
 ---
 
-# Pense nas pessoas que não estão na sala
+# PENSE NAS PESSOAS QUE NÃO ESTÃO NA SALA
 
 Quando uma equipe toma uma decisão, normalmente pensa nos usuários que conhece.
 
@@ -426,7 +426,7 @@ Pensar nos ausentes é uma forma de responsabilidade.
 
 ---
 
-# Acessibilidade também é impacto
+# ACESSIBILIDADE TAMBÉM É IMPACTO
 
 Uma solução pode ser excelente para algumas pessoas e difícil para outras.
 
@@ -436,7 +436,7 @@ Talvez alguém tenha:
 - dispositivo mais simples;
 - dificuldade de leitura;
 - pouca experiência digital;
-- outra língua;
+- outro idioma;
 - limitações de acesso.
 
 Nem sempre será possível atender todas as situações.
@@ -445,7 +445,7 @@ Mas pensar nelas pode melhorar a criação.
 
 ---
 
-# Responsabilidade não significa medo
+# RESPONSABILIDADE NÃO SIGNIFICA MEDO
 
 Existe um risco no outro extremo.
 
@@ -469,11 +469,11 @@ Torna a ação mais consciente.
 
 ---
 
-# Crie princípios antes de precisar deles
+# CRIE PRINCÍPIOS ANTES DE PRECISAR DELES
 
 Quando um projeto está pequeno, algumas decisões parecem simples.
 
-Mas conforme cresce, podem surgir situações difíceis.
+Mas, conforme cresce, podem surgir situações difíceis.
 
 Por isso, defina princípios antecipadamente.
 
@@ -489,7 +489,7 @@ Princípios funcionam como uma bússola.
 
 ---
 
-# Um bom sistema permite questionamento
+# UM BOM SISTEMA PERMITE QUESTIONAMENTO
 
 Se ninguém pode questionar uma decisão, erros podem permanecer escondidos.
 
@@ -507,7 +507,7 @@ Podem protegê-la.
 
 ---
 
-# O criador também precisa aceitar limites
+# O CRIADOR TAMBÉM PRECISA ACEITAR LIMITES
 
 Você não precisa saber tudo.
 
@@ -543,9 +543,9 @@ Liste cinco.
 
 Depois classifique cada um:
 
-Baixo impacto
-Médio impacto
-Alto impacto
+- Baixo impacto
+- Médio impacto
+- Alto impacto
 
 Agora escolha os dois problemas de maior impacto.
 
@@ -557,7 +557,7 @@ Para cada um, responda:
 
 > “O que farei se acontecer?”
 
-Esse exercício transforma preocupação abstrata em preparação concreta.
+Esse exercício transforma uma preocupação abstrata em preparação concreta.
 
 ---
 
@@ -609,10 +609,14 @@ Criar é transformar uma possibilidade em realidade.
 
 Responsabilidade é lembrar que a realidade afeta pessoas.
 
-E quando uma criação começa a crescer, essa responsabilidade não deve diminuir.
+E, quando uma criação começa a crescer, essa responsabilidade não deve diminuir.
 
 **Deve crescer junto.**
 
 Porque o verdadeiro impacto não é apenas conseguir fazer algo acontecer.
 
 É conseguir fazer algo acontecer de maneira consciente, útil e responsável.
+
+> **Quanto maior o impacto que podemos criar, maior deve ser a responsabilidade com que escolhemos criá-lo.**
+
+**Pense além.**
