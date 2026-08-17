@@ -20,9 +20,11 @@ Se acreditarmos que impacto precisa ser gigantesco, podemos concluir:
 
 E então não fazemos nada.
 
-Mas impacto não começa grande.
+Mas impacto não começa necessariamente grande.
 
 Começa concreto.
+
+Começa quando uma ação produz uma mudança real para alguém.
 
 ---
 
@@ -30,7 +32,7 @@ Começa concreto.
 
 Imagine que você conhece uma dificuldade enfrentada por algumas pessoas da sua comunidade.
 
-Você pode não conseguir resolver o problema de um país inteiro.
+Talvez não consiga resolver o problema de um país inteiro.
 
 Mas talvez consiga ajudar cinco pessoas.
 
@@ -42,7 +44,7 @@ Depois ajudar cinquenta.
 
 Depois quinhentas.
 
-O alcance cresce conforme a solução aprende a funcionar.
+O alcance pode crescer conforme a solução aprende a funcionar.
 
 ---
 
@@ -52,10 +54,6 @@ Imagine alguém criando uma ferramenta que economiza dez minutos por dia para um
 
 Parece pouco.
 
-Agora multiplique:
-
-10 minutos × 1 pessoa × 1 dia = 10 minutos economizados.
-
 Mas, se essa pequena melhoria for utilizada por 100 pessoas durante 30 dias:
 
 10 minutos × 100 pessoas × 30 dias = 30.000 minutos.
@@ -64,11 +62,11 @@ Isso representa 500 horas economizadas.
 
 Uma pequena melhoria pode adquirir outra dimensão quando é repetida muitas vezes.
 
-É por isso que não devemos avaliar uma ideia apenas pelo impacto que ela produz em uma única utilização.
+Por isso, não devemos avaliar uma ideia apenas pelo impacto de uma única utilização.
 
 Precisamos perguntar:
 
-> “O que acontece quando esta pequena melhoria é repetida?”
+> **“O que acontece quando esta pequena melhoria é repetida?”**
 
 ---
 
@@ -78,11 +76,11 @@ Quando começamos pequeno, conseguimos observar melhor.
 
 Podemos conversar com as pessoas.
 
-Podemos perceber dificuldades.
+Perceber dificuldades.
 
-Podemos corrigir rapidamente.
+Corrigir rapidamente.
 
-Podemos descobrir aquilo que não tínhamos previsto.
+Descobrir aquilo que não tínhamos previsto.
 
 Um projeto pequeno pode funcionar como um laboratório da realidade.
 
@@ -114,29 +112,13 @@ O tamanho da primeira versão não determina o tamanho do futuro.
 
 ---
 
-# O impacto pode crescer em círculos
-
-Imagine:
-
-1 pessoa → 5 pessoas → 20 pessoas → 100 pessoas → 1.000 pessoas → 10.000 pessoas.
-
-O crescimento não precisa acontecer exatamente dessa maneira.
-
-Alguns projetos crescem rapidamente.
-
-Outros permanecem pequenos.
-
-O importante é compreender que alcance é algo que pode ser construído gradualmente.
-
----
-
 # Primeiro resolva, depois amplie
 
 Existe uma tentação de procurar milhares de usuários antes de saber se a solução realmente funciona.
 
-Isso pode criar problemas.
+Isso pode multiplicar problemas.
 
-Se existe uma falha, ela será multiplicada.
+Se existe uma falha, mais pessoas vão encontrá-la.
 
 Se a proposta não é clara, mais pessoas ficarão confusas.
 
@@ -154,7 +136,7 @@ Imagine que você crie uma ferramenta simples para ajudar pequenos agricultores 
 
 Durante os primeiros testes, percebe que o verdadeiro problema não é apenas encontrar compradores.
 
-Os agricultores também têm dificuldade em:
+Os agricultores também podem ter dificuldades para:
 
 - apresentar os produtos;
 - definir preços;
@@ -170,11 +152,13 @@ Você não precisa resolver tudo imediatamente.
 
 Mas agora conhece melhor o ambiente.
 
+Uma criação pode começar resolvendo um problema e terminar revelando uma oportunidade muito maior.
+
 ---
 
-# Escalar não significa apenas adicionar usuários
+# Escalar também é aprender
 
-Quando uma solução cresce, precisamos pensar em outras coisas.
+Quando uma solução cresce, surgem novas questões.
 
 Por exemplo:
 
@@ -185,79 +169,89 @@ Por exemplo:
 - qualidade;
 - processos;
 - documentação;
-- treinamento.
+- treinamento;
+- manutenção.
 
-Uma solução que funciona para dez pessoas pode precisar ser completamente reorganizada para funcionar para dez mil.
+Uma solução que funciona para dez pessoas pode precisar de mudanças para funcionar para dez mil.
 
-Por isso, crescimento também é uma forma de aprendizagem.
+Por isso, crescimento não significa apenas adicionar usuários.
 
----
-
-# O impacto pode crescer sem perder o propósito
-
-À medida que uma criação cresce, existe o risco de começar a perseguir apenas números.
-
-Mais usuários.
-
-Mais visualizações.
-
-Mais receita.
-
-Mais seguidores.
-
-Mais downloads.
-
-Esses indicadores podem ser úteis.
-
-Mas não devem substituir a pergunta principal:
-
-> **“Ainda estamos resolvendo o problema que decidimos resolver?”**
-
-Se a resposta for não, talvez o crescimento esteja levando o projeto para longe do seu propósito.
+Significa aprender a manter o valor da solução enquanto o alcance aumenta.
 
 ---
 
-# Não compare o seu começo com o resultado de outra pessoa
+# O impacto pode crescer em círculos
 
-É fácil olhar para uma grande empresa, projeto ou organização e pensar:
+Podemos imaginar:
 
-> “Eu nunca conseguirei fazer algo assim.”
+1 pessoa  
+↓  
+5 pessoas  
+↓  
+20 pessoas  
+↓  
+100 pessoas  
+↓  
+1.000 pessoas  
+↓  
+10.000 pessoas
 
-Mas estamos comparando dois momentos diferentes.
+O crescimento real nem sempre acontece dessa maneira.
 
-Você está olhando para o resultado de anos de trabalho e comparando com o seu primeiro passo.
+Alguns projetos crescem rapidamente.
 
-Uma comparação mais útil é:
+Outros permanecem pequenos.
 
-> “O que consigo fazer hoje que não conseguia fazer antes?”
-
-Essa pergunta mostra progresso.
+O importante é compreender que alcance pode ser construído gradualmente.
 
 ---
 
-# O primeiro usuário importa
+# O impacto não é apenas quantidade
 
-Quando alguém utiliza sua criação pela primeira vez, algo importante acontece.
+É fácil pensar que mais pessoas significam automaticamente mais impacto.
 
-A ideia deixa de existir apenas na sua cabeça.
+Mas isso nem sempre é verdade.
 
-Agora existe uma pessoa real interagindo com ela.
+Imagine duas soluções:
 
-Esse primeiro usuário pode revelar:
+**Solução A**
 
-- uma dificuldade;
-- uma oportunidade;
-- uma nova necessidade;
-- uma interpretação inesperada;
-- uma maneira melhor de utilizar a solução.
+10.000 pessoas utilizam, mas quase nenhuma consegue resolver completamente o problema.
 
-Por isso, não pense apenas:
+**Solução B**
 
-> “Preciso de muitos usuários.”
+500 pessoas utilizam e a maioria consegue melhorar significativamente a situação.
 
-Pense primeiro:
+Qual delas está produzindo mais valor?
 
-> **“Preciso ajudar alguém de verdade.”**
+A resposta depende do problema e do resultado.
+
+Por isso, não devemos medir impacto apenas por quantidade.
+
+Precisamos perguntar:
+
+> **“Que mudança realmente aconteceu?”**
+
+---
+
+# Meça a mudança, não apenas o alcance
+
+Se você quer saber se uma criação está produzindo impacto, observe aquilo que mudou.
+
+Pode ser:
+
+- tempo economizado;
+- tarefas concluídas;
+- custos reduzidos;
+- erros evitados;
+- oportunidades criadas;
+- pessoas atendidas;
+- conhecimentos adquiridos;
+- problemas resolvidos.
+
+A métrica correta depende do objetivo.
+
+O importante é relacionar a medida ao resultado que você deseja produzir.
 
 ---
 
@@ -271,7 +265,7 @@ Alguém explica um problema.
 
 Você ajuda a encontrar uma solução.
 
-Depois percebe que o mesmo problema afeta outras pessoas.
+Depois percebe que outras pessoas enfrentam a mesma dificuldade.
 
 A conversa transforma-se em pesquisa.
 
@@ -287,7 +281,7 @@ Uma grande criação pode começar com uma pergunta simples:
 
 ---
 
-# A IA pode ajudar a começar pequeno
+# A IA pode ajudar a ampliar a capacidade de começar
 
 A inteligência artificial pode reduzir algumas barreiras iniciais.
 
@@ -303,9 +297,9 @@ Você pode utilizá-la para:
 - identificar problemas;
 - explorar alternativas.
 
-Isso significa que uma pessoa com poucos recursos pode experimentar mais possibilidades.
+Isso permite experimentar mais possibilidades com menos recursos.
 
-Mas a ferramenta não substitui a realidade.
+Mas a IA não substitui a realidade.
 
 Depois de criar, ainda precisamos testar.
 
@@ -351,9 +345,9 @@ Uma solução pode melhorar:
 - uma comunidade;
 - uma pequena empresa;
 - uma associação;
-- uma família;
 - um grupo de estudantes;
-- um pequeno negócio.
+- um pequeno negócio;
+- uma família.
 
 Se a solução resolve um problema real para essas pessoas, já existe impacto.
 
@@ -395,7 +389,7 @@ Descobre que outras pessoas enfrentam a mesma dificuldade.
 
 Agora existe uma possibilidade de ampliar.
 
-Esse caminho é comum:
+Esse caminho pode ser representado assim:
 
 Problema pessoal  
 ↓  
@@ -431,7 +425,7 @@ Pode testar outra.
 
 Isso reduz o custo da aprendizagem.
 
-Quanto mais cedo descobrimos que uma ideia precisa mudar, melhor.
+Quanto mais cedo descobrimos que uma ideia precisa mudar, mais fácil pode ser fazer essa mudança.
 
 ---
 
@@ -461,7 +455,7 @@ Se uma solução ajuda pessoas, mas não consegue continuar existindo, precisamo
 
 Pergunte:
 
-> “Como esta criação poderá continuar funcionando?”
+> **“Como esta criação poderá continuar funcionando?”**
 
 Pode precisar de:
 
@@ -474,6 +468,10 @@ Pode precisar de:
 - manutenção.
 
 Impacto sustentável exige uma forma de continuar.
+
+Uma solução que funciona durante uma semana pode ser útil.
+
+Uma solução que continua funcionando durante anos pode produzir um impacto muito maior.
 
 ---
 
@@ -548,23 +546,20 @@ Depois:
 
 Crie uma experiência pequena.
 
-Pode ser uma página.
+Pode ser:
 
-Uma demonstração.
-
-Uma conversa.
-
-Um formulário.
-
-Uma pequena ferramenta.
-
-Uma solução manual.
+- uma página;
+- uma demonstração;
+- uma conversa;
+- um formulário;
+- uma pequena ferramenta;
+- uma solução manual.
 
 Depois observe o resultado.
 
 Pergunte:
 
-> “A pessoa realmente conseguiu resolver alguma coisa?”
+> **“A pessoa realmente conseguiu resolver alguma coisa?”**
 
 Se sim, pergunte:
 
@@ -578,6 +573,12 @@ Não tente criar uma solução gigantesca.
 
 Tente produzir **uma pequena mudança real**.
 
+Depois registre:
+
+**Problema → Ação → Resultado → Aprendizagem → Próximo passo**
+
+Esse ciclo pode transformar uma pequena experiência em algo muito maior.
+
 ---
 
 # ERRO COMUM
@@ -590,7 +591,11 @@ Outro é procurar crescimento antes de provar valor.
 
 E outro é acreditar que uma solução pequena não tem importância.
 
-Todos esses pensamentos podem atrasar a aprendizagem.
+Também é um erro medir impacto apenas por números.
+
+Milhares de usuários não significam necessariamente milhares de pessoas beneficiadas.
+
+O que importa é a mudança produzida.
 
 Começar pequeno não significa pensar pequeno.
 
@@ -636,11 +641,11 @@ Uma solução pode começar simples.
 
 Um primeiro usuário pode ser apenas uma pessoa.
 
-Mas se aquilo resolver um problema real, já existe algo importante.
+Mas, se aquilo resolver um problema real, já existe algo importante.
 
 Porque o impacto não começa quando milhões de pessoas chegam.
 
-**O impacto começa quando uma pessoa percebe que alguma coisa ficou melhor.**
+> **O impacto começa quando uma pessoa percebe que alguma coisa ficou melhor.**
 
 E talvez essa seja uma das ideias mais importantes desta parte do livro:
 
@@ -655,3 +660,5 @@ Repita.
 E, se fizer sentido, amplie.
 
 É assim que uma pequena criação pode começar a produzir um impacto muito maior do que o seu tamanho inicial.
+
+> **Uma grande mudança pode começar com uma pequena solução, quando essa solução resolve algo que realmente importa.**
