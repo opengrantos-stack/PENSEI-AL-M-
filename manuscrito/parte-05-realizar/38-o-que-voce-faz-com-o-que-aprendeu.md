@@ -6,7 +6,7 @@ Aprender é poderoso.
 
 Mas existe uma pergunta que vem depois:
 
-> **“O que você vai fazer com aquilo que aprendeu?”**
+> “O que você vai fazer com aquilo que aprendeu?”
 
 Você pode acumular informações durante anos.
 
@@ -268,7 +268,7 @@ Uma experiência com usuários.
 
 Cada projeto demonstra uma coisa importante:
 
-> **“Eu não apenas aprendi. Eu apliquei.”**
+> “Eu não apenas aprendi. Eu apliquei.”
 
 Isso pode tornar-se um portfólio de capacidade.
 
@@ -429,7 +429,7 @@ No fim, talvez a pergunta mais importante não seja:
 
 Mas:
 
-> **“O que você consegue fazer com aquilo que sabe?”**
+> “O que você consegue fazer com aquilo que sabe?”
 
 Conhecimento pode transformar sua maneira de pensar.
 
@@ -447,11 +447,11 @@ Escolha algo importante que você aprendeu recentemente.
 
 Complete:
 
-> **“Aprendi ______.”**
+> “Aprendi ______.”
 
 Depois:
 
-> **“Posso aplicar isso para ______.”**
+> “Posso aplicar isso para ______.”
 
 Agora defina uma pequena experiência:
 
@@ -480,4 +480,4 @@ Transforme uma pequena parte do que aprendeu em uma experiência real.
 
 Porque aprender abre possibilidades.
 
-**Aplicar transforma possibilidades em realidade.**
+Aplicar transforma possibilidades em realidade.
