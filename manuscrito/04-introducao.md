@@ -288,7 +288,7 @@ Uma técnica pode deixar de funcionar.
 
 Uma plataforma pode desaparecer.
 
-Mas se você aprendeu a:
+Mas, se você aprendeu a:
 
 - fazer boas perguntas;
 - pensar criticamente;
