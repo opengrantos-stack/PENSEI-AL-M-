@@ -48,7 +48,7 @@ A pessoa conhece:
 
 Mas quando recebe a tarefa:
 
-“Crie uma pequena aplicação.”
+> “Crie uma pequena aplicação.”
 
 ela não sabe por onde começar.
 
@@ -58,19 +58,21 @@ Significa que existe uma diferença entre **conhecer conceitos** e **conseguir u
 
 A prática faz a ligação.
 
+---
+
 # O projeto cria um objetivo
 
 Aprender uma coisa isoladamente pode ser difícil.
 
 Imagine:
 
-“Preciso aprender bancos de dados.”
+> “Preciso aprender bancos de dados.”
 
 Por quê?
 
 A pergunta fica mais interessante quando existe um projeto:
 
-“Preciso guardar os usuários da minha aplicação.”
+> “Preciso guardar os usuários da minha aplicação.”
 
 Agora existe uma razão para aprender.
 
@@ -78,19 +80,21 @@ O conhecimento deixa de ser abstrato.
 
 Ele está ligado a uma necessidade.
 
+---
+
 # Comece pequeno
 
 Um dos maiores erros é escolher um projeto grande demais.
 
 Imagine alguém que nunca programou dizendo:
 
-“Vou criar uma rede social completa.”
+> “Vou criar uma rede social completa.”
 
 Provavelmente encontrará problemas demais ao mesmo tempo.
 
 É melhor começar com:
 
-“Vou criar uma página onde o usuário pode escrever uma mensagem e salvá-la.”
+> “Vou criar uma página onde o usuário pode escrever uma mensagem e salvá-la.”
 
 Depois podemos adicionar:
 
@@ -105,11 +109,13 @@ O primeiro projeto não precisa ser impressionante.
 
 Precisa ser **terminável**.
 
+---
+
 # Um projeto é uma pergunta transformada em construção
 
 Imagine:
 
-“Será que consigo criar uma ferramenta que organize minhas tarefas?”
+> “Será que consigo criar uma ferramenta que organize minhas tarefas?”
 
 Essa pergunta pode virar um projeto.
 
@@ -123,10 +129,20 @@ Projeto
 ├── Mostrar tarefas
 ├── Marcar como concluída
 └── Guardar informações
+```
 
-### PARTE 2/3
+Agora temos algo concreto.
 
-```markdown
+Podemos começar pela primeira parte.
+
+Depois avançar para a seguinte.
+
+O projeto transforma uma pergunta abstrata em uma sequência de problemas menores.
+
+E cada problema resolvido representa uma oportunidade de aprendizagem.
+
+---
+
 # Aprenda somente o necessário para avançar
 
 Existe uma armadilha quando começamos um projeto:
@@ -162,6 +178,8 @@ Isso não significa ignorar fundamentos.
 
 Significa aprender os fundamentos **no contexto de algo que você está tentando construir**.
 
+---
+
 # A IA pode acompanhar a construção
 
 É aqui que a inteligência artificial pode tornar o processo ainda mais interessante.
@@ -170,21 +188,23 @@ Enquanto construímos, podemos conversar com a IA.
 
 Por exemplo:
 
-“Estou construindo uma pequena aplicação. Já consegui criar a interface, mas não sei como guardar os dados. Explique quais opções existem e qual seria a mais simples para este projeto.”
+> “Estou construindo uma pequena aplicação. Já consegui criar a interface, mas não sei como guardar os dados. Explique quais opções existem e qual seria a mais simples para este projeto.”
 
 Depois:
 
-“Agora mostre-me como posso implementar a opção escolhida.”
+> “Agora mostre-me como posso implementar a opção escolhida.”
 
 Se aparecer um erro:
 
-“Este é o código e esta é a mensagem de erro. Ajude-me a entender o que está acontecendo. Não altere tudo sem explicar a causa.”
+> “Este é o código e esta é a mensagem de erro. Ajude-me a entender o que está acontecendo. Não altere tudo sem explicar a causa.”
 
 A conversa acompanha o projeto.
 
 A IA deixa de ser apenas uma fonte de informação.
 
 Passa a funcionar como uma espécie de **companheira de aprendizagem durante a construção**.
+
+---
 
 # Não copie sem compreender
 
@@ -208,19 +228,21 @@ quando alguma coisa quebrar, talvez não saibamos como corrigir.
 
 Por isso, uma boa prática é perguntar:
 
-**“Explique cada parte importante deste código e por que ela é necessária.”**
+> **“Explique cada parte importante deste código e por que ela é necessária.”**
 
 Depois:
 
-“O que aconteceria se eu removesse esta parte?”
+> “O que aconteceria se eu removesse esta parte?”
 
 E:
 
-“Qual é o conceito que preciso aprender para compreender este código?”
+> “Qual é o conceito que preciso aprender para compreender este código?”
 
 Agora o código deixa de ser apenas algo que copiamos.
 
 Torna-se uma oportunidade para aprender.
+
+---
 
 # Construa, teste e descubra
 
@@ -252,11 +274,13 @@ Um projeto funciona como um laboratório.
 
 Cada tentativa produz conhecimento.
 
+---
+
 # Construa uma versão mínima
 
 Quando uma ideia é grande, pergunte:
 
-**“Qual é a menor versão que permite testar se esta ideia funciona?”**
+> **“Qual é a menor versão que permite testar se esta ideia funciona?”**
 
 Imagine uma plataforma completa.
 
@@ -272,10 +296,18 @@ Encontra uma solução
 Utiliza
    ↓
 Dá feedback
+```
 
-### PARTE 3/3
+Isso pode ser suficiente para começar a testar a ideia.
 
-```markdown
+Depois podemos acrescentar funcionalidades.
+
+O objetivo inicial não é construir tudo.
+
+É aprender alguma coisa importante.
+
+---
+
 # EXPLORE
 
 Escolha alguma coisa que gostaria de aprender.
@@ -295,7 +327,7 @@ Pode ser:
 
 Depois diga à IA:
 
-**“Quero aprender [assunto] construindo este projeto: [projeto]. Divida o projeto em pequenas etapas. Para cada etapa, diga o que preciso aprender, o que devo construir e como posso testar se funciona.”**
+> **“Quero aprender [assunto] construindo este projeto: [projeto]. Divida o projeto em pequenas etapas. Para cada etapa, diga o que preciso aprender, o que devo construir e como posso testar se funciona.”**
 
 Depois de cada etapa, volte à conversa.
 
@@ -313,6 +345,8 @@ Não tente dominar o assunto inteiro antes de começar.
 
 **Deixe o próprio projeto mostrar o que você precisa aprender.**
 
+---
+
 # ERRO COMUM
 
 Um erro comum é escolher um projeto grande demais.
@@ -327,17 +361,19 @@ Mas dificuldades fazem parte da construção.
 
 Quando algo não funciona, pergunte:
 
-“O que exatamente não está funcionando?”
+> “O que exatamente não está funcionando?”
 
 Depois:
 
-“Qual é a menor parte que posso testar?”
+> “Qual é a menor parte que posso testar?”
 
 E:
 
-“O que este problema pode me ensinar?”
+> “O que este problema pode me ensinar?”
 
 Essa mudança transforma obstáculos em informação.
+
+---
 
 # PENSE ALÉM
 
