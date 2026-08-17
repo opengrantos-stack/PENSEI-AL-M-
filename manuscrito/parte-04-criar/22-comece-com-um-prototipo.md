@@ -697,4 +697,4 @@ E testar novamente.
 
 Ela precisa ajudá-lo a descobrir **o que fazer a seguir**.
 
-**Comece pequeno. Teste cedo. Aprenda rápido.**
+**Comece pequeno. Teste cedo. Aprenda rápido.** 
