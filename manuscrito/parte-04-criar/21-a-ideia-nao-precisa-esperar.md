@@ -66,21 +66,21 @@ Depois melhorar.
 
 O caminho pode ser:
 
-Ideia
-  ↓
-Problema
-  ↓
-Possibilidade
-  ↓
-Protótipo
-  ↓
-Teste
-  ↓
-Aprendizagem
-  ↓
-Melhoria
-  ↓
-Criação
+    Ideia
+      ↓
+    Problema
+      ↓
+    Hipótese
+      ↓
+    Protótipo
+      ↓
+    Teste
+      ↓
+    Aprendizagem
+      ↓
+    Melhoria
+      ↓
+    Criação
 
 O mais importante é perceber que **criar não começa necessariamente construindo**.
 
@@ -243,7 +243,7 @@ Ainda precisamos compreender:
 - a tecnologia;
 - a qualidade do resultado.
 
-Se você não entende nada do que está construindo, pode não perceber quando a ferramenta produziu algo errado.
+Se você não entende o que está construindo, pode não perceber quando a ferramenta produziu algo errado.
 
 Por isso, a IA pode reduzir algumas barreiras.
 
@@ -377,23 +377,23 @@ Depois descobre outra coisa que precisa aprender.
 
 O ciclo pode ser:
 
-Projeto
-  ↓
-Problema
-  ↓
-O que preciso aprender?
-  ↓
-Estudo
-  ↓
-Aplicação
-  ↓
-Erro
-  ↓
-Correção
-  ↓
-Novo problema
-  ↓
-Novo aprendizado
+    Projeto
+      ↓
+    Problema
+      ↓
+    O que preciso aprender?
+      ↓
+    Estudo
+      ↓
+    Aplicação
+      ↓
+    Erro
+      ↓
+    Correção
+      ↓
+    Novo problema
+      ↓
+    Novo aprendizado
 
 Dessa maneira, o projeto deixa de ser apenas um resultado final.
 
@@ -751,7 +751,7 @@ Essa pergunta transforma imaginação em experimentação.
 
 E experimentação transforma possibilidades em aprendizagem.
 
-Aprendizagem transforma aprendizagem em capacidade.
+Aprendizagem transforma conhecimento em capacidade.
 
 E capacidade, quando aplicada de forma consistente, pode transformar uma ideia em algo real.
 
@@ -774,3 +774,5 @@ E continue.
 Porque muitas ideias não morrem porque eram ruins.
 
 Algumas simplesmente nunca tiveram a oportunidade de começar.
+
+**Pense além.**
