@@ -38,6 +38,8 @@ Testar.
 
 E então decidir.
 
+---
+
 ## A primeira resposta não é necessariamente a melhor resposta
 
 Imagine que você tenha um problema.
@@ -78,6 +80,14 @@ A ideia não é complicar tudo.
 
 É evitar que a primeira resposta se transforme automaticamente na resposta final.
 
+Uma primeira resposta pode ser útil.
+
+Mas uma resposta útil não precisa ser o fim da conversa.
+
+**Pode ser o começo de uma investigação.**
+
+---
+
 ## Pensar além da primeira ideia
 
 Uma ideia pode começar pequena.
@@ -116,6 +126,14 @@ Mas agora ela foi explorada por diferentes ângulos.
 
 É assim que uma ideia pode crescer.
 
+E, às vezes, explorar uma ideia também significa descobrir que ela precisa mudar.
+
+Isso não é fracasso.
+
+É aprendizagem.
+
+---
+
 ## Pensar além também significa discordar
 
 Uma boa relação com a inteligência artificial não precisa ser baseada em concordância.
@@ -142,6 +160,12 @@ Isso é importante porque uma ferramenta que apenas confirma aquilo que queremos
 
 Às vezes, precisamos de uma ferramenta que nos ajude a perceber aquilo que não queremos perceber.
 
+Uma boa conversa não precisa apenas confirmar nossas ideias.
+
+Pode também **testá-las**.
+
+---
+
 ## A IA pode ampliar o espaço de possibilidades
 
 Imagine que uma pessoa tenha uma única ideia.
@@ -163,6 +187,14 @@ A vantagem não está simplesmente em produzir mais ideias.
 Está em **aumentar o espaço que podemos explorar antes de escolher**.
 
 Essa é uma das formas pelas quais a IA pode ampliar o pensamento humano.
+
+Ela pode ajudar-nos a enxergar caminhos que, sozinhos, talvez não tivéssemos considerado.
+
+Mas enxergar mais possibilidades não significa escolher todas.
+
+Significa ter mais elementos para escolher melhor.
+
+---
 
 ## Pensar além não significa acreditar em tudo
 
@@ -186,7 +218,15 @@ Quando a informação for importante, precisamos procurar fontes confiáveis, co
 
 A IA pode ajudar na investigação.
 
+Pode ajudar a organizar informações.
+
+Pode ajudar a identificar perguntas que precisamos pesquisar.
+
 Mas não deve ser confundida com a própria realidade.
+
+**Uma resposta convincente ainda precisa ser examinada.**
+
+---
 
 ## Do pensamento para a ação
 
@@ -208,13 +248,35 @@ Corrigir.
 
 Continuar.
 
-Por isso, existe uma sequência que acompanhará este livro:
+Por isso, existe uma sequência que pode acompanhar todo este livro:
 
 > **Pensar → explorar → verificar → decidir → realizar.**
 
-A inteligência artificial pode participar de várias etapas.
+A inteligência artificial pode participar de várias dessas etapas.
 
-Mas a passagem do pensamento para a ação continua dependendo de nós.
+Pode ajudar a explorar.
+
+Pode ajudar a comparar.
+
+Pode ajudar a organizar.
+
+Pode ajudar a criar uma primeira versão.
+
+Pode ajudar a identificar problemas.
+
+Mas existe uma etapa que não pode ser terceirizada:
+
+**decidir o que fazer e assumir a responsabilidade pelaquilo que fazemos.**
+
+Pensar sem agir pode transformar-se em paralisia.
+
+Agir sem pensar pode transformar-se em erro.
+
+O objetivo é encontrar o equilíbrio:
+
+**pensar o suficiente para agir melhor.**
+
+---
 
 ## A nova relação com a inteligência artificial
 
@@ -248,6 +310,14 @@ Precisamos verificar.
 
 Precisamos decidir.
 
+Precisamos agir.
+
+A tecnologia pode participar do processo.
+
+**Mas não deve substituir a pessoa que conduz o processo.**
+
+---
+
 ## O princípio do PENSEI ALÉM
 
 A partir daqui, quero propor um princípio simples:
@@ -265,6 +335,14 @@ A segunda coloca **você e o seu objetivo** no centro.
 A IA torna-se um meio.
 
 Não o destino.
+
+Você não utiliza a inteligência artificial apenas para obter resultados.
+
+Utiliza-a para ampliar aquilo que consegue explorar, compreender, criar e realizar.
+
+Esse é o espírito do **PENSEI ALÉM**.
+
+---
 
 ## EXPERIMENTE
 
@@ -298,7 +376,19 @@ Não procure apenas elogios.
 
 Procure informação que possa melhorar o seu pensamento.
 
-Depois escolha aquilo que realmente faz sentido para você.
+Depois compare as respostas.
+
+Verifique aquilo que for importante.
+
+Escolha o que realmente fizer sentido.
+
+E então faça alguma coisa com aquilo que descobriu.
+
+Porque o objetivo de pensar além não é ficar eternamente pensando.
+
+**É pensar melhor para agir melhor.**
+
+---
 
 ## ERRO COMUM
 
@@ -318,7 +408,15 @@ Pensar além não é adicionar coisas infinitamente.
 
 É enxergar melhor.
 
-## PENSE ALÉM
+Também não significa questionar tudo sem nunca chegar a uma conclusão.
+
+Depois de explorar possibilidades e verificar informações, chega o momento de decidir.
+
+**Pensar além também significa saber quando parar de pensar e começar a fazer.**
+
+---
+
+# PENSE ALÉM
 
 Você chegou ao final da primeira parte.
 
@@ -352,6 +450,8 @@ Pode abrir portas.
 
 Pode mostrar caminhos.
 
+Pode ajudar a construir.
+
 Mas não pode decidir qual caminho merece a sua vida.
 
 Essa escolha continua sendo humana.
@@ -374,7 +474,7 @@ Lembre-se de perguntar:
 
 > **“E se houver algo além dela?”**
 
-Esse é o espírito deste livro.
+Essa pergunta resume o espírito deste livro.
 
 Não pensar menos porque temos máquinas mais capazes.
 
@@ -384,8 +484,20 @@ Não abandonar a criatividade porque podemos gerar conteúdo rapidamente.
 
 Mas utilizar tudo isso para ampliar aquilo que somos capazes de imaginar, compreender, criar e realizar.
 
-> **PENSE ALÉM.**
+A inteligência artificial pode ser uma ferramenta extraordinária.
+
+Mas a direção continua sendo nossa.
+
+O objetivo não é construir um mundo em que as máquinas façam tudo.
+
+É construir um mundo em que **mais pessoas possam fazer aquilo que antes parecia impossível para elas**.
+
+> **PENSEI ALÉM.**
 
 Porque talvez o maior potencial da inteligência artificial não esteja em substituir aquilo que o ser humano faz.
 
 Talvez esteja em ajudar o ser humano a descobrir **o que ainda é capaz de fazer**.
+
+E esta é apenas a primeira pergunta.
+
+**O que você vai fazer com a resposta?**
