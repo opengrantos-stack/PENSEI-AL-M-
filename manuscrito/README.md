@@ -13,4 +13,4 @@ O manuscrito está organizado em seis partes:
 5. Realizar
 6. O Outro Lado
 
-Os capítulos serão desenvolvidos individualmente e revisados antes da publicação.
+Os capítulos são desenvolvidos individualmente e revisados antes da publicação.
