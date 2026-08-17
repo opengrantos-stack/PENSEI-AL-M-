@@ -589,4 +589,4 @@ Ensine.
 
 Compartilhe.
 
-E permita que aquilo que começou com você continue avançando para além de você.
+E permita que aquilo que começou com você continue avançando para além de você. 
