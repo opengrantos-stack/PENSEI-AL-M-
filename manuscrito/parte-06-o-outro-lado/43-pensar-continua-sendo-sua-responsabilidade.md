@@ -562,4 +562,4 @@ Porque, no final, a tecnologia pode ser extremamente inteligente.
 
 **A responsabilidade continua sendo humana.**
 
-**Pense além.** 
+**Pense além.**
