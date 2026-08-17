@@ -456,4 +456,4 @@ E quando conseguimos compreender melhor aquilo que pensamos, começamos a enxerg
 
 Porque algumas das melhores ideias não aparecem quando encontramos uma resposta.
 
-Elas aparecem quando fazemos **a próxima pergunta**.
+Elas aparecem quando fazemos **a próxima pergunta**. 
