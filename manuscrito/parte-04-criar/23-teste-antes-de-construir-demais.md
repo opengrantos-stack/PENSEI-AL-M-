@@ -380,19 +380,12 @@ Durante os testes, você pode encontrar dezenas de problemas.
 
 Não precisa resolver todos imediatamente.
 
-Organize.
+Organize em quatro níveis:
 
-Por exemplo:
-
-```text
-Problemas críticos
-       ↓
-Problemas importantes
-       ↓
-Melhorias
-       ↓
-Detalhes
-```
+1. Problemas críticos
+2. Problemas importantes
+3. Melhorias
+4. Detalhes
 
 Comece pelos problemas que impedem a solução de cumprir seu objetivo principal.
 
@@ -446,12 +439,13 @@ Mas quando o mesmo problema aparece repetidamente, devemos prestar atenção.
 
 Imagine:
 
-```text
 Pessoa 1 → não encontrou o botão
+
 Pessoa 2 → não encontrou o botão
+
 Pessoa 3 → não encontrou o botão
+
 Pessoa 4 → encontrou depois de procurar
-```
 
 Agora existe um padrão.
 
@@ -507,21 +501,19 @@ Pode ser tentador construir tudo imediatamente.
 
 Mas talvez seja melhor começar com:
 
-```text
-1 problema
-   ↓
-1 público
-   ↓
-1 solução simples
-   ↓
-Poucos usuários
-   ↓
-Feedback
-   ↓
-Correção
-   ↓
+1 problema  
+↓  
+1 público  
+↓  
+1 solução simples  
+↓  
+Poucos usuários  
+↓  
+Feedback  
+↓  
+Correção  
+↓  
 Novo teste
-```
 
 Quando o processo começa a funcionar, podemos aumentar gradualmente.
 
@@ -533,25 +525,23 @@ Isso reduz o risco de construir algo grande baseado em suposições pequenas.
 
 Podemos transformar o processo em um ciclo:
 
-```text
-IDEIA
-  ↓
-HIPÓTESE
-  ↓
-PROTÓTIPO
-  ↓
-TESTE
-  ↓
-OBSERVAÇÃO
-  ↓
-FEEDBACK
-  ↓
-APRENDIZAGEM
-  ↓
-MUDANÇA
-  ↓
+IDEIA  
+↓  
+HIPÓTESE  
+↓  
+PROTÓTIPO  
+↓  
+TESTE  
+↓  
+OBSERVAÇÃO  
+↓  
+FEEDBACK  
+↓  
+APRENDIZAGEM  
+↓  
+MUDANÇA  
+↓  
 NOVO TESTE
-```
 
 Observe que o ciclo não termina quando construímos.
 
@@ -769,3 +759,6 @@ Porque uma das maiores vantagens de testar cedo não é evitar todos os erros.
 > **Uma ideia não precisa estar certa para começar. Ela precisa estar disposta a ser testada.**
 
 E quanto mais cedo você coloca uma ideia diante da realidade, mais cedo pode descobrir no que ela realmente pode se transformar.
+
+**Teste antes de construir demais.**
+**Pense além.**
