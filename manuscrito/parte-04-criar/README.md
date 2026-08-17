@@ -15,11 +15,11 @@ Com as ferramentas certas, ela pode transformar-se em uma primeira versão, ser 
 ## Capítulos
 
 21. A ideia não precisa esperar
-22. Comecei com um protótipo
+22. Comece com um protótipo
 23. Teste antes de construir demais
 24. Melhore com o que aprendeu
 25. Não crie sozinho
-26. Transforme conhecimento em habilidades
+26. Transforme conhecimento em habilidade
 27. Crie algo que resolva um problema
 28. Comece pequeno, pense grande
 29. Da criação para o mundo
