@@ -26,15 +26,15 @@ Porque criar algo para si é diferente de criar algo para o mundo.
 
 ---
 
-# Construir não é lançar
+# CONSTRUIR NÃO É LANÇAR
 
-Você pode ter um produto funcionando e ainda não ter lançado.
+Você pode ter um produto funcionando e ainda não o ter lançado.
 
 Pode ter uma aplicação pronta e ninguém saber que existe.
 
 Pode ter um livro terminado e ninguém o ler.
 
-Pode ter uma ferramenta excelente e ninguém utilizá-la.
+Pode ter uma ferramenta excelente e ninguém a utilizar.
 
 A criação precisa atravessar uma fronteira:
 
@@ -46,7 +46,7 @@ Mas é necessária.
 
 ---
 
-# O mundo é diferente do laboratório
+# O MUNDO É DIFERENTE DO LABORATÓRIO
 
 Durante o desenvolvimento, você controla muitas coisas.
 
@@ -64,7 +64,7 @@ Ele chega sem o seu contexto.
 
 Pode interpretar algo de maneira diferente.
 
-Pode utilizar uma função que você não imaginou.
+Pode utilizar uma função de uma maneira que você não imaginou.
 
 Pode ignorar aquilo que você considerava importante.
 
@@ -76,7 +76,7 @@ Significa que a criação finalmente encontrou a realidade.
 
 ---
 
-# O lançamento é um novo teste
+# O LANÇAMENTO É UM NOVO TESTE
 
 Lançar não significa dizer:
 
@@ -96,7 +96,7 @@ Agora começa uma nova fonte de informação.
 
 ---
 
-# Não espere que todos gostem
+# NÃO ESPERE QUE TODOS GOSTEM
 
 Quando algo é lançado, algumas pessoas vão gostar.
 
@@ -108,13 +108,13 @@ Outras encontrarão defeitos.
 
 Isso é normal.
 
-Não transforme cada reação em julgamento sobre você.
+Não transforme cada reação em um julgamento sobre você.
 
 Uma pessoa pode não precisar da solução.
 
 Outra pode não compreender como funciona.
 
-Outra pode simplesmente preferir outra alternativa.
+Outra pode simplesmente preferir uma alternativa diferente.
 
 O objetivo não é agradar a todos.
 
@@ -122,7 +122,7 @@ O objetivo não é agradar a todos.
 
 ---
 
-# Encontre os primeiros usuários
+# ENCONTRE OS PRIMEIROS USUÁRIOS
 
 No começo, você não precisa alcançar todo mundo.
 
@@ -142,7 +142,7 @@ Os primeiros usuários podem ensinar muito mais do que uma audiência enorme que
 
 ---
 
-# Explique o valor com clareza
+# EXPLIQUE O VALOR COM CLAREZA
 
 Quando apresentar uma criação, evite explicar apenas funcionalidades.
 
@@ -160,7 +160,7 @@ Precisam entender por que aquilo pode ser útil.
 
 ---
 
-# A primeira impressão importa
+# A PRIMEIRA IMPRESSÃO IMPORTA
 
 Quando alguém encontra sua criação pela primeira vez, existem algumas perguntas silenciosas:
 
@@ -178,7 +178,7 @@ Por isso, simplicidade também importa na apresentação.
 
 ---
 
-# Mostre antes de explicar demais
+# MOSTRE ANTES DE EXPLICAR DEMAIS
 
 Uma demonstração pode comunicar em segundos aquilo que uma longa explicação não consegue.
 
@@ -194,7 +194,7 @@ A experiência pode ser a melhor explicação.
 
 ---
 
-# Observe o que acontece depois do lançamento
+# OBSERVE O QUE ACONTECE DEPOIS DO LANÇAMENTO
 
 Agora existem novos sinais.
 
@@ -212,7 +212,7 @@ Esses dados ajudam a entender o comportamento real.
 
 ---
 
-# Números contam uma parte da história
+# NÚMEROS CONTAM UMA PARTE DA HISTÓRIA
 
 Imagine:
 
@@ -236,7 +236,7 @@ Pergunte:
 
 ---
 
-# Histórias também importam
+# HISTÓRIAS TAMBÉM IMPORTAM
 
 Nem tudo pode ser reduzido a métricas.
 
@@ -250,11 +250,11 @@ Outra pessoa pode explicar:
 
 > “Finalmente consegui fazer aquilo que antes não sabia como resolver.”
 
-Esses relatos ajudam a compreender impacto.
+Esses relatos ajudam a compreender o impacto.
 
 ---
 
-# O lançamento pode revelar um novo problema
+# O LANÇAMENTO PODE REVELAR UM NOVO PROBLEMA
 
 Talvez você descubra:
 
@@ -276,7 +276,7 @@ Veja como informação.
 
 ---
 
-# Corrija rapidamente o que for importante
+# CORRIJA RAPIDAMENTE O QUE FOR IMPORTANTE
 
 Depois do lançamento, alguns problemas serão inevitáveis.
 
@@ -284,7 +284,7 @@ Se um problema impede a utilização principal, priorize-o.
 
 Não precisa esperar uma grande atualização.
 
-Às vezes uma pequena correção pode melhorar muito a experiência.
+Às vezes, uma pequena correção pode melhorar muito a experiência.
 
 O ciclo continua:
 
@@ -300,7 +300,7 @@ Lançar novamente
 
 ---
 
-# Não confunda lançamento com chegada
+# NÃO CONFUNDA LANÇAMENTO COM CHEGADA
 
 Lançar pode parecer o fim da construção.
 
@@ -323,7 +323,7 @@ O produto começa a ensinar você.
 
 ---
 
-# O mundo pode mudar sua ideia
+# O MUNDO PODE MUDAR SUA IDEIA
 
 Talvez a solução que você imaginou inicialmente não seja exatamente aquela de que as pessoas precisam.
 
@@ -349,7 +349,7 @@ Proteja o objetivo de resolver um problema real.
 
 ---
 
-# O lançamento exige coragem
+# O LANÇAMENTO EXIGE CORAGEM
 
 Existe uma razão pela qual muitas pessoas continuam aperfeiçoando algo indefinidamente.
 
@@ -375,7 +375,7 @@ Começamos a descobrir.
 
 ---
 
-# Comece com um lançamento controlado
+# COMECE COM UM LANÇAMENTO CONTROLADO
 
 Lançar para o mundo não significa necessariamente colocar tudo diante de milhares de pessoas imediatamente.
 
@@ -399,7 +399,7 @@ Isso reduz riscos e permite aprender antes de aumentar a escala.
 
 ---
 
-# Prepare uma forma de receber feedback
+# PREPARE UMA FORMA DE RECEBER FEEDBACK
 
 Se ninguém consegue dizer o que está errado, você perde uma fonte importante de aprendizagem.
 
@@ -419,7 +419,7 @@ Precisa permitir que você descubra o que está acontecendo.
 
 ---
 
-# Escolha métricas que realmente importam
+# ESCOLHA MÉTRICAS QUE REALMENTE IMPORTAM
 
 Não acompanhe tudo apenas porque é possível.
 
@@ -441,7 +441,7 @@ Essas perguntas são mais úteis do que simplesmente observar quantas pessoas ab
 
 ---
 
-# O primeiro lançamento não define o futuro
+# O PRIMEIRO LANÇAMENTO NÃO DEFINE O FUTURO
 
 Uma primeira versão pode ter poucos usuários.
 
@@ -479,7 +479,7 @@ Cada resposta leva a uma decisão diferente.
 
 ---
 
-# Quando continuar, mudar ou parar
+# QUANDO CONTINUAR, MUDAR OU PARAR
 
 Depois de testar, você pode chegar a três caminhos.
 
