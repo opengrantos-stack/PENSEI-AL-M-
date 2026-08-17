@@ -18,7 +18,7 @@ Esse momento é importante.
 
 Porque agora já não estamos trabalhando apenas com aquilo que imaginamos.
 
-Temos informação vinda da realidade.
+Temos informações vindas da realidade.
 
 A pergunta passa a ser:
 
@@ -42,7 +42,7 @@ Outra pode perguntar:
 
 Outra pode abandonar uma etapa.
 
-Outra pode utilizar uma função de uma maneira completamente diferente da que imaginamos.
+Outra pode utilizar uma função de uma maneira completamente diferente daquela que imaginamos.
 
 Tudo isso pode ensinar alguma coisa.
 
@@ -70,7 +70,7 @@ Pergunte:
 
 > “Este comentário revela um problema real?”
 
-> “Acontece com outras pessoas?”
+> “Isso acontece com outras pessoas?”
 
 > “Afeta o objetivo principal?”
 
@@ -108,7 +108,6 @@ Organize o que descobriu.
 
 Por exemplo:
 
-```text
 Problema crítico
 ↓
 Impede o uso principal
@@ -124,25 +123,24 @@ Torna o produto melhor
 Detalhe
 ↓
 Pode esperar
-```
 
 Essa organização ajuda a decidir onde concentrar energia.
 
 ---
 
-# Primeiro corrija aquilo que bloqueia
+# Primeiro, corrija aquilo que bloqueia
 
 Imagine que uma aplicação tenha dez problemas.
 
 Um deles impede o usuário de concluir a tarefa principal.
 
-Outro muda ligeiramente o tamanho de um botão.
+Outro altera ligeiramente o tamanho de um botão.
 
 Qual deve ser corrigido primeiro?
 
 O problema que bloqueia o objetivo principal.
 
-Isso parece óbvio, mas quando estamos emocionalmente ligados àquilo que criamos, podemos gastar muito tempo em detalhes porque são mais fáceis de corrigir.
+Isso parece óbvio, mas, quando estamos emocionalmente ligados àquilo que criamos, podemos gastar muito tempo em detalhes porque são mais fáceis de corrigir.
 
 Melhorar não significa apenas deixar algo mais bonito.
 
@@ -192,25 +190,23 @@ Quando possível, faça mudanças de forma controlada.
 
 Em vez de alterar dez partes simultaneamente, escolha uma melhoria importante.
 
-Depois teste novamente.
+Depois, teste novamente.
 
 Isso ajuda a descobrir se a mudança realmente produziu algum efeito.
 
 Podemos pensar assim:
 
-```text
 Feedback
-   ↓
+↓
 Problema
-   ↓
+↓
 Hipótese de melhoria
-   ↓
+↓
 Mudança
-   ↓
+↓
 Novo teste
-   ↓
+↓
 Resultado
-```
 
 Se o resultado melhorar, aprendemos.
 
@@ -250,7 +246,7 @@ Mas, quando possível, algumas métricas podem ajudar.
 Por exemplo:
 
 - quantas pessoas começaram uma tarefa;
-- quantas conseguiram terminar;
+- quantas conseguiram terminá-la;
 - onde abandonaram;
 - quanto tempo demoraram;
 - quantas voltaram a utilizar;
@@ -305,13 +301,13 @@ Por exemplo:
 
 Depois:
 
-> **“Não proponha soluções ainda. Primeiro explique o que os dados parecem indicar.”**
+> **“Não proponha soluções ainda. Primeiro, explique o que os dados parecem indicar.”**
 
 Essa segunda instrução é importante.
 
-Primeiro compreendemos.
+Primeiro, compreendemos.
 
-Depois decidimos.
+Depois, decidimos.
 
 ---
 
@@ -331,7 +327,7 @@ se apenas duas pessoas fizeram críticas.
 
 > “Duas pessoas tiveram esta dificuldade. O que podemos concluir com segurança?”
 
-Essa diferença protege contra conclusões exageradas.
+Essa diferença ajuda a evitar conclusões exageradas.
 
 ---
 
@@ -339,25 +335,23 @@ Essa diferença protege contra conclusões exageradas.
 
 A criação pode funcionar como um ciclo contínuo:
 
-```text
 Criar
-  ↓
+↓
 Testar
-  ↓
+↓
 Observar
-  ↓
+↓
 Receber feedback
-  ↓
+↓
 Interpretar
-  ↓
+↓
 Priorizar
-  ↓
+↓
 Melhorar
-  ↓
+↓
 Testar novamente
-  ↓
+↓
 Aprender novamente
-```
 
 Observe que não existe necessariamente um ponto final.
 
@@ -391,7 +385,7 @@ Pode ter limitações.
 
 Pode não parecer impressionante.
 
-Mas se ajudar você a descobrir algo importante, cumpriu seu papel.
+Mas, se ajudar você a descobrir algo importante, cumpriu seu papel.
 
 ---
 
@@ -409,13 +403,13 @@ Então faça uma alteração:
 
 > “Vou reduzir os campos obrigatórios.”
 
-Depois teste.
+Depois, teste.
 
 Se o abandono diminuir, temos uma evidência a favor da hipótese.
 
 Se não mudar, precisamos investigar novamente.
 
-Isso transforma melhoria em experimentação.
+Isso transforma a melhoria em experimentação.
 
 ---
 
@@ -449,7 +443,7 @@ Imagine que você simplifique uma página.
 
 Agora ela parece mais fácil.
 
-Mas removeu uma informação que alguns usuários precisavam.
+Mas removeu uma informação de que alguns usuários precisavam.
 
 Por isso, depois de uma alteração, teste novamente.
 
@@ -484,22 +478,20 @@ Escolha um projeto, protótipo ou ideia que você já tenha desenvolvido.
 
 Liste os principais feedbacks que recebeu.
 
-Depois organize-os em quatro grupos:
+Depois, organize-os em quatro grupos:
 
-```text
 1. Problemas críticos
 2. Problemas importantes
 3. Melhorias
 4. Detalhes
-```
 
-Agora escolha apenas um problema crítico ou importante.
+Agora, escolha apenas um problema crítico ou importante.
 
 Escreva uma hipótese:
 
 > **“Acredito que este problema acontece porque ______.”**
 
-Depois pense em uma pequena mudança que possa testar essa hipótese.
+Depois, pense em uma pequena mudança que possa testar essa hipótese.
 
 Implemente a mudança.
 
@@ -507,7 +499,7 @@ Mostre novamente para algumas pessoas.
 
 Observe o que acontece.
 
-Depois compare:
+Depois, compare:
 
 > “O problema diminuiu?”
 
@@ -533,7 +525,7 @@ Um erro comum é tentar implementar todas as sugestões recebidas.
 
 Outro é priorizar aquilo que é mais fácil de modificar, em vez daquilo que é mais importante.
 
-Também é comum mudar muitas coisas ao mesmo tempo e depois não saber qual alteração produziu o resultado.
+Também é comum mudar muitas coisas ao mesmo tempo e, depois, não saber qual alteração produziu o resultado.
 
 Outro erro é ignorar dados que contradizem nossas expectativas.
 
@@ -543,7 +535,9 @@ E existe ainda outro:
 
 Mais funcionalidades não significam necessariamente mais valor.
 
-Às vezes, melhorar significa remover.
+Às vezes, melhorar significa:
+
+Remover.
 
 Simplificar.
 
