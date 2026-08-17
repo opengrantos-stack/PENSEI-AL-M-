@@ -88,7 +88,7 @@ Uma inovação precisa encontrar o contexto certo.
 
 Por isso:
 
-> **nem todo resultado importante aparece rapidamente.**
+> **Nem todo resultado importante aparece rapidamente.**
 
 ---
 
@@ -106,7 +106,7 @@ Precisamos medir aquilo que é possível medir.
 
 Mas também reconhecer:
 
-> “Aquilo que conseguimos medir não representa necessariamente tudo o que importa.”
+> **“Aquilo que conseguimos medir não representa necessariamente tudo o que importa.”**
 
 Os números são instrumentos.
 
@@ -220,7 +220,7 @@ Imagine que alguém diga:
 
 Isso é positivo.
 
-Mas existe uma evidência mais forte:
+Mas existe uma evidência diferente:
 
 > A pessoa voltou e utilizou novamente.
 
@@ -312,17 +312,15 @@ Mas quem se beneficia também pode ser o estudante.
 
 Nesse caso:
 
-```text
-Criação
-↓
-Professor
-↓
-Melhor experiência
-↓
-Estudante
-↓
-Aprendizagem
-```
+    Criação
+      ↓
+    Professor
+      ↓
+    Melhor experiência
+      ↓
+    Estudante
+      ↓
+    Aprendizagem
 
 O impacto não termina no usuário direto.
 
@@ -342,19 +340,17 @@ Depois ajuda uma terceira.
 
 O impacto começa a formar uma cadeia:
 
-```text
-Uma criação
-↓
-Uma pessoa
-↓
-Uma nova habilidade
-↓
-Outra pessoa
-↓
-Novo resultado
-↓
-Mais possibilidades
-```
+    Uma criação
+      ↓
+    Uma pessoa
+      ↓
+    Uma nova habilidade
+      ↓
+    Outra pessoa
+      ↓
+    Novo resultado
+      ↓
+    Mais possibilidades
 
 Nem sempre conseguimos medir toda essa cadeia.
 
@@ -430,21 +426,19 @@ Não apenas:
 
 Mas:
 
-> “Estas pessoas tinham este problema. Criaram este processo para lidar com ele. Depois de utilizar nossa solução, conseguiram alcançar este resultado.”
+> “Estas pessoas tinham este problema. Utilizavam este processo para lidar com ele. Depois de utilizar nossa solução, conseguiram alcançar este resultado.”
 
 Uma boa história de impacto conecta:
 
-```text
-Problema
-↓
-Solução
-↓
-Uso
-↓
-Mudança
-↓
-Resultado
-```
+    Problema
+      ↓
+    Solução
+      ↓
+    Uso
+      ↓
+    Mudança
+      ↓
+    Resultado
 
 Essa estrutura ajuda outras pessoas a compreender o valor da criação.
 
@@ -536,25 +530,23 @@ Depois:
 
 Agora complete:
 
-```text
-Impacto direto
-↓
-Quem utiliza?
-↓
-O que muda?
+    Impacto direto
+      ↓
+    Quem utiliza?
+      ↓
+    O que muda?
 
-Impacto indireto
-↓
-Quem se beneficia depois?
-↓
-O que pode mudar?
+    Impacto indireto
+      ↓
+    Quem se beneficia depois?
+      ↓
+    O que pode mudar?
 
-Impacto futuro
-↓
-O que pode acontecer se essa ideia continuar?
-↓
-Que novas possibilidades pode criar?
-```
+    Impacto futuro
+      ↓
+    O que pode acontecer se essa ideia continuar?
+      ↓
+    Que novas possibilidades pode criar?
 
 Por fim, pergunte:
 
@@ -564,7 +556,7 @@ Essa pergunta ajuda a separar aquilo que já sabemos daquilo que ainda precisamo
 
 ---
 
-# A ideia principal
+# A IDEIA PRINCIPAL
 
 Nem tudo o que importa pode ser contado imediatamente.
 
@@ -589,3 +581,9 @@ Porque criar algo importante não significa apenas produzir uma coisa.
 Significa iniciar uma mudança.
 
 E algumas mudanças continuam acontecendo muito depois de o criador dar o primeiro passo.
+
+---
+
+> **O impacto nem sempre aparece primeiro nos números. Às vezes, começa como uma mudança que ainda está aprendendo a ser percebida.**
+
+**Pense além.**
