@@ -142,7 +142,7 @@ A inteligência artificial pode ajudar a:
 
 Mas existe uma diferença importante:
 
-> **Uma ferramenta pode aumentar sua capacidade. Não elimina a necessidade de julgamento.**
+> Uma ferramenta pode aumentar sua capacidade. Não elimina a necessidade de julgamento.
 
 Você continua responsável por decidir o que faz sentido.
 
@@ -192,7 +192,7 @@ Em vez de perguntar apenas:
 
 pergunte:
 
-> **“Qual problema preciso resolver e que capacidade é necessária para resolvê-lo?”**
+> “Qual problema preciso resolver e que capacidade é necessária para resolvê-lo?”
 
 Isso torna a busca mais precisa.
 
@@ -453,11 +453,11 @@ O que ainda preciso descobrir:
 
 Depois pergunte à IA:
 
-> **“Analise este projeto e identifique quais capacidades são necessárias para transformá-lo em uma primeira versão funcional. Separe aquilo que posso aprender, aquilo que ferramentas podem facilitar e aquilo que provavelmente exigirá colaboração humana.”**
+> “Analise este projeto e identifique quais capacidades são necessárias para transformá-lo em uma primeira versão funcional. Separe aquilo que posso aprender, aquilo que ferramentas podem facilitar e aquilo que provavelmente exigirá colaboração humana.”
 
 Depois pergunte:
 
-> **“Qual dessas necessidades devo resolver primeiro?”**
+> “Qual dessas necessidades devo resolver primeiro?”
 
 Isso ajuda a evitar a sensação de que você precisa saber fazer tudo antes de começar.
 
@@ -509,11 +509,11 @@ Significa apenas que não precisa carregar sozinho tudo aquilo que pode ser comp
 
 A pergunta deixa de ser:
 
-> **“Como vou fazer tudo isso sozinho?”**
+> “Como vou fazer tudo isso sozinho?”
 
 E passa a ser:
 
-> **“Que capacidades preciso reunir para fazer isso acontecer?”**
+> “Que capacidades preciso reunir para fazer isso acontecer?”
 
 Essa mudança parece pequena.
 
@@ -533,4 +533,4 @@ Precisa saber encontrar ajuda.
 
 E precisa saber coordenar essas capacidades em torno de um objetivo.
 
-> **Criar não é fazer tudo sozinho. Criar é transformar uma possibilidade em realidade — usando aquilo que você sabe, aquilo que pode aprender e aquilo que pode construir junto com outras pessoas.**
+> “Criar não é fazer tudo sozinho. Criar é transformar uma possibilidade em realidade — usando aquilo que você sabe, aquilo que pode aprender e aquilo que pode construir junto com outras pessoas.”
