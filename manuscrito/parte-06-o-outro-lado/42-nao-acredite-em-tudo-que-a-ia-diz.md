@@ -732,4 +732,4 @@ Com responsabilidade.
 
 E com a consciência de que uma resposta nunca deve ser mais importante do que a realidade que ela pretende explicar.
 
-**Pense além.**
+**Pense além.** 
