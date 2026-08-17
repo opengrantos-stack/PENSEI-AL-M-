@@ -290,25 +290,23 @@ Uma boa colaboração raramente acontece em uma única pergunta.
 
 Pode seguir este ciclo:
 
-```
-Ideia
-↓
-Exploração
-↓
-Primeira versão
-↓
-Crítica
-↓
-Melhoria
-↓
-Teste
-↓
-Resultado
-↓
-Aprendizado
-↓
+Ideia  
+↓  
+Exploração  
+↓  
+Primeira versão  
+↓  
+Crítica  
+↓  
+Melhoria  
+↓  
+Teste  
+↓  
+Resultado  
+↓  
+Aprendizado  
+↓  
 Nova versão
-```
 
 Cada ciclo produz informação.
 
