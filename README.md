@@ -115,7 +115,7 @@ O manuscrito possui atualmente **47 capítulos**.
 
 # PARTE V — REALIZAR
 
-### 30. O que você faz com aquilo que criou
+### 30. O produto precisa encontrar pessoas
 ### 31. O impacto começa no pequeno
 ### 32. Transforme impacto em movimento
 ### 33. Quando o impacto encontra responsabilidade
@@ -156,4 +156,19 @@ CRIAR
     ↓
 REALIZAR
     ↓
-COMPREENDER OS LIMITES
+O OUTRO LADO
+    ↓
+PENSAR ALÉM
+```
+
+A jornada começa apresentando a inteligência artificial e a mudança que ela representa.
+
+Depois, mostra como utilizá-la para **pensar melhor, aprender, criar e transformar ideias em realidade**.
+
+Por fim, apresenta os limites, riscos e responsabilidades necessários para utilizar essa tecnologia sem perder a autonomia, o pensamento crítico e a responsabilidade humana.
+
+> **A inteligência artificial pode ampliar o que conseguimos fazer.**
+>
+> **Mas a direção continua sendo nossa.**
+
+**Pense além.**
