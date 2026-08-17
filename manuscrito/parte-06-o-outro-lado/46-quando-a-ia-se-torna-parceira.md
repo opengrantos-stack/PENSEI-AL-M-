@@ -268,7 +268,7 @@ Contexto transforma uma conversa genérica em colaboração.
 
 Uma boa parceria também precisa reconhecer o que não está funcionando.
 
-Se algo deu errado, diga.
+Se algo deu errado, diga:
 
 > “Isto não funcionou.”
 
@@ -290,7 +290,7 @@ Uma boa colaboração raramente acontece em uma única pergunta.
 
 Pode seguir este ciclo:
 
-```text
+```
 Ideia
 ↓
 Exploração
@@ -308,3 +308,229 @@ Resultado
 Aprendizado
 ↓
 Nova versão
+```
+
+Cada ciclo produz informação.
+
+E cada informação pode melhorar o próximo ciclo.
+
+---
+
+## Não tenha medo de voltar atrás
+
+Uma parceria verdadeira não significa defender a primeira ideia.
+
+Se os resultados mostrarem que algo não funciona, mude.
+
+Se uma hipótese estiver errada, corrija.
+
+Se aparecer uma oportunidade melhor, explore.
+
+A capacidade de mudar de direção é uma vantagem.
+
+---
+
+## A IA pode ajudar você a pensar em escala
+
+Uma pessoa possui tempo limitado.
+
+Não consegue explorar todas as possibilidades.
+
+A IA pode ajudar a aumentar a quantidade de alternativas analisadas.
+
+Mas existe uma regra:
+
+> **Mais possibilidades não significam automaticamente melhores decisões.**
+
+Depois de explorar, é necessário selecionar.
+
+---
+
+## A parceria não elimina o esforço
+
+Mesmo com IA, projetos continuam exigindo:
+
+- trabalho;
+- testes;
+- decisões;
+- paciência;
+- aprendizagem;
+- responsabilidade.
+
+A tecnologia pode reduzir determinadas dificuldades.
+
+Não elimina a necessidade de construir.
+
+---
+
+## Use a IA para acelerar o que já faz sentido
+
+Existe uma ordem importante:
+
+> **Primeiro direção, depois velocidade.**
+
+Se você acelerar uma ideia ruim, apenas chegará ao problema mais rapidamente.
+
+Se você validar uma direção e depois utilizar IA para acelerar a execução, a ferramenta pode produzir muito mais valor.
+
+---
+
+## Construa um sistema de colaboração
+
+Você pode criar um processo próprio.
+
+Por exemplo:
+
+### Antes
+
+Defina o objetivo.
+
+### Durante
+
+Explore possibilidades com IA.
+
+### Depois
+
+Questione e verifique.
+
+### Em seguida
+
+Teste no mundo real.
+
+### Finalmente
+
+Aprenda com o resultado.
+
+Depois comece novamente.
+
+Isso transforma uma conversa isolada em um sistema de trabalho.
+
+---
+
+# EXPERIMENTE
+
+Escolha um projeto real que esteja desenvolvendo.
+
+Pode ser pequeno.
+
+Agora utilize a IA como parceira seguindo estas etapas:
+
+### 1. Explique
+
+Apresente o problema, o objetivo e as limitações.
+
+### 2. Explore
+
+Peça diferentes abordagens.
+
+### 3. Questione
+
+Peça os riscos e pontos fracos de cada abordagem.
+
+### 4. Escolha
+
+Defina os critérios que realmente importam.
+
+### 5. Crie
+
+Desenvolva uma primeira versão.
+
+### 6. Teste
+
+Coloque a versão em prática quando for seguro e apropriado.
+
+### 7. Analise
+
+Mostre os resultados à IA e peça ajuda para interpretá-los.
+
+### 8. Melhore
+
+Faça uma nova versão.
+
+O objetivo não é fazer a IA trabalhar no seu lugar.
+
+É criar um ciclo em que **você e a ferramenta aprendem com cada etapa do processo**.
+
+---
+
+# ERRO COMUM
+
+O erro é tratar parceria como delegação total.
+
+Outro é fornecer pouco contexto e esperar uma solução perfeita.
+
+Outro é aceitar a primeira sugestão.
+
+Outro é gerar muitas possibilidades sem escolher nenhuma.
+
+Outro é acelerar antes de validar.
+
+E existe outro erro:
+
+**confundir uma IA que participa do processo com uma IA que deve controlar o processo.**
+
+Ela pode ser uma parceira poderosa.
+
+Mas a direção continua sendo sua.
+
+---
+
+# PENSE ALÉM
+
+Talvez a evolução mais interessante da inteligência artificial não seja simplesmente:
+
+> “Uma máquina que consegue fazer mais coisas.”
+
+Talvez seja:
+
+> **“Uma pessoa que consegue fazer mais coisas porque aprendeu a trabalhar com uma máquina inteligente.”**
+
+Essa diferença importa.
+
+O futuro não precisa ser uma disputa entre pessoas e máquinas.
+
+Pode ser uma colaboração.
+
+A pessoa traz:
+
+- intenção;
+- experiência;
+- valores;
+- curiosidade;
+- julgamento;
+- responsabilidade.
+
+A IA pode trazer:
+
+- velocidade;
+- possibilidades;
+- organização;
+- análise;
+- experimentação;
+- capacidade de processar informação.
+
+Quando essas capacidades se encontram de maneira consciente, algo novo pode acontecer.
+
+Não é a máquina substituindo a pessoa.
+
+Não é a pessoa ignorando a máquina.
+
+É a criação de uma nova forma de trabalhar.
+
+> **A melhor parceria com a IA não é aquela em que ela faz tudo. É aquela em que, juntos, vocês conseguem fazer aquilo que seria mais difícil fazer separadamente.**
+
+Use a ferramenta.
+
+Questione a ferramenta.
+
+Aprenda com a ferramenta.
+
+Construa com a ferramenta.
+
+Mas nunca esqueça:
+
+**a ferramenta pode participar da jornada.**
+
+**A direção continua sendo sua.**
+
+**Pense além.**
