@@ -124,6 +124,9 @@ Projeto
 ├── Marcar como concluída
 └── Guardar informações
 
+### PARTE 2/3
+
+```markdown
 # Aprenda somente o necessário para avançar
 
 Existe uma armadilha quando começamos um projeto:
@@ -270,6 +273,9 @@ Utiliza
    ↓
 Dá feedback
 
+### PARTE 3/3
+
+```markdown
 # EXPLORE
 
 Escolha alguma coisa que gostaria de aprender.
