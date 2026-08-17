@@ -16,9 +16,9 @@ Livros.
 
 Tecnologias.
 
-Dinheiro.
+Conhecimento.
 
-Mas existe uma coisa ainda mais profunda:
+Mas existe algo ainda mais profundo:
 
 > **As escolhas que fazemos enquanto construímos também deixam marcas.**
 
@@ -28,17 +28,17 @@ A forma como tratamos as pessoas.
 
 A forma como lidamos com erros.
 
-A forma como utilizamos tecnologia.
+A forma como utilizamos a tecnologia.
 
 A forma como respondemos ao poder.
 
-A forma como escolhemos o que merece nossa atenção.
+A forma como escolhemos aquilo que merece nossa atenção.
 
 Tudo isso constrói uma espécie de legado.
 
 ---
 
-# Legado não começa no final
+# LEGADO NÃO COMEÇA NO FINAL
 
 É fácil imaginar que legado é algo que pensamos quando tudo termina.
 
@@ -56,7 +56,7 @@ O legado começa nas pequenas decisões.
 
 ---
 
-# As pessoas observam mais do que você imagina
+# AS PESSOAS OBSERVAM MAIS DO QUE VOCÊ IMAGINA
 
 Você pode explicar seus valores.
 
@@ -64,13 +64,13 @@ Mas as pessoas observam suas ações.
 
 Se você diz:
 
-> “Valorizamos colaboração.”
+> “Valorizamos a colaboração.”
 
 mas nunca escuta ninguém, a mensagem real é outra.
 
 Se diz:
 
-> “Aprendemos com erros.”
+> “Aprendemos com os erros.”
 
 mas pune qualquer erro, as pessoas aprendem a esconder problemas.
 
@@ -84,7 +84,7 @@ Aquilo que fazemos comunica mais do que aquilo que declaramos.
 
 ---
 
-# Cultura nasce das repetições
+# CULTURA NASCE DAS REPETIÇÕES
 
 Uma única decisão pode ser um acontecimento.
 
@@ -108,7 +108,7 @@ Ela é construída por comportamentos repetidos.
 
 ---
 
-# O que você permite também ensina
+# O QUE VOCÊ PERMITE TAMBÉM ENSINA
 
 Nem sempre ensinamos através daquilo que fazemos.
 
@@ -126,7 +126,7 @@ Por isso:
 
 ---
 
-# Ferramentas carregam decisões
+# FERRAMENTAS CARREGAM DECISÕES
 
 Uma tecnologia nunca é apenas tecnologia.
 
@@ -147,7 +147,7 @@ Por isso, projetar uma ferramenta também é projetar possibilidades.
 
 ---
 
-# O design pode orientar comportamentos
+# O DESIGN PODE ORIENTAR COMPORTAMENTOS
 
 Imagine uma aplicação.
 
@@ -161,11 +161,11 @@ Isso significa que designers e criadores possuem uma responsabilidade:
 
 > **Facilitar aquilo que merece ser facilitado.**
 
-Não usar a interface apenas para manipular.
+Não utilizar a interface apenas para manipular.
 
 ---
 
-# Nem toda eficiência é progresso
+# NEM TODA EFICIÊNCIA É PROGRESSO
 
 Imagine que uma nova tecnologia torne uma tarefa dez vezes mais rápida.
 
@@ -185,7 +185,7 @@ Não é automaticamente um objetivo.
 
 ---
 
-# O futuro será construído por pequenas decisões
+# O FUTURO SERÁ CONSTRUÍDO POR PEQUENAS DECISÕES
 
 Quando pensamos no futuro, podemos imaginar grandes acontecimentos.
 
@@ -198,13 +198,13 @@ Mas o futuro também nasce de milhões de pequenas decisões:
 - o que compartilhamos;
 - o que recusamos.
 
-Nenhuma dessas decisões sozinha define o futuro.
+Nenhuma dessas decisões, sozinha, define o futuro.
 
 Mas juntas, elas o constroem.
 
 ---
 
-# Você não precisa saber o efeito final
+# VOCÊ NÃO PRECISA SABER O EFEITO FINAL
 
 É impossível prever todas as consequências de uma criação.
 
@@ -226,7 +226,7 @@ Essa pergunta cria espaço para aprender.
 
 ---
 
-# O legado também está no conhecimento compartilhado
+# O LEGADO TAMBÉM ESTÁ NO CONHECIMENTO COMPARTILHADO
 
 Imagine que você aprendeu algo depois de muitos erros.
 
@@ -242,7 +242,7 @@ Uma experiência individual pode transformar-se em conhecimento coletivo.
 
 ---
 
-# Não subestime uma explicação simples
+# NÃO SUBESTIME UMA EXPLICAÇÃO SIMPLES
 
 Às vezes, uma pessoa não precisa de uma grande invenção.
 
@@ -251,7 +251,7 @@ Precisa que alguém explique uma coisa claramente.
 Uma boa explicação pode:
 
 - reduzir confusão;
-- acelerar aprendizagem;
+- acelerar a aprendizagem;
 - evitar erros;
 - despertar curiosidade;
 - permitir que alguém continue sozinho.
@@ -262,7 +262,7 @@ Conhecimento bem organizado também é uma ferramenta.
 
 ---
 
-# A IA pode ajudar a preservar conhecimento
+# A IA PODE AJUDAR A PRESERVAR CONHECIMENTO
 
 Imagine que uma pessoa possui anos de experiência em determinada área.
 
@@ -283,7 +283,7 @@ Mas pode torná-la mais acessível.
 
 ---
 
-# Não transforme tudo em conteúdo
+# NÃO TRANSFORME TUDO EM CONTEÚDO
 
 Existe uma tentação na era digital:
 
@@ -303,7 +303,7 @@ Significa utilizar conhecimento e comunicação de maneira adequada ao objetivo.
 
 ---
 
-# O que merece permanecer?
+# O QUE MERECE PERMANECER?
 
 Quando construímos algo, podemos perguntar:
 
@@ -325,7 +325,7 @@ Significa identificar aquilo que pode continuar sendo útil.
 
 ---
 
-# O que deve ser deixado para trás?
+# O QUE DEVE SER DEIXADO PARA TRÁS?
 
 Legado também envolve abandonar.
 
@@ -341,13 +341,13 @@ Alguns processos fizeram sentido.
 
 Depois tornaram-se obstáculos.
 
-Continuar carregando tudo apenas porque faz parte da história pode impedir evolução.
+Continuar carregando tudo apenas porque faz parte da história pode impedir a evolução.
 
 Às vezes, construir o futuro exige deixar algumas coisas para trás.
 
 ---
 
-# Aprender a substituir é uma habilidade
+# APRENDER A SUBSTITUIR É UMA HABILIDADE
 
 Imagine que você criou uma solução.
 
@@ -367,7 +367,7 @@ O objetivo não é proteger o que já fizemos.
 
 ---
 
-# O ego pode atrapalhar
+# O EGO PODE ATRAPALHAR
 
 Existe uma armadilha:
 
@@ -381,7 +381,7 @@ Depois:
 
 > “Não quero que ninguém mude.”
 
-Nesse momento, a criação deixa de ser uma ferramenta e começa a tornar-se uma extensão do ego.
+Nesse momento, a criação deixa de ser apenas uma ferramenta e começa a tornar-se uma extensão do ego.
 
 É difícil melhorar algo que precisamos proteger emocionalmente.
 
@@ -391,11 +391,11 @@ Pergunte:
 
 Às vezes, as duas coisas podem acontecer.
 
-Mas quando entram em conflito, precisamos saber o que realmente importa.
+Mas, quando entram em conflito, precisamos saber o que realmente importa.
 
 ---
 
-# Deixe outras pessoas melhorarem aquilo que você começou
+# DEIXE OUTRAS PESSOAS MELHORAREM AQUILO QUE VOCÊ COMEÇOU
 
 Uma criação pode ficar maior quando outras pessoas conseguem modificá-la.
 
@@ -413,7 +413,7 @@ Quando apropriado, abrir espaço para outras pessoas pode multiplicar o valor.
 
 ---
 
-# O criador também precisa saber sair do centro
+# O CRIADOR TAMBÉM PRECISA SABER SAIR DO CENTRO
 
 Pode chegar um momento em que o projeto já não precisa que uma única pessoa esteja presente em todas as decisões.
 
@@ -433,7 +433,7 @@ A melhor prova de liderança nem sempre é:
 
 ---
 
-# Pense nas pessoas que virão depois
+# PENSE NAS PESSOAS QUE VIRÃO DEPOIS
 
 Imagine alguém encontrando seu projeto daqui a cinco anos.
 
@@ -454,7 +454,7 @@ Pensar no futuro usuário é uma forma de respeito.
 
 ---
 
-# Construa pensando no próximo aprendiz
+# CONSTRUA PENSANDO NO PRÓXIMO APRENDIZ
 
 Talvez você seja o primeiro a descobrir alguma coisa.
 
@@ -470,7 +470,7 @@ Assim, o conhecimento acumula.
 
 ---
 
-# O legado mais poderoso pode ser uma capacidade
+# O LEGADO MAIS PODEROSO PODE SER UMA CAPACIDADE
 
 Imagine duas possibilidades.
 
@@ -488,9 +488,9 @@ Por isso:
 
 ---
 
-# Não pense apenas no que deixa
+# NÃO PENSE APENAS NO QUE VOCÊ DEIXA
 
-Pense também no que desperta.
+Pense também no que você desperta.
 
 Uma criação pode despertar:
 
@@ -504,13 +504,13 @@ Talvez alguém veja seu projeto e pense:
 
 > “Eu também quero tentar.”
 
-Essa reação pode ser impossível de medir.
+Essa reação pode ser difícil de medir.
 
 Mas pode ser extremamente importante.
 
 ---
 
-# Um pequeno exemplo
+# UM PEQUENO EXEMPLO
 
 Imagine que alguém crie uma ferramenta simples para organizar projetos.
 
@@ -530,11 +530,11 @@ Isso também é legado.
 
 Nem todo legado preserva o nome do criador.
 
-Às vezes preserva apenas a influência.
+Às vezes, preserva apenas a influência.
 
 ---
 
-# A melhor criação pode ser aquela que gera outras criações
+# A MELHOR CRIAÇÃO PODE SER AQUELA QUE GERA OUTRAS CRIAÇÕES
 
 Existe uma pergunta poderosa:
 
@@ -627,7 +627,7 @@ A criar.
 
 A testar.
 
-A impactar.
+A produzir impacto.
 
 Agora podemos perceber algo ainda maior:
 
