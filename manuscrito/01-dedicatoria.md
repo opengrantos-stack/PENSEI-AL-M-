@@ -1,4 +1,4 @@
- # DEDICATÓRIA
+# DEDICATÓRIA
 
 A todos aqueles que continuam a aprender, mesmo quando o mundo muda.
 
