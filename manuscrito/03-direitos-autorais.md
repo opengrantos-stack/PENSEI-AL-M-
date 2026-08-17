@@ -8,8 +8,8 @@
 
 © 2026 Malaquias Calueio. Todos os direitos reservados.
 
-Nenhuma parte desta publicação pode ser reproduzida, distribuída ou transmitida, total ou parcialmente, por qualquer meio ou forma, sem autorização prévia do autor, exceto em citações breves para fins de crítica, estudo ou referência, respeitando a legislação aplicável.
+Nenhuma parte desta publicação pode ser reproduzida, distribuída ou transmitida, total ou parcialmente, por qualquer meio ou forma, sem autorização prévia do autor, exceto em citações breves para fins de crítica, estudo ou referência, nos termos da legislação aplicável.
 
-Esta obra é um trabalho original do autor. As ideias e opiniões apresentadas refletem o propósito educativo e reflexivo do livro.
+Esta obra é um trabalho original do autor. As ideias e opiniões apresentadas refletem o propósito educativo e reflexivo deste livro.
 
 **Primeira edição — 2026**
