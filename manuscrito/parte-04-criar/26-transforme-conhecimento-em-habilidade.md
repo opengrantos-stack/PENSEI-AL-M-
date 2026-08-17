@@ -663,4 +663,4 @@ E experiência real transforma conhecimento em capacidade.
 
 Quando conhecimento encontra prática, surge uma nova possibilidade:
 
-**você deixa de ser apenas alguém que sabe sobre uma coisa e começa a tornar-se alguém capaz de fazer alguma coisa com ela.**
+**você deixa de ser apenas alguém que sabe sobre uma coisa e começa a tornar-se alguém capaz de fazer alguma coisa com ela.** 
