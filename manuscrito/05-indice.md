@@ -55,7 +55,7 @@
 
 # PARTE V — REALIZAR
 
-### 30. O que você faz com aquilo que criou
+### 30. O produto precisa encontrar pessoas
 ### 31. O impacto começa no pequeno
 ### 32. Transforme impacto em movimento
 ### 33. Quando o impacto encontra responsabilidade
