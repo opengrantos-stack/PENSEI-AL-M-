@@ -30,9 +30,9 @@ A responsabilidade também.
 
 Quando ouvimos “poder”, podemos imaginar governos, grandes empresas ou instituições.
 
-Mas tecnologia mudou parte dessa realidade.
+Mas a tecnologia mudou parte dessa realidade.
 
-Hoje, uma pessoa com um computador e acesso a ferramentas digitais pode criar algo que alcança muitas outras pessoas.
+Hoje, uma pessoa com um computador e acesso a ferramentas digitais pode criar algo que alcance muitas outras pessoas.
 
 Pode publicar informação.
 
@@ -543,7 +543,76 @@ Liste cinco.
 
 Depois classifique cada um:
 
-```text
 Baixo impacto
 Médio impacto
 Alto impacto
+
+Agora escolha os dois problemas de maior impacto.
+
+Para cada um, responda:
+
+> “Como posso reduzir a probabilidade de isso acontecer?”
+
+> “Como posso perceber rapidamente se acontecer?”
+
+> “O que farei se acontecer?”
+
+Esse exercício transforma preocupação abstrata em preparação concreta.
+
+---
+
+# ERRO COMUM
+
+Um erro comum é pensar apenas nos benefícios de uma criação.
+
+Outro é acreditar que boas intenções são suficientes.
+
+Também é perigoso esconder limitações para fazer o projeto parecer melhor.
+
+E existe o erro contrário: ficar tão preocupado com possíveis problemas que nunca começar.
+
+Responsabilidade não significa tentar eliminar toda incerteza.
+
+Significa reconhecer os riscos importantes e criar formas de lidar com eles.
+
+---
+
+# PENSE ALÉM
+
+Quanto maior a capacidade de criar, maior precisa ser a capacidade de pensar nas consequências.
+
+A inteligência artificial pode ampliar nossa capacidade de produzir.
+
+A tecnologia pode ampliar nosso alcance.
+
+A internet pode ampliar nossa voz.
+
+As comunidades podem ampliar nossas ações.
+
+Tudo isso é poderoso.
+
+Mas poder sem reflexão pode produzir resultados que ninguém pretendia.
+
+Por isso, talvez uma das habilidades mais importantes de quem cria no século XXI seja aprender a fazer duas perguntas ao mesmo tempo:
+
+> **“O que podemos construir?”**
+
+e:
+
+> **“O que devemos construir?”**
+
+A primeira pergunta abre possibilidades.
+
+A segunda ajuda a escolher entre elas.
+
+Criar é transformar uma possibilidade em realidade.
+
+Responsabilidade é lembrar que a realidade afeta pessoas.
+
+E quando uma criação começa a crescer, essa responsabilidade não deve diminuir.
+
+**Deve crescer junto.**
+
+Porque o verdadeiro impacto não é apenas conseguir fazer algo acontecer.
+
+É conseguir fazer algo acontecer de maneira consciente, útil e responsável.
