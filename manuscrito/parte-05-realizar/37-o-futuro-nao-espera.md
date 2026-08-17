@@ -271,7 +271,7 @@ Saber utilizar tecnologia pode aumentar muito a capacidade individual.
 
 Mas novamente:
 
-> ferramenta + julgamento > ferramenta sozinha.
+> **ferramenta + julgamento > ferramenta sozinha.**
 
 ---
 
