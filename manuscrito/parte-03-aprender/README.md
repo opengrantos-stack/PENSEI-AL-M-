@@ -16,7 +16,7 @@ O objetivo não é substituir professores, livros ou outras fontes de conhecimen
 14. Crie seu próprio professor
 15. Aprenda fazendo perguntas
 16. Aprende com seus erros
-17. Costura projetos para aprender
+17. Construa projetos para aprender
 18. Ensine para aprender melhor
 19. Aprenda mais rápido, não apenas mais
 20. Aprenda a aprender
