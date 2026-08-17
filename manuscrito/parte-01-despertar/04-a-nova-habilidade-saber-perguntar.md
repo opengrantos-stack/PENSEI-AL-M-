@@ -22,7 +22,11 @@ Então surge uma pergunta:
 
 A resposta não está necessariamente em encontrar uma fórmula secreta.
 
-Está em aprender a **comunicar melhor o pensamento**.
+Está em aprender a **comunicar melhor o próprio pensamento**.
+
+E, para comunicar melhor, precisamos primeiro compreender melhor aquilo que estamos tentando dizer.
+
+---
 
 ## Perguntar sempre foi uma habilidade
 
@@ -44,9 +48,11 @@ A inteligência artificial não mudou a importância das perguntas.
 
 Ela aumentou o valor delas.
 
-Agora temos uma ferramenta que pode responder a uma enorme variedade de perguntas.
+Agora temos ferramentas capazes de responder a uma enorme variedade de perguntas.
 
-Isso significa que precisamos aprender não apenas **o que perguntar**, mas também **como pensar sobre aquilo que queremos perguntar**.
+Isso significa que precisamos aprender não apenas **o que perguntar**, mas também **como pensar sobre aquilo que queremos descobrir**.
+
+---
 
 ## Uma pergunta pequena pode esconder um problema grande
 
@@ -74,11 +80,17 @@ Sem contexto, existem milhares de possibilidades.
 
 A IA precisa preencher as lacunas.
 
-E, quando ela preenche as lacunas, pode escolher exatamente aquilo que você não queria.
+E, quando ela preenche essas lacunas, pode escolher exatamente aquilo que você não queria.
 
-O problema não está necessariamente na inteligência da ferramenta.
+O problema não está necessariamente na capacidade da ferramenta.
 
 Está na falta de informação sobre **a intenção de quem pergunta**.
+
+Uma pergunta melhor não serve apenas para produzir uma resposta melhor.
+
+Serve para tornar o próprio problema mais claro.
+
+---
 
 ## Contexto transforma a conversa
 
@@ -108,6 +120,10 @@ Ela apresenta:
 Não é uma questão de escrever uma pergunta enorme.
 
 É uma questão de fornecer **o contexto necessário**.
+
+Quanto melhor a IA compreender a situação, menor será a necessidade de ela preencher as lacunas por conta própria.
+
+---
 
 ## A anatomia de uma boa pergunta
 
@@ -151,6 +167,12 @@ Diga como as opções devem ser comparadas.
 
 Agora a conversa tem direção.
 
+Você não precisa utilizar todos esses elementos em todas as perguntas.
+
+O importante é perceber quais informações são necessárias para que a outra parte compreenda **o que você realmente está tentando alcançar**.
+
+---
+
 ## Perguntar não significa mandar
 
 Existe outra mudança de mentalidade importante.
@@ -185,7 +207,11 @@ Depois:
 
 Depois:
 
-> “Qual delas parece mais simples para começar e por quê?”
+> “Quais seriam os principais riscos de cada um?”
+
+E então:
+
+> “Qual parece mais simples para começar e por quê?”
 
 A conversa evolui.
 
@@ -193,9 +219,11 @@ A primeira pergunta abre a porta.
 
 As seguintes ajudam a explorar o espaço.
 
+---
+
 ## A primeira resposta não precisa ser a última
 
-Uma das maiores mudanças de mentalidade é entender que conversar com IA é um processo.
+Uma das maiores mudanças de mentalidade é entender que conversar com IA pode ser um processo.
 
 Você pergunta.
 
@@ -239,6 +267,10 @@ Você não encontrou uma pergunta perfeita.
 
 **Você construiu a resposta através da conversa.**
 
+Essa é uma das diferenças entre simplesmente consultar uma ferramenta e realmente trabalhar com ela.
+
+---
+
 ## O poder da segunda pergunta
 
 Muitas vezes, a segunda pergunta é mais importante que a primeira.
@@ -273,6 +305,12 @@ Essas perguntas fazem algo importante:
 
 Elas obrigam você a continuar pensando.
 
+A conversa deixa de ser apenas uma busca por respostas.
+
+Passa a ser uma forma de **explorar o próprio problema**.
+
+---
+
 ## Pergunte também a si mesmo
 
 Existe uma pergunta que deve vir antes de todas as outras:
@@ -296,6 +334,12 @@ A primeira pergunta procura uma ferramenta.
 A segunda procura o problema real.
 
 Quanto melhor você compreender a pergunta que está por trás da pergunta, melhor poderá utilizar a IA.
+
+E isso vale mesmo quando não existe inteligência artificial envolvida.
+
+Uma pergunta bem formulada pode mudar a maneira como enxergamos uma situação.
+
+---
 
 ## EXPERIMENTE
 
@@ -332,6 +376,16 @@ Agora compare as duas respostas.
 
 Observe a diferença.
 
+Não procure apenas qual resposta parece melhor.
+
+Pergunte:
+
+**“Qual delas compreendeu melhor o que eu realmente queria descobrir?”**
+
+Essa é uma habilidade que vai muito além dos prompts.
+
+---
+
 ## EXEMPLO
 
 Imagine que você tenha uma ideia para uma aplicação.
@@ -339,6 +393,26 @@ Imagine que você tenha uma ideia para uma aplicação.
 Uma solicitação simples seria:
 
 > “Crie uma aplicação para agricultores.”
+
+A IA pode começar a construir uma solução imediatamente.
+
+Mas ainda existem muitas perguntas sem resposta.
+
+Quem são os agricultores?
+
+Quem são os compradores?
+
+Onde a aplicação será utilizada?
+
+Como os produtos serão publicados?
+
+Como os compradores entrarão em contato?
+
+Haverá pagamentos?
+
+Como funcionará a entrega?
+
+Quais recursos são realmente necessários na primeira versão?
 
 Uma solicitação mais desenvolvida poderia ser:
 
@@ -351,6 +425,10 @@ Ela não pede apenas uma resposta.
 Ela pede **perguntas que ajudam a construir o problema**.
 
 Essa pode ser uma das formas mais poderosas de trabalhar com IA.
+
+Às vezes, antes de procurar a solução, precisamos descobrir quais são as perguntas certas.
+
+---
 
 ## ERRO COMUM
 
@@ -376,7 +454,19 @@ E existe um terceiro erro:
 
 A primeira resposta pode ser apenas o início.
 
-## PENSE ALÉM
+Existe ainda um quarto erro:
+
+**fazer perguntas sem saber o que realmente queremos descobrir.**
+
+Nesse caso, podemos receber respostas cada vez melhores para a pergunta errada.
+
+Por isso, antes de perguntar à máquina, vale perguntar a nós mesmos:
+
+> **“Estou tentando resolver o problema certo?”**
+
+---
+
+# PENSE ALÉM
 
 Talvez uma das habilidades mais importantes da era da inteligência artificial não seja saber responder.
 
@@ -412,6 +502,18 @@ pode ser menos importante do que:
 
 > “Estou tentando resolver o problema certo?”
 
+Essa mudança é profunda.
+
+Porque uma pessoa que sabe perguntar não depende apenas das respostas que recebe.
+
+Ela consegue investigar.
+
+Consegue questionar.
+
+Consegue comparar.
+
+Consegue descobrir aquilo que ainda não sabe.
+
 A inteligência artificial pode responder milhares de perguntas.
 
 Mas nenhuma ferramenta pode decidir quais perguntas realmente importam para a sua vida.
@@ -420,4 +522,14 @@ Essa parte continua sendo humana.
 
 > **Aprenda a perguntar melhor e você não estará apenas melhorando suas conversas com IA. Estará melhorando a maneira como pensa.**
 
-E talvez seja exatamente aí que comece o verdadeiro **PENSEI ALÉM**.
+Talvez essa seja a verdadeira nova habilidade.
+
+Não aprender a falar com máquinas como se fôssemos máquinas.
+
+Mas aprender a organizar melhor aquilo que pensamos, aquilo que queremos descobrir e aquilo que queremos construir.
+
+Porque, no fim, uma boa pergunta não é apenas uma porta para uma resposta.
+
+**É uma porta para uma possibilidade que ainda não conseguimos enxergar.**
+
+E talvez seja exatamente aí que começa o verdadeiro **PENSEI ALÉM**.
