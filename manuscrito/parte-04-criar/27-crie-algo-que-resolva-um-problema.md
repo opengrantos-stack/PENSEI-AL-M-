@@ -702,4 +702,4 @@ Pode começar com alguém observando uma pequena dificuldade e perguntando:
 
 Quando tecnologia, conhecimento e criatividade encontram uma necessidade real, a criação deixa de ser apenas uma possibilidade.
 
-Começa a tornar-se uma solução.
+Começa a tornar-se uma solução. 
