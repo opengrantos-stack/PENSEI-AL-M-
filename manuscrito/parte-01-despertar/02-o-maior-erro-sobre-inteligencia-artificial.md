@@ -16,15 +16,17 @@ Um GPS pode indicar um caminho. Isso não significa que deixamos de decidir para
 
 Uma câmera pode registrar uma imagem. Isso não significa que deixamos de precisar de alguém para decidir o que fotografar.
 
-Com a inteligência artificial, a diferença é ainda mais importante.
+Com a inteligência artificial, essa diferença torna-se ainda mais importante.
 
-Porque, pela primeira vez, estamos diante de ferramentas capazes de participar de tarefas que envolvem linguagem, análise, criação e raciocínio.
+Porque estamos diante de ferramentas capazes de participar de tarefas que envolvem linguagem, análise, criação e resolução de problemas.
 
 E isso pode criar uma tentação:
 
-**“Se a IA pode pensar por mim, por que eu deveria pensar?”**
+**“Se a IA consegue fazer isso por mim, por que eu deveria pensar sobre isso?”**
 
 Essa pode ser uma das perguntas mais perigosas da era da inteligência artificial.
+
+---
 
 ## O problema não é usar IA
 
@@ -32,7 +34,7 @@ Usar uma ferramenta poderosa não é o problema.
 
 O problema começa quando deixamos de saber **por que estamos usando**, **o que estamos procurando** e **se o resultado faz sentido**.
 
-Imagine alguém que pede à IA para escolher entre duas decisões importantes.
+Imagine alguém que pede à IA para analisar duas opções importantes.
 
 A ferramenta apresenta uma resposta muito bem escrita.
 
@@ -44,9 +46,9 @@ Não verificou as informações.
 
 Não considerou as consequências.
 
-Nesse momento, a IA deixou de ser uma ferramenta de apoio.
+Nesse momento, a IA deixou de ser apenas uma ferramenta de apoio.
 
-Ela passou a ocupar o lugar da decisão.
+Ela passou a ocupar um espaço que deveria continuar pertencendo à pessoa: **o da decisão**.
 
 E existe uma diferença fundamental entre as duas situações.
 
@@ -60,7 +62,9 @@ E existe uma diferença fundamental entre as duas situações.
 
 A primeira amplia o pensamento.
 
-A segunda pode substituí-lo.
+A segunda pode enfraquecê-lo.
+
+---
 
 ## Resposta não é conhecimento
 
@@ -86,9 +90,15 @@ O leitor deste livro precisa desenvolver um novo hábito:
 
 Esse processo é mais importante do que encontrar o prompt perfeito.
 
+Porque uma boa pergunta pode produzir uma boa resposta.
+
+Mas somente o pensamento crítico pode ajudar a determinar **o que fazer com essa resposta**.
+
+---
+
 ## A nova alfabetização
 
-No passado, aprender a utilizar um computador significava aprender a operar uma ferramenta.
+No passado, aprender a utilizar um computador significava, em grande parte, aprender a operar uma ferramenta.
 
 Hoje, estamos entrando numa época em que será cada vez mais importante aprender a **colaborar com sistemas de inteligência artificial**.
 
@@ -116,6 +126,8 @@ A verdadeira habilidade não será simplesmente conseguir uma resposta da IA.
 
 Será conseguir **fazer alguma coisa inteligente com a resposta**.
 
+---
+
 ## O ser humano continua sendo o responsável
 
 Imagine que você peça à IA:
@@ -142,13 +154,19 @@ Talvez uma opção seja mais lucrativa.
 
 Outra talvez tenha maior impacto social.
 
-Outra talvez esteja alinhada com aquilo que você realmente deseja construir.
+Outra talvez esteja mais alinhada com aquilo que você realmente deseja construir.
 
 Os critérios não são apenas matemáticos.
 
 Existem valores, objetivos, experiências e consequências.
 
 É por isso que a IA pode ajudar na análise, mas a decisão precisa continuar ligada à pessoa que será responsável por ela.
+
+A ferramenta pode mostrar caminhos.
+
+**Você escolhe por qual deles caminhar.**
+
+---
 
 ## A calculadora não matou a matemática
 
@@ -175,6 +193,8 @@ Se consegue criar um protótipo, podemos testar uma ideia mais rapidamente.
 A ferramenta não precisa diminuir o pensamento.
 
 **Pode liberar espaço para pensamentos melhores.**
+
+---
 
 ## O verdadeiro ganho
 
@@ -205,6 +225,12 @@ Recomeçar.
 A distância entre pensamento e experimentação diminui.
 
 E isso pode transformar a maneira como aprendemos e criamos.
+
+Talvez esse seja um dos maiores benefícios da IA:
+
+**não apenas fazer mais rapidamente, mas permitir que experimentemos mais possibilidades.**
+
+---
 
 ## Mas existe uma armadilha
 
@@ -246,6 +272,12 @@ Mas apenas uma delas realmente **trabalhou com a ferramenta**.
 
 Essa diferença será fundamental para tudo o que veremos neste livro.
 
+A primeira pessoa utilizou a IA para terminar uma tarefa.
+
+A segunda utilizou a IA como parte de um processo de pensamento e criação.
+
+---
+
 ## EXPERIMENTE
 
 Escolha uma decisão simples que você precise tomar.
@@ -280,6 +312,14 @@ O objetivo deste exercício não é descobrir o que a IA escolheria.
 
 É descobrir **o que você consegue enxergar depois de conversar com ela**.
 
+Essa é uma diferença importante.
+
+Você não está procurando uma máquina que pense no seu lugar.
+
+Está procurando uma ferramenta que ajude você a **enxergar melhor aquilo que precisa pensar**.
+
+---
+
 ## ERRO COMUM
 
 O erro mais comum é transformar a IA em uma autoridade.
@@ -304,7 +344,17 @@ A pergunta correta não é:
 
 Quanto mais importante for a decisão, maior deve ser o cuidado.
 
-## PENSE ALÉM
+Uma resposta pode ser útil.
+
+Uma análise pode ser excelente.
+
+Uma sugestão pode abrir uma possibilidade.
+
+Mas nenhuma delas elimina a necessidade de pensar.
+
+---
+
+# PENSE ALÉM
 
 A inteligência artificial pode fazer uma quantidade cada vez maior de trabalho.
 
@@ -340,7 +390,13 @@ Mas existe algo que continua sendo seu:
 
 **a escolha de onde ir.**
 
-**Use a inteligência artificial para ampliar o seu pensamento. Não para terceirizá-lo.**
+A inteligência artificial pode ajudar a iluminar caminhos.
+
+**Mas não precisa escolher o destino.**
+
+Use a inteligência artificial para ampliar o seu pensamento.
+
+**Não para terceirizá-lo.**
 
 Porque pensar além não significa pensar menos.
 
